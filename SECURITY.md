@@ -1,7 +1,7 @@
 # Security Policy
 
 Please report suspected vulnerabilities privately by emailing
-[trivolivia](mailto:craffey.n@gmail.com). Include a clear description,
+[trivolivia](mailto:support@trivolivia.com). Include a clear description,
 affected URL or feature, reproduction steps, and potential impact when possible.
 
 Please do not publish exploit details or access, change, retain, or disclose data

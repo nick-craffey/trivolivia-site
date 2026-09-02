@@ -1,4 +1,4 @@
-Contact: mailto:craffey.n@gmail.com
+Contact: mailto:support@trivolivia.com
 Expires: 2027-08-28T23:59:59Z
 Preferred-Languages: en
 Canonical: https://trivolivia.com/.well-known/security.txt
