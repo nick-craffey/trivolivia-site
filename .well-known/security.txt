@@ -1,0 +1,5 @@
+Contact: mailto:craffey.n@gmail.com
+Expires: 2027-08-28T23:59:59Z
+Preferred-Languages: en
+Canonical: https://trivolivia.com/.well-known/security.txt
+Policy: https://trivolivia.com/SECURITY.md

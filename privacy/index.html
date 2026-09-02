@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#fafafa" />
+    <meta name="description" content="How trivolivia handles data on the website and in the app." />
+    <meta name="robots" content="noindex, follow" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'; img-src 'self' data:; script-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests" />
+    <link rel="canonical" href="https://trivolivia.com/privacy/" />
+    <link rel="stylesheet" href="../legal.css" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/trivolivia-icon-2026-08.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <title>Privacy Policy · trivolivia</title>
+  </head>
+  <body>
+    <header class="site-header shell">
+      <a class="brand" href="../" aria-label="trivolivia home">
+        <span class="brand-mark" aria-hidden="true">?</span>
+        <span>trivolivia</span>
+      </a>
+      <nav class="header-links" aria-label="Primary navigation">
+        <a href="../terms/">Terms</a>
+        <a href="/play/">Open the app</a>
+      </nav>
+    </header>
+
+    <main class="shell">
+      <div class="legal-hero">
+        <h1>Privacy Policy</h1>
+        <p class="lede">This policy explains how trivolivia handles information in its local-first game, optional social features, public share links, and support channels.</p>
+        <p class="updated"><strong>Effective and last updated:</strong> September 2, 2026</p>
+      </div>
+
+      <article class="legal-card">
+        <p class="notice"><strong>At a glance:</strong> core play is local-first and needs no account. Your full learning history, Knowledge DNA, interests, and review schedule stay on your device. If you intentionally create a social identity, trivolivia sends the limited Daily results and profile information needed for challenges, Braintrusts, channels, and anonymous answer distributions. There are no ads or cross-site trackers.</p>
+
+        <section>
+          <h2>Scope</h2>
+          <p>This Privacy Policy applies to the trivolivia website at <strong>trivolivia.com</strong>, the trivolivia app, the optional social API at <strong>social-us-central1-m1rif45.uc.gateway.dev</strong>, the social share service at <strong>trivolivia-social-prod.web.app</strong>, and official challenge, Braintrust, and channel links. In this policy, “we” and “us” refer to trivolivia.</p>
+        </section>
+
+        <section>
+          <h2>Local-first information on your device</h2>
+          <p>trivolivia uses app or browser storage to save information such as:</p>
+          <ul>
+            <li>current sessions, answers, question history, Daily Five results, and skipped questions;</li>
+            <li>interests, cached Topic Sprint decks, recent topic searches, and followed-channel preferences;</li>
+            <li>review timing, progress, and the bounded answer ledger used to calculate Knowledge DNA on the device;</li>
+            <li>cached Daily editions and immutable challenge manifests; and</li>
+            <li>preferences, data-version information used for safe recovery, and—only after you enable social features—a random social identifier and secret access credential. Native apps place that credential in platform-protected Keychain or Keystore storage; the web app uses origin-scoped encrypted browser storage protected with Web Crypto.</li>
+          </ul>
+          <p>Core play does not upload your complete answer history, Knowledge DNA profile, interests, review schedule, or ordinary non-Daily rounds to trivolivia. You can remove individual sessions from <strong>History</strong>, clear Knowledge DNA in the app, or remove all local information by clearing trivolivia site data or uninstalling the app. Clearing Knowledge DNA keeps saved quest and Daily history but records a local reset boundary so those older answers do not recreate the profile; only future answers begin a new profile. Clearing all local data erases progress and may also erase the only copy of your secret social credential.</p>
+        </section>
+
+        <section>
+          <h2>Optional social identity and information sent to trivolivia</h2>
+          <p>You do not need social features to play. If you choose to enable them, the app creates a pseudonymous guest identity without asking for an email address, phone number, password, contacts, or real name. We receive and store:</p>
+          <ul>
+            <li>a random guest identifier, your chosen display name (or the default “Curious player”), a one-way hash of the secret credential held on your device, and creation and recent-use timestamps;</li>
+            <li>verified Daily result data: edition and content identifiers, the five card identifiers, selected answer positions, correctness outcomes, categories, score, and completion time;</li>
+            <li>challenge records and responses, including the challenger or respondent display name, edition, selected challenge question, score and correctness pattern, response count, and timestamps;</li>
+            <li>Braintrust names, membership, role, display names, Daily results copied into that group, standings, streaks, category crowns, and computed recaps;</li>
+            <li>for player-created channels, the channel name, description, selected categories, owner display name, and timestamps; and</li>
+            <li>security and rate-limiting records needed to protect the service.</li>
+          </ul>
+          <p>We use this information only to provide and secure the social features you request: verify scores against the published edition, prevent answer tampering and abuse, show comparisons, calculate group summaries, choose channel rounds, and maintain the service. We do not use it for advertising or behavioral analytics.</p>
+          <p>The app may fetch the public channel catalog before you create a social identity. That request carries ordinary connection information, such as an IP address and request headers, but no social credential, answer history, Knowledge DNA, interests, or review schedule.</p>
+        </section>
+
+        <section>
+          <h2>Who can see social information</h2>
+          <ul>
+            <li><strong>Read the Room:</strong> a distribution is available only to a pseudonymous identity that has already submitted the same exact Daily edition. It remains unavailable until at least 10 verified pseudonymous submissions exist. Returned percentages are rounded to five-percentage-point buckets and do not include guest identifiers or display names.</li>
+            <li><strong>Challenges:</strong> anyone with an active challenge link can see the challenger’s display name, edition, target question, expiration, and response count. The challenger’s score and answer pattern stay hidden from a recipient until that recipient submits the same verified edition. A challenger can see responses to their challenge; a respondent sees their own comparison.</li>
+            <li><strong>Braintrusts:</strong> a valid invite page displays the group name. Members can see other members’ display names and the group’s recent Daily standings, streak, crowns, and recap. Invite links contain a secret token and are valid for seven days unless the owner replaces the link, ownership transfers and rotates it, or the group closes. A full group does not accept another member, but the unexpired invite may accept a request later if a seat becomes available. An expired or invalid invite page does not reveal the group name.</li>
+            <li><strong>Channels:</strong> player-created channel names, descriptions, category selections, owner display names, and share pages are public. A channel chooses from reviewed trivolivia questions; it does not publish custom question text.</li>
+          </ul>
+          <p>Please use a pseudonym and do not place sensitive personal information in a display name, Braintrust name, channel name, or channel description. Information that another person copies, screenshots, or shares outside trivolivia is outside our control.</p>
+        </section>
+
+        <section>
+          <h2>Topic Sprint and source links</h2>
+          <p>When you request a Topic Sprint that is not already cached, the topic term is sent directly to the English-language Wikipedia API to find and retrieve relevant pages. Wikimedia receives the request and ordinary connection information under the <a href="https://foundation.wikimedia.org/wiki/Policy:Privacy_policy">Wikimedia Foundation Privacy Policy</a>. The resulting deck and topic are cached on your device; trivolivia’s social service does not receive the search term.</p>
+          <p>Question explanations include links to third-party sources. If you open one, you leave trivolivia, and the destination receives the request and may collect information under its own privacy policy. Sharing through your device also gives the link—and any text you choose to add—to the operating system and destination service you select. trivolivia does not receive your address book or learn whom you contacted through the system share sheet.</p>
+        </section>
+
+        <section>
+          <h2>Service providers and technical information</h2>
+          <p>The public website is delivered through GitHub Pages. GitHub may process information needed to deliver and secure pages, such as IP address, device or browser information, requested URL, and time, under the <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub General Privacy Statement</a>. We do not receive a visitor-level analytics feed from ordinary GitHub Pages delivery.</p>
+          <p>The optional social API is delivered through Google Cloud API Gateway, and the social service and share pages run on Google Firebase and Google Cloud in the United States. Google processes stored social records and ordinary service data, including request metadata and logs, on our behalf under its applicable <a href="https://firebase.google.com/support/privacy">Firebase privacy and security terms</a>. These providers may process information in countries other than the one where you live.</p>
+          <p>trivolivia does not add advertising SDKs, third-party visitor analytics, session recording, or tracking pixels. We may review limited operational logs when necessary to investigate reliability, security, or abuse.</p>
+        </section>
+
+        <section>
+          <h2>Cookies, caching, and tracking</h2>
+          <p>trivolivia does not set cookies for accounts, advertising, or analytics. Browser storage and cached site files support local progress and faster loading. The social service uses the secret credential stored by the app rather than a tracking cookie. On the web, encrypted credential storage is still part of the same website origin: clearing browser data can erase it, and malicious code running with that origin’s privileges could access it. Native Keychain or Keystore storage provides a stronger platform boundary but cannot protect an unlocked, compromised device.</p>
+          <p>The app does not track you across other companies’ websites or apps, sell personal information, or share personal information for cross-context behavioral advertising. We have not sold or shared personal information for those purposes.</p>
+          <p>Because trivolivia does not perform cross-site tracking, it does not respond differently to browser “Do Not Track” signals.</p>
+        </section>
+
+        <section>
+          <h2>Retention and deletion</h2>
+          <p>Local information remains until the app removes it under its bounded-history rules or you clear it. Attributable Daily result rows and their Braintrust copies are scheduled for automatic deletion 31 days after submission. Challenges and challenge-response records stop working and are scheduled for automatic deletion 14 days after challenge creation. Firestore’s deletion process can occur after the scheduled time, and limited provider backups may take longer to cycle out.</p>
+          <p>You can use <strong>Delete social data</strong> in the app while your credential is available. The service deletes your guest profile, individual Daily results, challenge responses you wrote, responses to challenges you owned, memberships and Braintrust result copies, and channels and challenges you own. A populated Braintrust you own transfers to its longest-tenured remaining member and receives a new invite; a sole-member Braintrust and its artifacts are deleted.</p>
+          <p>Aggregate Daily answer totals are not reversed and may remain because they contain no guest identifier. Leaving a Braintrust or deleting social data removes attributable Braintrust result copies that still exist within the 31-day retention window and adjusts their frozen round counts. After those result rows expire, an older anonymous frozen-round record may retain an already-counted play because it can no longer be linked to you. That record keeps only the Braintrust ID, edition, frozen member count, participation threshold, anonymous participant count, quorum timing, and timestamps—not your guest identifier or answer. Rate-limit counters are scheduled to expire at the end of their one-hour or 24-hour window. After social deletion, a minimal tombstone containing the credential hash and deletion timestamps remains for 24 hours so a lost deletion response can be retried safely. Limited provider logs, backups, and records required for legal obligations may remain for a reasonable period and are isolated or deleted under operational retention cycles.</p>
+          <p>Deleting social data does not clear local learning history, and clearing local app data does not send a server-deletion request. To erase both, use the in-app controls before clearing or uninstalling. If you lose the only copy of your social credential, contact us; we may request enough information to locate and verify a deletion request, and in some cases may be unable to reconnect an otherwise pseudonymous record to you.</p>
+        </section>
+
+        <section>
+          <h2>Your choices and rights</h2>
+          <p>You can play without a social identity, choose or change a display name, leave a Braintrust, replace a Braintrust invite if you are its owner, unfollow a channel locally, and delete your social data. You may also ask to access, correct, or delete information associated with you, or object to or restrict processing where local law provides those rights.</p>
+          <p>Where applicable, we process social information to provide the features you request, to pursue legitimate interests in service security and integrity, to respond with your consent or at your direction, and to comply with law. You may contact us to exercise a privacy right or appeal a decision. We will not discriminate against you for making a valid request.</p>
+        </section>
+
+        <section>
+          <h2>Contacting us</h2>
+          <p>If you email us, we receive the email address, message, and any information you choose to include. We use it to respond, address safety or support issues, and maintain necessary business records. We do not sell it or use it for advertising. We retain correspondence only as long as reasonably needed for those purposes or legal obligations.</p>
+        </section>
+
+        <section>
+          <h2>Children</h2>
+          <p>trivolivia is intended for people age 13 and older and is not directed to children under 13. We do not knowingly collect personal information from children under 13. Do not create a social identity if you are under 13. A parent or guardian who believes a child sent personal information to us may contact us to request deletion.</p>
+        </section>
+
+        <section>
+          <h2>Security</h2>
+          <p>Core learning data remains on your device. Social requests use HTTPS; the service stores a one-way hash rather than the secret credential itself; native apps use platform-protected credential storage; Android backup and device-transfer extraction are disabled for app data; and direct client access to the social database is denied. Treat your device-held credential and Braintrust invite links like passwords. No internet service is perfectly secure, so we cannot guarantee absolute security. Please do not include sensitive personal information in names, descriptions, or support emails.</p>
+        </section>
+
+        <section>
+          <h2>Changes to this policy</h2>
+          <p>We may update this policy when the app or its services change. The effective date above will change when revisions are posted. If a change materially affects how we handle information, we will provide a prominent notice where reasonably practical.</p>
+        </section>
+
+        <section>
+          <h2>Contact</h2>
+          <p>For privacy questions or deletion requests, <a href="mailto:craffey.n@gmail.com">contact trivolivia</a>.</p>
+        </section>
+      </article>
+    </main>
+
+    <footer class="shell">
+      <div>© 2025–2026 trivolivia. All rights reserved.</div>
+      <nav class="footer-links" aria-label="Legal and support">
+        <a href="../">Home</a>
+        <a href="../terms/">Terms</a>
+        <a href="../notices/">Open source notices</a>
+        <a href="mailto:craffey.n@gmail.com">Contact</a>
+      </nav>
+    </footer>
+  </body>
+</html>

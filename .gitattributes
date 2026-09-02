@@ -1,0 +1,5 @@
+play/** -diff linguist-generated=true
+notices/third-party-licenses.txt -diff linguist-generated=true
+*.png binary
+*.webp binary
+*.wasm binary

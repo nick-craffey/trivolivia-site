@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-01",
+  "version": "auto-v2-20260901T231449Z",
+  "digest": "2a81e4b1620014764c3979c6b24d173690a09323708247faf0f1a197efcba95a",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-01T23:14:49.000Z",
+  "validFrom": "2026-09-01T00:00:00.000Z",
+  "expiresAt": "2026-09-02T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "nasa-83f747b04b",
+      "difficulty": 1,
+      "category": "Science & Nature",
+      "archetype": "hiddenIdentity",
+      "question": "When glacier ice cracks off into the ocean and becomes an iceberg, what is that process called?",
+      "choices": [
+        "Calving",
+        "Condensation",
+        "Sublimation",
+        "Weathering"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Calving",
+      "answerExplanation": "Calving is when ice cracks and breaks from a glacier front into iceberg-sized chunks. Sublimation changes ice directly into water vapor, while weathering breaks down rock and other materials over time.",
+      "whyNow": "NASA reported on September 1 that a huge ice island had broken from Greenland's Petermann Glacier and begun drifting away.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-01",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "NASA",
+          "title": "The Anatomy of Glacial Ice Loss",
+          "canonicalArticleUrl": "https://www.nasa.gov/science-research/earth-science/the-anatomy-of-glacial-ice-loss/",
+          "checkedAt": "2026-09-01T23:00:32.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Ice Island Survives Run-In With Joe Island",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
+          "publishedAt": "2026-09-01T04:00:00.000Z",
+          "checkedAt": "2026-09-01T23:14:49.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-01T23:00:32.000Z"
+    },
+    {
+      "id": "global-voices-3bc0f60567",
+      "difficulty": 1,
+      "category": "Everyday Life",
+      "archetype": "mechanism",
+      "question": "When a power cut stops a city's water pumps, which service can be disrupted most directly?",
+      "choices": [
+        "Pressurized water delivery",
+        "Water disinfection",
+        "Rainwater collection",
+        "Salt removal"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Pressurized water delivery",
+      "answerExplanation": "Pumps help move water through distribution pipes at usable pressure, so outages can quickly interrupt delivery to taps. Disinfection is vital for safety, but it is a different treatment step and may not stop immediately with a pump outage.",
+      "whyNow": "September 1 reporting from Cyrenaica described blackouts that stopped wells and pumping stations, worsening water shortages.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-01",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. Environmental Protection Agency",
+          "title": "Drinking Water Distribution Systems",
+          "canonicalArticleUrl": "https://www.epa.gov/dwsixyearreview/drinking-water-distribution-systems",
+          "checkedAt": "2026-09-01T23:00:32.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "When the lights go out in Libya’s Cyrenaica",
+          "publisher": "Global Voices",
+          "canonicalArticleUrl": "https://globalvoices.org/2026/09/01/when-the-lights-go-out-in-libyas-cyrenaica/",
+          "publishedAt": "2026-09-01T06:15:21.000Z",
+          "checkedAt": "2026-09-01T23:14:49.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-01T23:00:32.000Z"
+    },
+    {
+      "id": "gov-uk-7db85b6111",
+      "difficulty": 2,
+      "category": "World & Society",
+      "archetype": "appliedScenario",
+      "question": "Why do outbreak teams follow up with people who had close contact with a patient?",
+      "choices": [
+        "To monitor illness and limit further spread",
+        "To identify the original animal host",
+        "To measure how fast the virus mutates",
+        "To set the price of treatment"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "To monitor illness and limit further spread",
+      "answerExplanation": "Contact follow-up watches exposed people for symptoms so they can receive care quickly and avoid further transmission. Identifying an animal host can matter to research, but it is not the immediate purpose of following contacts during an outbreak.",
+      "whyNow": "UK support announced on September 1 includes disease surveillance and infection prevention during an ongoing Ebola outbreak in the DRC.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-01",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "World Health Organization",
+          "title": "Infection prevention and control: Contact tracing",
+          "canonicalArticleUrl": "https://www.who.int/news-room/questions-and-answers/item/contact-tracing",
+          "checkedAt": "2026-09-01T23:00:32.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "UK accelerates support for efforts to stop Ebola outbreak at source",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/uk-accelerates-support-for-efforts-to-stop-ebola-outbreak-at-source",
+          "publishedAt": "2026-09-01T20:21:58.000Z",
+          "checkedAt": "2026-09-01T23:14:49.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-01T23:00:32.000Z"
+    },
+    {
+      "id": "nasa-fef9ee352b",
+      "difficulty": 2,
+      "category": "Arts & Culture",
+      "archetype": "historicalEcho",
+      "question": "What makes a full Moon a Harvest Moon?",
+      "choices": [
+        "It is nearest the autumnal equinox",
+        "It is farthest from Earth",
+        "It occurs during a lunar eclipse",
+        "It rises exactly at midnight"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "It is nearest the autumnal equinox",
+      "answerExplanation": "The Harvest Moon is the full Moon nearest the autumnal equinox. It is not defined by distance, eclipse status, or one exact clock time; the name reflects its traditional usefulness near harvest season.",
+      "whyNow": "NASA's September skywatching guide highlights a Harvest Moon arriving near Saturn and Neptune later this month.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-01",
+      "eventStatus": "scheduled",
+      "coreFactSources": [
+        {
+          "publisher": "NASA",
+          "title": "Harvest Moon",
+          "canonicalArticleUrl": "https://science.nasa.gov/resource/harvest-moon/",
+          "checkedAt": "2026-09-01T23:00:32.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "What’s Up: September 2026 Skywatching Tips from NASA",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/",
+          "publishedAt": "2026-09-01T19:15:25.000Z",
+          "checkedAt": "2026-09-01T23:14:49.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-01T23:00:32.000Z"
+    },
+    {
+      "id": "bbc-news-3b419fdab9",
+      "difficulty": 3,
+      "category": "Sports & Games",
+      "archetype": "system",
+      "question": "In a rolling tennis ranking, results are counted over what time span?",
+      "choices": [
+        "The previous 52 weeks",
+        "The current calendar year",
+        "A player's whole career",
+        "The current tournament only"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "The previous 52 weeks",
+      "answerExplanation": "WTA rankings use a rolling, cumulative 52-week system, so older results eventually drop out. A calendar-year table would reset on January 1, which is not how the regular rankings work.",
+      "whyNow": "Rybakina's September 1 push toward world number one spotlights how tennis rankings move week by week.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-01",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "WTA",
+          "title": "Rankings Explained",
+          "canonicalArticleUrl": "https://www.wtatennis.com/rankings-explained",
+          "checkedAt": "2026-09-01T23:00:32.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Rybakina makes winning start in race to number one",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/sport/tennis/articles/c0m3wv4e7vlo",
+          "publishedAt": "2026-09-01T21:18:05.000Z",
+          "checkedAt": "2026-09-01T23:14:49.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-01T23:00:32.000Z"
+    }
+  ]
+}

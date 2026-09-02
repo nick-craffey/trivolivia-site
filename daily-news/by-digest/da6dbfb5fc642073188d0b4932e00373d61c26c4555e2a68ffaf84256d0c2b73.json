@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-08-29",
+  "version": "auto-v2-20260829T192011Z",
+  "digest": "da6dbfb5fc642073188d0b4932e00373d61c26c4555e2a68ffaf84256d0c2b73",
+  "title": "Today’s News",
+  "generatedAt": "2026-08-29T19:20:11.000Z",
+  "validFrom": "2026-08-29T00:00:00.000Z",
+  "expiresAt": "2026-08-30T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "global-voices-6beda392e4",
+      "difficulty": 1,
+      "category": "World Affairs",
+      "archetype": "system",
+      "question": "A family flees gang violence but stays within Haiti’s borders. Which term best describes them?",
+      "choices": [
+        "Internally displaced people",
+        "Refugees",
+        "Asylum seekers",
+        "Stateless people"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Internally displaced people",
+      "answerExplanation": "The border is the key distinction. Internally displaced people have been forced from home but remain inside their own country; refugees have crossed an international border.",
+      "whyNow": "Global Voices reported that Haiti’s continuing security crisis is forcing more people from their homes and into relocation.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-08-29",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "UNHCR",
+          "title": "Internally Displaced People",
+          "canonicalArticleUrl": "https://www.unhcr.org/about-unhcr/who-we-protect/internally-displaced-people",
+          "checkedAt": "2026-08-29T18:50:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Haiti’s security crisis forces displacement and relocation",
+          "publisher": "Global Voices",
+          "canonicalArticleUrl": "https://globalvoices.org/2026/08/29/haitis-security-crisis-forces-displacement-and-relocation/",
+          "publishedAt": "2026-08-29T11:04:36.000Z",
+          "checkedAt": "2026-08-29T19:20:11.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-29T18:50:00.000Z"
+    },
+    {
+      "id": "the-white-house-857267c5a0",
+      "difficulty": 1,
+      "category": "Geography",
+      "archetype": "geography",
+      "question": "A tanker passing through the Strait of Hormuz travels between Iran and which country’s Musandam Peninsula?",
+      "choices": [
+        "Qatar",
+        "Bahrain",
+        "United Arab Emirates",
+        "Oman"
+      ],
+      "correctIndex": 3,
+      "canonicalAnswer": "Oman",
+      "answerExplanation": "The strait’s northern shore is Iran, while Oman’s Musandam Peninsula forms the opposite side. That narrow geography helps explain the route’s outsized importance to energy shipping.",
+      "whyNow": "A White House release put control of the Strait of Hormuz back into the news today; the EIA reference independently establishes the geography.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-08-29",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. Energy Information Administration",
+          "title": "The Strait of Hormuz is the world’s most important oil transit chokepoint",
+          "canonicalArticleUrl": "https://www.eia.gov/todayinenergy/detail.php?id=61002",
+          "checkedAt": "2026-08-29T18:50:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "President Trump Was Right: America Controls the Strait of Hormuz",
+          "publisher": "The White House",
+          "canonicalArticleUrl": "https://www.whitehouse.gov/releases/2026/08/president-trump-was-right-america-controls-the-strait-of-hormuz/",
+          "publishedAt": "2026-08-29T00:00:05.000Z",
+          "checkedAt": "2026-08-29T19:20:10.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-29T18:50:00.000Z"
+    },
+    {
+      "id": "the-guardian-9f157f69f9",
+      "difficulty": 2,
+      "category": "Earth & Environment",
+      "archetype": "appliedScenario",
+      "question": "Heavy rain continues upstream, but downstream gauges suddenly show the river falling. Which development best explains the drop and warns of a later surge?",
+      "choices": [
+        "A debris dam is blocking the river and storing water upstream",
+        "A tributary flood crest is adding water just below the gauges",
+        "Rapid snowmelt is increasing inflow near the river’s source",
+        "A reservoir release is sending a pulse down the main channel"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "A debris dam is blocking the river and storing water upstream",
+      "answerExplanation": "A debris blockage can cut downstream flow while water pools behind it. If the temporary dam overtops or breaches, the stored water can arrive downstream as a sudden surge.",
+      "whyNow": "The Guardian reported that rescue operations are continuing after deadly floods in Nepal and Tibet, bringing Himalayan flood hazards back into focus.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-08-26",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. Geological Survey",
+          "title": "Assessment of existing and potential landslide hazards resulting from the April 25, 2015 Gorkha, Nepal earthquake sequence",
+          "canonicalArticleUrl": "https://pubs.usgs.gov/publication/ofr20151142",
+          "checkedAt": "2026-08-29T18:50:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Number of missing in Nepal and Tibet rises to nearly 3,000 as operations continue",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
+          "publishedAt": "2026-08-29T15:00:37.000Z",
+          "checkedAt": "2026-08-29T19:20:11.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-29T18:50:00.000Z"
+    },
+    {
+      "id": "nasa-ec03adca03",
+      "difficulty": 2,
+      "category": "Space",
+      "archetype": "mechanism",
+      "question": "If a lunar spacecraft on a free-return trajectory cannot make another major engine burn, what can still bend its path back toward Earth?",
+      "choices": [
+        "The Moon’s gravity",
+        "Earth’s magnetic field",
+        "Pressure from sunlight",
+        "The solar wind"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "The Moon’s gravity",
+      "answerExplanation": "A free-return trajectory is shaped so the Moon’s gravity redirects the spacecraft onto an Earth-returning path. It does not depend on another major propulsion maneuver.",
+      "whyNow": "NASA honored the Artemis II crew after its completed lunar flyby, bringing the mission’s free-return flight design back into the news.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-08-28",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "NASA",
+          "title": "Final Steps Underway for NASA’s First Crewed Artemis Moon Mission",
+          "canonicalArticleUrl": "https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/",
+          "checkedAt": "2026-08-29T18:50:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+          "publishedAt": "2026-08-28T22:21:31.000Z",
+          "checkedAt": "2026-08-29T19:20:10.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-29T18:50:00.000Z"
+    },
+    {
+      "id": "global-voices-5ce51896f9",
+      "difficulty": 3,
+      "category": "Earth & Environment",
+      "archetype": "mechanism",
+      "question": "An abandoned metal mine keeps acidifying a stream even after operations stop. What can keep producing the acid?",
+      "choices": [
+        "Sulfur-bearing rock exposed to air and water",
+        "Carbonate rock sealed away from groundwater",
+        "Quartz grains buried beneath impermeable clay",
+        "Native copper stored in dry, oxygen-free rock"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Sulfur-bearing rock exposed to air and water",
+      "answerExplanation": "Many mine rocks contain sulfide minerals. When they contact oxygen and water, oxidation can form sulfuric acid and leach metals, so polluted drainage can continue long after a mine closes.",
+      "whyNow": "Global Voices reported continuing health and water impacts from copper and cobalt mining pollution in Lualaba, Democratic Republic of Congo.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-08-29",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. Environmental Protection Agency",
+          "title": "Abandoned Mine Drainage",
+          "canonicalArticleUrl": "https://www.epa.gov/nps/abandoned-mine-drainage",
+          "checkedAt": "2026-08-29T18:50:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "The devastating impact of copper and cobalt mining pollution in Lualaba, DRC",
+          "publisher": "Global Voices",
+          "canonicalArticleUrl": "https://globalvoices.org/2026/08/29/the-devastating-impact-of-copper-and-cobalt-mining-pollution-in-lualaba-drc/",
+          "publishedAt": "2026-08-29T18:19:58.000Z",
+          "checkedAt": "2026-08-29T19:20:10.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-29T18:50:00.000Z"
+    }
+  ]
+}

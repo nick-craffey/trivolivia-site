@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+serviceAccountKey.json
+**/google-services.json
+**/GoogleService-Info.plist
+*.pem
+*.p12
+*.jks
+*.keystore

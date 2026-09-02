@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "title": "Hidden Thread",
+  "description": "Five source-backed questions share one precise connection. Find it after the fifth reveal.",
+  "threads": [
+    {
+      "id": "names-with-a-human-trail",
+      "title": "The names inside the facts",
+      "emoji": "🧵",
+      "teaser": "Five answers. One human trail hiding in their names.",
+      "cardIds": [
+        "music-stories-02",
+        "word-origins-03",
+        "word-origins-10",
+        "internet-lore-01",
+        "bookish-secrets-07"
+      ],
+      "choices": [
+        "They all hide the name of a real person",
+        "They were all coined for radio broadcasts",
+        "They all began as legal terms",
+        "They were all invented in the same decade"
+      ],
+      "correctIndex": 0,
+      "connection": "Every trail leads to a person whose name became part of an object, word, test, or fictional identity.",
+      "links": [
+        { "cardId": "music-stories-02", "explanation": "The saxophone carries inventor Adolphe Sax’s surname." },
+        { "cardId": "word-origins-03", "explanation": "To boycott grew from the organized isolation of land agent Charles Boycott." },
+        { "cardId": "word-origins-10", "explanation": "A silhouette preserves the surname of French finance minister Étienne de Silhouette." },
+        { "cardId": "internet-lore-01", "explanation": "The T in CAPTCHA invokes Alan Turing and the Turing test." },
+        { "cardId": "bookish-secrets-07", "explanation": "Ian Fleming borrowed James Bond from the author of a Caribbean bird guide." }
+      ]
+    },
+    {
+      "id": "messages-find-a-medium",
+      "title": "A message finds a medium",
+      "emoji": "📡",
+      "teaser": "The questions jump across centuries, but each leaves information somewhere it can travel or survive.",
+      "cardIds": [
+        "history-plot-twists-07",
+        "music-stories-05",
+        "internet-lore-05",
+        "game-on-10",
+        "art-detective-07"
+      ],
+      "choices": [
+        "They all concern lost musical instruments",
+        "They all use a medium to transmit or preserve information",
+        "They all originated in university laboratories",
+        "They all depend on satellite navigation"
+      ],
+      "correctIndex": 1,
+      "connection": "Each fact turns on a medium that carries information: electrical images, a phonograph record, a website, a clay tablet, or newspapers.",
+      "links": [
+        { "cardId": "history-plot-twists-07", "explanation": "Alexander Bain’s image-transmission work became part of the fax’s technical ancestry." },
+        { "cardId": "music-stories-05", "explanation": "Voyager carries sounds and greetings on a physical phonograph record." },
+        { "cardId": "internet-lore-05", "explanation": "The first website explained the World Wide Web through the Web itself." },
+        { "cardId": "game-on-10", "explanation": "A cuneiform tablet preserved rules that helped scholars reconstruct an ancient game." },
+        { "cardId": "art-detective-07", "explanation": "Newspaper images carried news of Guernica’s bombing to Picasso." }
+      ]
+    },
+    {
+      "id": "ordinary-materials-unexpected-jobs",
+      "title": "Unexpected job descriptions",
+      "emoji": "🛠️",
+      "teaser": "A stone, syrup, cloth, plastic bubbles, and a pencil core are moonlighting.",
+      "cardIds": [
+        "animal-superpowers-07",
+        "movie-magic-02",
+        "movie-magic-08",
+        "accidental-inventions-10",
+        "everyday-object-secrets-02"
+      ],
+      "choices": [
+        "They are all edible materials",
+        "They were all first used underwater",
+        "Ordinary materials are doing a surprising job",
+        "They were all patented by film studios"
+      ],
+      "correctIndex": 2,
+      "connection": "Every answer reveals a familiar material or object used in a role most people would not guess from looking at it.",
+      "links": [
+        { "cardId": "animal-superpowers-07", "explanation": "A sea otter keeps a stone as a reusable shell-opening tool." },
+        { "cardId": "movie-magic-02", "explanation": "Chocolate syrup played convincing blood in a black-and-white film." },
+        { "cardId": "movie-magic-08", "explanation": "A suspended muslin funnel became a miniature tornado." },
+        { "cardId": "accidental-inventions-10", "explanation": "Air-bubble sheets were first pitched as textured wallpaper before becoming packaging." },
+        { "cardId": "everyday-object-secrets-02", "explanation": "A pencil’s so-called lead is chiefly graphite mixed with clay." }
+      ]
+    },
+    {
+      "id": "still-things-are-moving",
+      "title": "Nothing is quite standing still",
+      "emoji": "🌀",
+      "teaser": "The movement can take seconds, hours, years, or geological ages—but it is always there.",
+      "cardIds": [
+        "earth-in-motion-01",
+        "earth-in-motion-06",
+        "no-way-thats-real-07",
+        "cosmic-oddities-08",
+        "human-body-surprises-09"
+      ],
+      "choices": [
+        "Every answer depends on hidden or slow movement",
+        "Every answer happens only at high altitude",
+        "Every answer was discovered by astronauts",
+        "Every answer changes exactly once per year"
+      ],
+      "correctIndex": 0,
+      "connection": "Things that look fixed—continents, a day’s length, a tower, the body in microgravity, even airflow through the nose—are changing or cycling.",
+      "links": [
+        { "cardId": "earth-in-motion-01", "explanation": "A tectonic plate creeps at a rate comparable to fingernail growth." },
+        { "cardId": "earth-in-motion-06", "explanation": "The Moon’s tidal influence very gradually lengthens Earth’s day." },
+        { "cardId": "no-way-thats-real-07", "explanation": "Uneven solar heating makes the Eiffel Tower expand and lean slightly." },
+        { "cardId": "cosmic-oddities-08", "explanation": "Microgravity lets an astronaut’s spine lengthen temporarily." },
+        { "cardId": "human-body-surprises-09", "explanation": "Tissue swelling alternates between nostrils in the nasal cycle." }
+      ]
+    }
+  ]
+}

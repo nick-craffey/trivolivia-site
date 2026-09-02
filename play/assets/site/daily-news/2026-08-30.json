@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-08-30",
+  "version": "auto-v2-20260830T201131Z",
+  "digest": "cf8635faa06b95b67e2dd0803eb58434d4661d0ff15821746905432b589ecad1",
+  "title": "Today’s News",
+  "generatedAt": "2026-08-30T20:11:31.000Z",
+  "validFrom": "2026-08-30T00:00:00.000Z",
+  "expiresAt": "2026-08-31T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "bbc-news-60e08ac141",
+      "difficulty": 1,
+      "category": "Geography",
+      "archetype": "geography",
+      "question": "From downtown Detroit, which direction do you travel through the tunnel to reach Windsor, Canada?",
+      "choices": [
+        "North",
+        "West",
+        "South",
+        "East"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "South",
+      "answerExplanation": "Windsor lies mainly south of central Detroit because the Detroit River bends along this stretch of the border. Canada is generally north of the United States, but not at every crossing.",
+      "whyNow": "A new Lake Ontario sign put Canadian geography into today’s news; the Detroit–Windsor crossing offers another counterintuitive look at the same border.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-08-30",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "Tourism Windsor Essex Pelee Island",
+          "title": "Location",
+          "canonicalArticleUrl": "https://www.welcometowindsoressex.ca/explore/location/",
+          "checkedAt": "2026-08-30T20:00:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Canada installs large Lake Ontario sign in latest jab at US",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/news/articles/cpq09594vw7o",
+          "publishedAt": "2026-08-30T14:25:43.000Z",
+          "checkedAt": "2026-08-30T20:11:30.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-30T20:00:00.000Z"
+    },
+    {
+      "id": "the-guardian-82b31e0ae2",
+      "difficulty": 1,
+      "category": "Europe",
+      "archetype": "system",
+      "question": "Iceland participates in the EU single market without being an EU member through which arrangement?",
+      "choices": [
+        "European Economic Area",
+        "Schengen Area",
+        "European Union Customs Union",
+        "Eurozone"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "European Economic Area",
+      "answerExplanation": "The European Economic Area extends the EU single market to Iceland, Norway, and Liechtenstein. Schengen concerns border-free travel, while the EEA covers the movement of goods, services, people, and capital.",
+      "whyNow": "Iceland’s referendum rejected renewed EU accession talks, highlighting how the country already participates in much of the single market without EU membership.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 4,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-08-30",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "European Commission",
+          "title": "EU trade relations with Iceland",
+          "canonicalArticleUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/iceland_en",
+          "checkedAt": "2026-08-30T20:00:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Iceland rejects EU accession talks after divisive referendum campaign",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
+          "publishedAt": "2026-08-30T14:57:49.000Z",
+          "checkedAt": "2026-08-30T20:11:30.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-30T20:00:00.000Z"
+    },
+    {
+      "id": "nasa-b673d615af",
+      "difficulty": 2,
+      "category": "Space",
+      "archetype": "mechanism",
+      "question": "Roman will map invisible matter by measuring subtle distortions in distant galaxy images. What produces those distortions?",
+      "choices": [
+        "Gravity bending the galaxies’ light",
+        "Dust scattering the galaxies’ light",
+        "Telescope motion smearing the galaxy images",
+        "Galaxy rotation stretching the images"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Gravity bending the galaxies’ light",
+      "answerExplanation": "Mass curves spacetime, bending light that passes nearby. Measuring this weak gravitational lensing lets astronomers map matter—including dark matter—even when it emits no light of its own.",
+      "whyNow": "NASA launched the Roman Space Telescope today; one of its major tools for investigating the dark universe is measuring gravitational lensing across wide surveys of galaxies.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-08-30",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "NASA Science",
+          "title": "Weak Lensing",
+          "canonicalArticleUrl": "https://science.nasa.gov/mission/roman-space-telescope/weak-lensing/",
+          "checkedAt": "2026-08-30T20:00:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+          "publishedAt": "2026-08-30T13:18:06.000Z",
+          "checkedAt": "2026-08-30T20:11:30.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-30T20:00:00.000Z"
+    },
+    {
+      "id": "global-voices-b9a70056f5",
+      "difficulty": 2,
+      "category": "Population",
+      "archetype": "system",
+      "question": "A country’s fertility rate stays below replacement level. What does “replacement” mean here?",
+      "choices": [
+        "Each generation has enough children to replace itself",
+        "Every household has at least two children",
+        "The population cannot shrink during that year",
+        "Births and deaths are equal every month"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Each generation has enough children to replace itself",
+      "answerExplanation": "Replacement-level fertility means each generation has enough children to replace itself over the long run. A population can still grow for a while because of age structure, and migration also changes the total.",
+      "whyNow": "A Global Voices analysis connected China’s fertility decline with modernization, bringing the often-misunderstood idea of replacement-level fertility into focus.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-08-30",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "United Nations Population Fund",
+          "title": "Eight trends for a world of 8 billion people",
+          "canonicalArticleUrl": "https://www.unfpa.org/8billion/8trends",
+          "checkedAt": "2026-08-30T20:00:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "China’s fertility crisis is evidence of its modernization success",
+          "publisher": "Global Voices",
+          "canonicalArticleUrl": "https://globalvoices.org/2026/08/30/chinas-fertility-crisis-is-evidence-of-its-modernization-success/",
+          "publishedAt": "2026-08-30T00:00:00.000Z",
+          "checkedAt": "2026-08-30T20:11:31.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-30T20:00:00.000Z"
+    },
+    {
+      "id": "nasa-afec6cf44d",
+      "difficulty": 3,
+      "category": "Space",
+      "archetype": "comparison",
+      "question": "A spacecraft moves twice as far from Earth. All else equal, about what fraction of its radio signal power reaches the same receiving area?",
+      "choices": [
+        "One half",
+        "One quarter",
+        "One eighth",
+        "The same amount"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "One quarter",
+      "answerExplanation": "Radio energy spreads across an area that grows with the square of distance. Doubling the distance spreads the same energy over roughly four times the area, leaving about one quarter for the receiver.",
+      "whyNow": "NASA brought a new Goldstone Deep Space Network antenna online today; large dishes help recover spacecraft signals that become extraordinarily faint across interplanetary distances.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-08-30",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "NASA",
+          "title": "DSN: Your Questions Answered",
+          "canonicalArticleUrl": "https://www.nasa.gov/podcasts/invisible-network/bonus-dsn-your-questions-answered-nasas-the-invisible-network-podcast/",
+          "checkedAt": "2026-08-30T20:00:00.000Z"
+        },
+        {
+          "publisher": "NASA",
+          "title": "Antennas of the Deep Space Network",
+          "canonicalArticleUrl": "https://www.nasa.gov/directorates/somd/space-communications-navigation-program/antennas-of-the-dsn/",
+          "checkedAt": "2026-08-30T20:00:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+          "publishedAt": "2026-08-30T14:53:08.000Z",
+          "checkedAt": "2026-08-30T20:11:30.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-30T20:00:00.000Z"
+    }
+  ]
+}

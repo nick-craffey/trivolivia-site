@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-02",
+  "version": "auto-v2-20260901T231112Z",
+  "digest": "c21894032b0374fb82c8b8cb931868454ce7a6fba5305c27efd7fc19981d90ec",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-01T23:11:12.000Z",
+  "validFrom": "2026-09-02T00:00:00.000Z",
+  "expiresAt": "2026-09-03T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "bbc-news-cd65184fad",
+      "difficulty": 1,
+      "category": "Sports & Games",
+      "archetype": "comparison",
+      "question": "The US Open is played on which type of court?",
+      "choices": [
+        "Hard court",
+        "Clay court",
+        "Grass court",
+        "Carpet court"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Hard court",
+      "answerExplanation": "The US Open is a hard-court Grand Slam in New York. Roland-Garros is the clay-court major, while Wimbledon is played on grass. Court surface affects bounce, speed, and how players build points.",
+      "whyNow": "A leading player’s run at the US Open puts the tournament’s signature surface in focus.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-01",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "United States Tennis Association",
+          "title": "About Us - 2026 US Open Tennis Tournament",
+          "canonicalArticleUrl": "https://careers.usopen.org/about-us/",
+          "checkedAt": "2026-09-01T23:10:30.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Rybakina makes winning start in race to number one",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/sport/tennis/articles/c0m3wv4e7vlo",
+          "publishedAt": "2026-09-01T21:18:05.000Z",
+          "checkedAt": "2026-09-01T23:11:11.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-01T23:10:30.000Z"
+    },
+    {
+      "id": "bbc-news-4f07656d00",
+      "difficulty": 1,
+      "category": "Arts & Culture",
+      "archetype": "hiddenIdentity",
+      "question": "Glinda and Elphaba’s story is set in which fictional land?",
+      "choices": [
+        "Oz",
+        "Narnia",
+        "Neverland",
+        "Middle-earth"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Oz",
+      "answerExplanation": "Glinda and Elphaba are central characters in Wicked, set in the land of Oz. Narnia belongs to C. S. Lewis, Neverland to Peter Pan, and Middle-earth to The Lord of the Rings. The setting connects Wicked to the wider Wizard of Oz world.",
+      "whyNow": "Ariana Grande’s public step-back makes one of her most recognizable screen roles a timely cultural bridge.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-01",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "NBCUniversal Media",
+          "title": "Everything You Need to Know About ‘Wicked’ Ahead of the Universal Pictures’ Movie",
+          "canonicalArticleUrl": "https://www.nbcuniversal.com/article/everything-you-need-know-about-wicked-ahead-universal-pictures-film",
+          "checkedAt": "2026-09-01T23:10:30.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Ariana Grande completes tour and steps back from public life",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o",
+          "publishedAt": "2026-09-01T21:41:05.000Z",
+          "checkedAt": "2026-09-01T23:11:11.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-01T23:10:30.000Z"
+    },
+    {
+      "id": "european-commission-264f3b45dc",
+      "difficulty": 2,
+      "category": "World & Society",
+      "archetype": "comparison",
+      "question": "Greenland governs many local matters but remains part of which realm?",
+      "choices": [
+        "Denmark",
+        "Canada",
+        "Iceland",
+        "Norway"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Denmark",
+      "answerExplanation": "Greenland has extensive self-government but remains part of the Realm of Denmark. Canada is Greenland’s nearest large neighbor, which makes it a tempting distractor; Iceland and Norway are Nordic countries but do not include Greenland. This explains Denmark’s Arctic role.",
+      "whyNow": "An Arctic forum makes the political geography behind Greenland’s place in the region timely.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-01",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "Kingdom of Denmark",
+          "title": "Greenland: The world's largest island",
+          "canonicalArticleUrl": "https://denmark.dk/people-and-culture/greenland",
+          "checkedAt": "2026-09-01T23:10:30.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Speech by Commissioner Jozef Síkela at the Opening of the EU Arctic Forum in Brussels",
+          "publisher": "European Commission",
+          "canonicalArticleUrl": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1784",
+          "publishedAt": "2026-09-01T10:41:08.000Z",
+          "checkedAt": "2026-09-01T23:11:12.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-01T23:10:30.000Z"
+    },
+    {
+      "id": "global-voices-2077eb610e",
+      "difficulty": 2,
+      "category": "Everyday Life",
+      "archetype": "system",
+      "question": "To prevent a blackout, what must grid operators continually match?",
+      "choices": [
+        "Electricity supply and demand",
+        "Voltage and plug type",
+        "Fuel price and tax rate",
+        "Rainfall and river flow"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Electricity supply and demand",
+      "answerExplanation": "Grid stability depends on matching electricity supply to demand in real time. Voltage also needs management, but it is not the central balance described here. If supply and demand diverge too far, outages can cascade.",
+      "whyNow": "Accounts of prolonged power cuts make the hidden balancing act behind a working grid relevant.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-01",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. Energy Information Administration",
+          "title": "Delivery to consumers",
+          "canonicalArticleUrl": "https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php",
+          "checkedAt": "2026-09-01T23:10:30.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "When the lights go out in Libya’s Cyrenaica",
+          "publisher": "Global Voices",
+          "canonicalArticleUrl": "https://globalvoices.org/2026/09/01/when-the-lights-go-out-in-libyas-cyrenaica/",
+          "publishedAt": "2026-09-01T06:15:21.000Z",
+          "checkedAt": "2026-09-01T23:11:11.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-01T23:10:30.000Z"
+    },
+    {
+      "id": "european-commission-2e60c1087a",
+      "difficulty": 3,
+      "category": "Everyday Life",
+      "archetype": "mechanism",
+      "question": "Which process best explains new wildfire ignitions far ahead of the main flame front?",
+      "choices": [
+        "Wind carries burning embers onto dry fuel",
+        "Radiant heat crosses miles and ignites fuel without contact",
+        "Smoke dries vegetation until it ignites by itself",
+        "Flames travel through ordinary soil and emerge miles ahead"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Wind carries burning embers onto dry fuel",
+      "answerExplanation": "Wind can carry burning embers well ahead of a wildfire’s main flames, where they ignite dry, receptive fuel as spot fires. Radiant heat is mainly a near-front hazard, smoke does not make plants ignite by themselves, and surface flames do not ordinarily travel miles through mineral soil. This is how fires can jump roads, rivers, and apparent barriers.",
+      "whyNow": "The wildfire season discussion makes one of the most surprising ways fires spread especially relevant.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-01",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "National Park Service",
+          "title": "Fire Behavior - Santa Monica Mountains National Recreation Area",
+          "canonicalArticleUrl": "https://home.nps.gov/samo/learn/management/firebehavior.htm",
+          "checkedAt": "2026-09-01T23:10:30.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Speech by Commissioner Lahbib at the European Parliament on the 2026 Wildfire Season",
+          "publisher": "European Commission",
+          "canonicalArticleUrl": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1788",
+          "publishedAt": "2026-09-01T16:09:08.000Z",
+          "checkedAt": "2026-09-01T23:11:12.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-01T23:10:30.000Z"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-08-31",
+  "version": "auto-v2-20260830T211623Z",
+  "digest": "c8e77c7bbdd541c605de2a045bde7d813f5b59eb1ae893c9275555bdfc115906",
+  "title": "Today’s News",
+  "generatedAt": "2026-08-30T21:16:23.000Z",
+  "validFrom": "2026-08-31T00:00:00.000Z",
+  "expiresAt": "2026-09-01T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "the-guardian-97ab32ce5d",
+      "difficulty": 1,
+      "category": "Geography",
+      "archetype": "geography",
+      "question": "In the UN’s geographic classification, Palau belongs to which subregion of Oceania?",
+      "choices": [
+        "Micronesia",
+        "Melanesia",
+        "Polynesia",
+        "Australia and New Zealand"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Micronesia",
+      "answerExplanation": "The UN groups Palau with Micronesia, alongside countries including the Federated States of Micronesia, the Marshall Islands, Kiribati, and Nauru. Melanesia and Polynesia are separate Oceanian subregions.",
+      "whyNow": "Pacific leaders are gathering in Palau for the Pacific Islands Forum summit, putting the host country and its place within Oceania in today’s news.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 4,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-08-30",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "United Nations Statistics Division",
+          "title": "Standard country or area codes for statistical use (M49)",
+          "canonicalArticleUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "checkedAt": "2026-08-30T21:05:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Pacific Islands Forum meeting in turmoil after several leaders pull out of Palau summit",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/world/2026/aug/30/pacific-islands-forum-meeting-in-turmoil-after-several-leaders-pull-out-of-palau-summit",
+          "publishedAt": "2026-08-30T07:22:01.000Z",
+          "checkedAt": "2026-08-30T21:16:23.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-30T21:05:00.000Z"
+    },
+    {
+      "id": "gov-uk-7b4d0928eb",
+      "difficulty": 1,
+      "category": "Law & Society",
+      "archetype": "system",
+      "question": "The law sets an offence’s maximum penalty, but a judge chooses a proportionate sentence within that limit. What is that choice called?",
+      "choices": [
+        "Judicial discretion",
+        "Prosecutorial discretion",
+        "Executive clemency",
+        "Jury nullification"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Judicial discretion",
+      "answerExplanation": "Judicial discretion is the judge’s authority to choose an appropriate sentence within the law, guided by sentencing guidelines and the facts of the case. The other choices describe powers exercised by prosecutors, executives, or juries.",
+      "whyNow": "The UK government announced changes to which offenders will be excluded from upcoming sentencing reforms, renewing attention on how legislation and judges divide sentencing decisions.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-08-30",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "Sentencing Council",
+          "title": "About sentencing guidelines",
+          "canonicalArticleUrl": "https://sentencingcouncil.org.uk/about-sentencing/about-sentencing-guidelines/",
+          "checkedAt": "2026-08-30T21:05:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Prime Minister blocks hundreds more criminals from sentencing changes",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/prime-minister-blocks-hundreds-more-criminals-from-sentencing-changes",
+          "publishedAt": "2026-08-30T05:53:29.000Z",
+          "checkedAt": "2026-08-30T21:16:22.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-30T21:05:00.000Z"
+    },
+    {
+      "id": "bbc-news-b22c9b2b6c",
+      "difficulty": 2,
+      "category": "Sports",
+      "archetype": "appliedScenario",
+      "question": "A cricketer scores 500 runs across 12 innings and is not out twice. What is the batting average?",
+      "choices": [
+        "50.00",
+        "41.66",
+        "45.45",
+        "60.00"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "50.00",
+      "answerExplanation": "Cricket batting average is runs divided by dismissals, not innings. Two not-outs across 12 innings mean 10 dismissals, so 500 divided by 10 gives an average of 50.00.",
+      "whyNow": "Joe Root’s latest appearance brought his 14,000-plus Test runs back into today’s sports news, highlighting how cricket statistics summarize a batter’s career.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-08-30",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "Association of Cricket Statisticians and Historians",
+          "title": "Frequently asked questions about cricket statistics",
+          "canonicalArticleUrl": "https://acscricket.com/wp-content/uploads/ACS-FAQ.pdf",
+          "checkedAt": "2026-08-30T21:15:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "'14,000 runs for a reason' - Root calm on form",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/sport/cricket/articles/c2l8d45yen7o",
+          "publishedAt": "2026-08-30T19:53:14.000Z",
+          "checkedAt": "2026-08-30T21:16:23.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-30T21:15:00.000Z"
+    },
+    {
+      "id": "the-guardian-f1761ae61f",
+      "difficulty": 2,
+      "category": "Energy",
+      "archetype": "language",
+      "question": "A refinery describes a crude oil as “sour.” Which characteristic is relatively high?",
+      "choices": [
+        "Sulfur content",
+        "API gravity",
+        "Octane rating",
+        "Vapor pressure"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Sulfur content",
+      "answerExplanation": "Sour crude contains relatively more sulfur and therefore requires additional processing to remove sulfur compounds. API gravity describes whether crude is light or heavy, a separate property from whether it is sweet or sour.",
+      "whyNow": "Venezuela’s interim president defended a major oil agreement today, making the properties that determine how crude oil is handled and refined newly relevant.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-08-30",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. Energy Information Administration",
+          "title": "Crude oils have different quality characteristics",
+          "canonicalArticleUrl": "https://www.eia.gov/todayinenergy/detail.php?id=33012",
+          "checkedAt": "2026-08-30T21:05:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+          "publishedAt": "2026-08-30T15:08:33.000Z",
+          "checkedAt": "2026-08-30T21:16:23.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-30T21:05:00.000Z"
+    },
+    {
+      "id": "bbc-news-1772762b89",
+      "difficulty": 3,
+      "category": "Maritime Safety",
+      "archetype": "appliedScenario",
+      "question": "Considering free-surface effect alone, which tank arrangement is most damaging to a vessel’s stability?",
+      "choices": [
+        "One wide, partly filled tank",
+        "The same tank with fore-and-aft divisions, partly filled",
+        "One wide, completely full tank",
+        "The same tank with fore-and-aft divisions, completely full"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "One wide, partly filled tank",
+      "answerExplanation": "A wide, undivided liquid surface has the largest free-surface moment. As a vessel heels, liquid moves toward the low side and effectively reduces its metacentric height. Fore-and-aft divisions restrict that movement, while a completely full tank has no free surface.",
+      "whyNow": "A ferry capsized off northern Cyprus today, bringing renewed attention to the stability principles that govern vessels when water or other liquids can shift aboard.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-08-30",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "UK Maritime and Coastguard Agency",
+          "title": "Fishing vessel stability guidance",
+          "canonicalArticleUrl": "https://assets.publishing.service.gov.uk/media/5aaa38d040f0b66b625e2dfb/10743-MCGA-Fishing_Vessel_Stability_Guidance-WEB.pdf",
+          "checkedAt": "2026-08-30T21:05:00.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo",
+          "publishedAt": "2026-08-30T20:02:43.000Z",
+          "checkedAt": "2026-08-30T21:16:23.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-08-30T21:05:00.000Z"
+    }
+  ]
+}

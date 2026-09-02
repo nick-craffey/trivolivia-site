@@ -1,0 +1,38 @@
+{
+    "id": "/play/",
+    "name": "trivolivia — source-backed trivia",
+    "short_name": "trivolivia",
+    "start_url": "/play/",
+    "scope": "/play/",
+    "display": "standalone",
+    "background_color": "#FFF8EF",
+    "theme_color": "#963B69",
+    "description": "Free five-question trivia rounds with explanations and supporting sources.",
+    "categories": ["games", "education"],
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/play/icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/play/icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/play/icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/play/icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

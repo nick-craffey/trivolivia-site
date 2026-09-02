@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "editionKey": "2026-08-28",
+  "version": "news-v2",
+  "digest": "862da14f5556b998ca56ddf6c02daeb3a5f299d66dc2cdfe0a6eae57d944b5f4",
+  "title": "Today’s News",
+  "generatedAt": "2026-08-28T20:40:00.000Z",
+  "validFrom": "2026-08-28T00:00:00.000Z",
+  "expiresAt": "2026-08-29T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "norway-king-haakon-viii",
+      "difficulty": 1,
+      "category": "World",
+      "question": "Who succeeded Norway’s King Harald V on August 28, 2026?",
+      "choices": [
+        "King Frederik X",
+        "King Haakon VIII",
+        "Crown Princess Mette-Marit",
+        "King Harald VI"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "King Haakon VIII",
+      "revealHeadline": "Crown Prince Haakon became King Haakon VIII after his father’s death.",
+      "explanation": "The Associated Press reported that King Harald V died at 89 and that his son, Crown Prince Haakon, succeeded him as King Haakon VIII.",
+      "provenance": [
+        {
+          "headline": "Norway's King Harald V dies at 89 and his son becomes King Haakon VIII",
+          "publisher": "Associated Press",
+          "canonicalArticleUrl": "https://apnews.com/article/228366941b7c48c59ececf004cc3c467",
+          "publishedAt": "2026-08-28T06:44:23.000Z",
+          "checkedAt": "2026-08-28T20:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "roman-falcon-heavy",
+      "difficulty": 1,
+      "category": "Science & Space",
+      "question": "In NASA’s August 28 launch-readiness update, which rocket was cleared to carry the Nancy Grace Roman Space Telescope?",
+      "choices": [
+        "Falcon 9",
+        "Falcon Heavy",
+        "Space Launch System",
+        "New Glenn"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "Falcon Heavy",
+      "revealHeadline": "Roman is cleared to launch aboard a SpaceX Falcon Heavy.",
+      "explanation": "NASA’s final Launch Readiness Review cleared the Roman observatory and its SpaceX Falcon Heavy for the countdown from Launch Complex 39A.",
+      "provenance": [
+        {
+          "headline": "NASA’s Roman Space Telescope ‘Go’ for Launch",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://science.nasa.gov/blogs/roman/2026/08/28/nasas-roman-space-telescope-go-for-launch/",
+          "publishedAt": "2026-08-28T18:06:00.000Z",
+          "checkedAt": "2026-08-28T20:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "nepal-border-lake",
+      "difficulty": 2,
+      "category": "Climate & World",
+      "question": "Which hazard briefly paused rescue operations near the Nepal–China border on August 28?",
+      "choices": [
+        "An overflowing barrier lake",
+        "A volcanic ash cloud",
+        "A broken railway bridge",
+        "A tropical cyclone"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "An overflowing barrier lake",
+      "revealHeadline": "An overflowing lake created a renewed flood-and-debris threat.",
+      "explanation": "Al Jazeera reported that a barrier lake formed as flood debris blocked a river and began to overflow, prompting Nepal and China to suspend rescue operations briefly.",
+      "provenance": [
+        {
+          "headline": "Nepal and China briefly halt rescue efforts as barrier lake overflows",
+          "publisher": "Al Jazeera",
+          "canonicalArticleUrl": "https://www.aljazeera.com/news/2026/8/28/nepal-and-china-halt-rescue-efforts-as-border-barrier-lake-overflows",
+          "publishedAt": "2026-08-28T09:30:45.000Z",
+          "checkedAt": "2026-08-28T20:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "partial-lunar-eclipse",
+      "difficulty": 2,
+      "category": "Science & Space",
+      "question": "For the August 28 partial lunar eclipse, about what share of the Moon did NASA say would pass through Earth’s umbra?",
+      "choices": [
+        "42%",
+        "67%",
+        "82%",
+        "96%"
+      ],
+      "correctIndex": 3,
+      "canonicalAnswer": "96%",
+      "revealHeadline": "Roughly 96% of the Moon entered Earth’s darkest shadow.",
+      "explanation": "The AP photo report, citing NASA, said about 96% of the Moon would pass through Earth’s umbra—just short of a total lunar eclipse.",
+      "provenance": [
+        {
+          "headline": "A lunar eclipse lights up skies across the Americas and Europe, in photos",
+          "publisher": "Associated Press",
+          "canonicalArticleUrl": "https://apnews.com/article/6d1f639181d645758a5fd6ed832529bb",
+          "publishedAt": "2026-08-28T05:55:28.000Z",
+          "checkedAt": "2026-08-28T20:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "heart-attack-troponin-threshold",
+      "difficulty": 3,
+      "category": "Health",
+      "question": "Which blood protein receives a lower diagnostic threshold for women under the new universal heart attack guidance?",
+      "choices": [
+        "Creatinine",
+        "Troponin",
+        "Insulin",
+        "Keratin"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "Troponin",
+      "revealHeadline": "The new guidance lowers the diagnostic troponin threshold for women.",
+      "explanation": "The Guardian reported that the universal guidance introduces sex-specific diagnostic thresholds. Troponin is released when the heart is injured, and the previous shared threshold could miss some women.",
+      "provenance": [
+        {
+          "headline": "New heart attack definition promises better care for women",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/society/2026/aug/28/doctors-care-revolution-agree-first-universal-definition-heart-attack",
+          "publishedAt": "2026-08-28T17:00:00.000Z",
+          "checkedAt": "2026-08-28T20:40:00.000Z"
+        }
+      ]
+    }
+  ]
+}
