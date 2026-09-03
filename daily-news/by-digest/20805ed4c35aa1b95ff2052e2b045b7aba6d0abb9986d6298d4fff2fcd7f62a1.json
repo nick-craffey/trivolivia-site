@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-03",
+  "version": "auto-v2-20260903T043439Z",
+  "digest": "20805ed4c35aa1b95ff2052e2b045b7aba6d0abb9986d6298d4fff2fcd7f62a1",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-03T04:34:39.000Z",
+  "validFrom": "2026-09-03T00:00:00.000Z",
+  "expiresAt": "2026-09-04T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "the-guardian-c63817f10a",
+      "difficulty": 1,
+      "category": "History & Geography",
+      "archetype": "hiddenIdentity",
+      "question": "Which creature is central to Wales’s national flag?",
+      "choices": [
+        "Dragon",
+        "Lion",
+        "Eagle",
+        "Unicorn"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Dragon",
+      "answerExplanation": "Wales’s flag features a red dragon, often called Y Ddraig Goch. Lions, eagles and unicorns are prominent symbols elsewhere in Britain and Europe, which makes the dragon a particularly distinctive Welsh emblem.",
+      "whyNow": "A profile of Michael Sheen and Owain Glyndŵr brings Welsh history and its enduring symbols into view.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-03",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "GOV.UK",
+          "title": "St David’s Day in Turkmenistan",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/st-davids-day-in-turkmenistan",
+          "checkedAt": "2026-09-03T04:33:56.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "‘I was never taught Welsh history’: Michael Sheen on reclaiming rebel leader Owain Glyndŵr",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/culture/2026/sep/03/michael-sheen-on-playing-owain-glyndwr-wales",
+          "publishedAt": "2026-09-03T04:00:43.000Z",
+          "checkedAt": "2026-09-03T04:34:38.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-03T04:33:56.000Z"
+    },
+    {
+      "id": "bbc-news-5126d226f8",
+      "difficulty": 1,
+      "category": "World & Society",
+      "archetype": "geography",
+      "question": "NATO brings together countries from which two regions?",
+      "choices": [
+        "Europe and North America",
+        "Africa and Asia",
+        "Asia and Oceania",
+        "South America and Africa"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Europe and North America",
+      "answerExplanation": "NATO is a political and military alliance of countries from Europe and North America. Its name means North Atlantic Treaty Organization; it is not an alliance spanning every continent.",
+      "whyNow": "European and NATO leaders have responded to a reported escalation involving Germany and Russia.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-03",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "NATO",
+          "title": "North Atlantic Treaty Organization",
+          "canonicalArticleUrl": "https://www.nato.int/en",
+          "checkedAt": "2026-09-03T04:33:56.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko",
+          "publishedAt": "2026-09-03T03:21:24.000Z",
+          "checkedAt": "2026-09-03T04:34:38.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-03T04:33:56.000Z"
+    },
+    {
+      "id": "global-voices-2293737fb4",
+      "difficulty": 2,
+      "category": "Everyday Life",
+      "archetype": "historicalEcho",
+      "question": "Which familiar pain reliever has historical roots in willow bark?",
+      "choices": [
+        "Aspirin",
+        "Penicillin",
+        "Insulin",
+        "Ibuprofen"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Aspirin",
+      "answerExplanation": "Aspirin grew from compounds associated with willow bark, long used for pain and fever. Penicillin comes from mold, insulin is a hormone treatment, and ibuprofen was developed separately. It is a classic bridge from a plant remedy to modern medicine.",
+      "whyNow": "A report on Indigenous medicinal plants in Ghana spotlights the long relationship between plants and medicines.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-03",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. National Library of Medicine",
+          "title": "The Story of Aspirin",
+          "canonicalArticleUrl": "https://www.nlm.nih.gov/exhibition/the-story-of-aspirin/index.html",
+          "checkedAt": "2026-09-03T04:33:56.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Indigenous plants offer Ghanaians an alternative to costly Western medicine",
+          "publisher": "Global Voices",
+          "canonicalArticleUrl": "https://globalvoices.org/2026/09/03/indigenous-plants-offer-ghanaians-an-alternative-to-costly-western-medicine/",
+          "publishedAt": "2026-09-03T03:02:39.000Z",
+          "checkedAt": "2026-09-03T04:34:39.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-03T04:33:56.000Z"
+    },
+    {
+      "id": "the-guardian-6ee9972bad",
+      "difficulty": 2,
+      "category": "Business & Economy",
+      "archetype": "language",
+      "question": "A tariff is generally a tax levied on what?",
+      "choices": [
+        "Imported products",
+        "Household income",
+        "Company profits",
+        "Domestic sales"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Imported products",
+      "answerExplanation": "A tariff, also called a duty, is generally charged on imported products. Income, profits and domestic sales can be taxed too, but those are different tax bases. Tariffs can raise the price paid by the foreign buyer or importer.",
+      "whyNow": "Canada trade talks remain in the news, putting a basic piece of trade vocabulary in play.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-03",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "International Trade Administration",
+          "title": "Import Tariffs & Fees Overview and Resources",
+          "canonicalArticleUrl": "https://www.trade.gov/import-tariffs-fees-overview",
+          "checkedAt": "2026-09-03T04:33:56.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Trump doubles down on Canada trade war as talks remain stalled – as it happened",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran",
+          "publishedAt": "2026-09-03T01:58:14.000Z",
+          "checkedAt": "2026-09-03T04:34:38.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-03T04:33:56.000Z"
+    },
+    {
+      "id": "gov-uk-25edb2f33e",
+      "difficulty": 3,
+      "category": "World & Society",
+      "archetype": "system",
+      "question": "At a jury trial, which task belongs chiefly to the jury?",
+      "choices": [
+        "Deciding disputed facts",
+        "Explaining the law",
+        "Ruling on evidence",
+        "Setting a sentence"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Deciding disputed facts",
+      "answerExplanation": "Jurors determine the facts from the evidence presented. The judge instructs them on the law and usually rules on evidence; sentencing is generally the judge’s job. The split helps keep legal rules and factual judgment distinct.",
+      "whyNow": "New investment in legal talent is a prompt to revisit the basic division of work inside a courtroom.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-02",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "United States Courts",
+          "title": "Juror Selection Process",
+          "canonicalArticleUrl": "https://www.uscourts.gov/court-programs/jury-service/juror-selection-process",
+          "checkedAt": "2026-09-03T04:33:56.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Millions to be invested in next generation of legal talent",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/millions-to-be-invested-in-next-generation-of-legal-talent",
+          "publishedAt": "2026-09-02T14:47:27.000Z",
+          "checkedAt": "2026-09-03T04:34:38.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-03T04:33:56.000Z"
+    }
+  ]
+}
