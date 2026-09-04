@@ -1,4 +1,4 @@
-import { firebaseApiKey, apiOrigin } from './config.js';
+import { getFirebaseApiKey, apiOrigin } from './config.js';
 
 const $ = (id) => document.getElementById(id);
 const number = (value) => new Intl.NumberFormat().format(Number(value) || 0);
@@ -33,13 +33,15 @@ async function request(url, options = {}) {
   }
   return body;
 }
-function authRequest(operation, body) {
+async function authRequest(operation, body) {
+  const firebaseApiKey = await getFirebaseApiKey();
   return request(`https://identitytoolkit.googleapis.com/v1/accounts:${operation}?key=${encodeURIComponent(firebaseApiKey)}`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
 }
 async function token() {
   if (!credential || Date.now() >= absoluteExpiry) throw Object.assign(new Error('Please sign in again.'), { status: 401 });
   if (Date.now() + 60000 < credential.expiresAt) return credential.idToken;
   const current = credential;
+  const firebaseApiKey = await getFirebaseApiKey();
   const result = await request(`https://securetoken.googleapis.com/v1/token?key=${encodeURIComponent(firebaseApiKey)}`, { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: new URLSearchParams({ grant_type: 'refresh_token', refresh_token: current.refreshToken }) });
   if (credential !== current) throw Object.assign(new Error('Please sign in again.'), { status: 401 });
   credential = { idToken: result.id_token, refreshToken: result.refresh_token, expiresAt: Date.now() + Number(result.expires_in) * 1000 };
@@ -66,7 +68,6 @@ $('login-form').addEventListener('submit', async (event) => {
   $('sign-in').disabled = true;
   $('login-message').textContent = 'Signing in…';
   try {
-    if (!firebaseApiKey) throw new Error('Dashboard sign-in has not been configured.');
     const result = await authRequest('signInWithPassword', { email: $('email').value.trim(), password: $('password').value, returnSecureToken: true });
     if (attempt !== generation) return;
     credential = { idToken: result.idToken, refreshToken: result.refreshToken, expiresAt: Date.now() + Number(result.expiresIn) * 1000 };
