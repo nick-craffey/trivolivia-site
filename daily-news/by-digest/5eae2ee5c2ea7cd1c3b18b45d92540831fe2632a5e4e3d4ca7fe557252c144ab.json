@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-05",
+  "version": "auto-v2-20260904T211513Z",
+  "digest": "5eae2ee5c2ea7cd1c3b18b45d92540831fe2632a5e4e3d4ca7fe557252c144ab",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-04T21:15:13.000Z",
+  "validFrom": "2026-09-05T00:00:00.000Z",
+  "expiresAt": "2026-09-06T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "nasa-5afcb7d490",
+      "difficulty": 1,
+      "category": "Technology & Innovation",
+      "archetype": "hiddenIdentity",
+      "question": "NASA's Artemis missions are designed to land astronauts on which world?",
+      "choices": [
+        "The Moon",
+        "Mars",
+        "Venus",
+        "Titan"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "The Moon",
+      "answerExplanation": "Artemis is NASA’s Moon program: it aims to land astronauts and build a long-term human-robotic presence there. Mars is a later horizon goal, not Artemis’s landing destination.",
+      "whyNow": "NASA announced an accessible Artemis webinar, bringing the program’s Moon-focused mission back into view.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-10-02",
+      "eventStatus": "scheduled",
+      "coreFactSources": [
+        {
+          "publisher": "NASA",
+          "title": "What is Artemis?",
+          "canonicalArticleUrl": "https://www.nasa.gov/general/what-is-artemis/",
+          "checkedAt": "2026-09-04T21:14:19.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
+          "publishedAt": "2026-09-04T16:48:59.000Z",
+          "checkedAt": "2026-09-04T21:15:12.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-04T21:14:19.000Z"
+    },
+    {
+      "id": "gov-uk-b8b816fce8",
+      "difficulty": 1,
+      "category": "Arts & Culture",
+      "archetype": "language",
+      "question": "Which herb is traditionally a symbol of remembrance?",
+      "choices": [
+        "Rosemary",
+        "Lavender",
+        "Mint",
+        "Parsley"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Rosemary",
+      "answerExplanation": "Rosemary is the traditional herb of remembrance, often used in memorial wreaths. Lavender is strongly associated with fragrance and calm, but it does not carry rosemary’s specific remembrance symbolism.",
+      "whyNow": "The newly awarded Elizabeth Emblems include a rosemary wreath in their design, making the old symbolic language of plants newly visible.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-04",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "Royal Horticultural Society",
+          "title": "Remembering Queen Elizabeth II at RHS Gardens",
+          "canonicalArticleUrl": "https://www.rhs.org.uk/about-us/our-people/the-royal-family/remembering-queen-elizabeth-ii",
+          "checkedAt": "2026-09-04T21:14:19.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Latest Elizabeth Emblems awarded to families of public servants who died in the line of duty",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/latest-elizabeth-emblems-awarded-to-families-of-public-servants-who-died-in-the-line-of-duty",
+          "publishedAt": "2026-09-04T15:24:09.000Z",
+          "checkedAt": "2026-09-04T21:15:12.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-04T21:14:19.000Z"
+    },
+    {
+      "id": "global-voices-249c83e576",
+      "difficulty": 2,
+      "category": "Everyday Life",
+      "archetype": "language",
+      "question": "For an infant under six months, “exclusive breastfeeding” excludes even which drink?",
+      "choices": [
+        "Water",
+        "Fruit juice",
+        "Herbal tea",
+        "Formula"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Water",
+      "answerExplanation": "Exclusive breastfeeding means only breast milk—no other food or drink, including water, for the first six months. Formula is also excluded because it is not breast milk. The wording matters when families and workplaces discuss feeding support.",
+      "whyNow": "Reporting on childcare and breastfeeding support for garment workers makes a widely used infant-feeding term worth unpacking.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-04",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "UNICEF",
+          "title": "Why breastfeeding is critical for babies",
+          "canonicalArticleUrl": "https://www.unicef.org/stories/why-breastfeeding-best-babies",
+          "checkedAt": "2026-09-04T21:07:33.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Maternity leave is expanding in Bangladesh, but garment workers still struggle for childcare",
+          "publisher": "Global Voices",
+          "canonicalArticleUrl": "https://globalvoices.org/2026/09/04/maternity-leave-is-expanding-in-bangladesh-but-garment-workers-still-struggle-for-childcare/",
+          "publishedAt": "2026-09-04T20:56:44.000Z",
+          "checkedAt": "2026-09-04T21:15:13.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-04T21:07:33.000Z"
+    },
+    {
+      "id": "gov-uk-dfa6578c37",
+      "difficulty": 2,
+      "category": "History & Geography",
+      "archetype": "historicalEcho",
+      "question": "The Good Friday Agreement is also known by the name of which city?",
+      "choices": [
+        "Belfast",
+        "Dublin",
+        "Derry",
+        "Cork"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Belfast",
+      "answerExplanation": "The Good Friday Agreement is also the Belfast Agreement, signed in 1998. Dublin is central to Irish public life, but it is not the agreement’s alternate name. Knowing both names helps make references to Northern Ireland’s peace process easier to recognize.",
+      "whyNow": "A British-Irish conference speech invoked the Good Friday Agreement, renewing attention to its enduring historical name.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-04",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "GOV.UK",
+          "title": "The Belfast Agreement",
+          "canonicalArticleUrl": "https://www.gov.uk/government/publications/the-belfast-agreement?app=true",
+          "checkedAt": "2026-09-04T21:07:33.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "The Secretary of State's speech to the British Irish Association Conference",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/the-secretary-of-states-speech-to-the-british-irish-association-conference",
+          "publishedAt": "2026-09-04T18:43:00.000Z",
+          "checkedAt": "2026-09-04T21:15:12.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-04T21:07:33.000Z"
+    },
+    {
+      "id": "bbc-news-133846a9b0",
+      "difficulty": 3,
+      "category": "History & Geography",
+      "archetype": "comparison",
+      "question": "Which projection shows straight lines as true directions but greatly distorts polar areas?",
+      "choices": [
+        "Mercator",
+        "Mollweide",
+        "Robinson",
+        "Azimuthal equidistant"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Mercator",
+      "answerExplanation": "Mercator is designed so straight lines show true direction, a boon to navigation. The trade-off is major size distortion near the poles; Mollweide instead aims to preserve area. That is why familiar world maps can give a misleading sense of continents’ relative sizes.",
+      "whyNow": "Debate over a world map that better reflects Africa’s size makes the unavoidable trade-offs of flat maps newly visible.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-04",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. Geological Survey",
+          "title": "How are different map projections used?",
+          "canonicalArticleUrl": "https://www.usgs.gov/faqs/how-are-different-map-projections-used",
+          "checkedAt": "2026-09-04T21:07:33.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "UN votes to adopt new world map to reflect Africa's true size",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo",
+          "publishedAt": "2026-09-04T19:44:40.000Z",
+          "checkedAt": "2026-09-04T21:15:12.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-04T21:07:33.000Z"
+    }
+  ]
+}
