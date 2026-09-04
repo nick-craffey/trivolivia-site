@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /dev
 Allow: /
 
 Sitemap: https://trivolivia.com/sitemap.xml

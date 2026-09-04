@@ -32,11 +32,11 @@
       <div class="legal-hero">
         <h1>Privacy Policy</h1>
         <p class="lede">This policy explains how trivolivia handles information in its local-first game, optional social features, public share links, and support channels.</p>
-        <p class="updated"><strong>Effective and last updated:</strong> September 2, 2026</p>
+        <p class="updated"><strong>Effective and last updated:</strong> September 4, 2026</p>
       </div>
 
       <article class="legal-card">
-        <p class="notice"><strong>At a glance:</strong> core play is local-first and needs no account. Your full learning history, Knowledge DNA, interests, and review schedule stay on your device. If you intentionally create a social identity, trivolivia sends the limited Daily results and profile information needed for challenges, Braintrusts, channels, and anonymous answer distributions. There are no ads or cross-site trackers.</p>
+        <p class="notice"><strong>At a glance:</strong> core play is local-first and needs no account. Your full learning history, Knowledge DNA, interests, and review schedule stay on your device. If you intentionally create a social identity, trivolivia sends the limited Daily results and profile information needed for challenges, Braintrusts, channels, and anonymous answer distributions. Optional analytics, disabled by default, shares limited future gameplay events only after you choose to enable it. There are no ads or cross-site trackers.</p>
 
         <section>
           <h2>Scope</h2>
@@ -53,7 +53,7 @@
             <li>cached Daily editions and immutable challenge manifests; and</li>
             <li>preferences, data-version information used for safe recovery, and—only after you enable social features—a random social identifier and secret access credential. Native apps place that credential in platform-protected Keychain or Keystore storage; the web app uses origin-scoped encrypted browser storage protected with Web Crypto.</li>
           </ul>
-          <p>Core play does not upload your complete answer history, Knowledge DNA profile, interests, review schedule, or ordinary non-Daily rounds to trivolivia. You can remove individual sessions from <strong>History</strong>, clear Knowledge DNA in the app, or remove all local information by clearing trivolivia site data or uninstalling the app. Clearing Knowledge DNA keeps saved quest and Daily history but records a local reset boundary so those older answers do not recreate the profile; only future answers begin a new profile. Clearing all local data erases progress and may also erase the only copy of your secret social credential.</p>
+          <p>Core play does not upload your complete answer history, Knowledge DNA profile, interests, review schedule, or ordinary non-Daily rounds through the social service. If you separately opt in to analytics, limited future gameplay events are shared as described below. You can remove individual sessions from <strong>History</strong>, clear Knowledge DNA in the app, or remove all local information by clearing trivolivia site data or uninstalling the app. Clearing Knowledge DNA keeps saved quest and Daily history but records a local reset boundary so those older answers do not recreate the profile; only future answers begin a new profile. Clearing all local data erases progress and may also erase the only copy of your secret social credential.</p>
         </section>
 
         <section>
@@ -68,10 +68,18 @@
             <li>social product-interaction information linked to the random guest identifier, including record creation and update times and participation in the social features you choose; and</li>
             <li>safety reports, blocks, and security and rate-limiting records needed to protect people and the service, as described below.</li>
           </ul>
-          <p>We use this information only to provide and secure the social features you request: verify scores against the published edition, prevent answer tampering and abuse, show comparisons, calculate group summaries, choose channel rounds, and maintain the service. We do not use it for advertising or behavioral analytics.</p>
+          <p>We use this information only to provide and secure the social features you request: verify scores against the published edition, prevent answer tampering and abuse, show comparisons, calculate group summaries, choose channel rounds, and maintain the service. We also show aggregate counts of existing social records to authorized operators to understand service usage. These records are not joined to optional analytics device identifiers or used for advertising.</p>
           <p>For App Store privacy disclosures, the guest-linked social timestamps and participation records are <strong>Product Interaction</strong> linked to a user. “Linked” here means linked to the app’s pseudonymous guest identifier—not that trivolivia asks for or knows your real-world identity. This information is not used to track you across other companies’ apps or websites.</p>
           <p>The app may fetch the public channel catalog before you create a social identity. That request carries ordinary connection information, such as an IP address and request headers, but no social credential, answer history, Knowledge DNA, interests, or review schedule.</p>
           <p>To limit automated identity creation and Daily-result abuse, the service derives one-way, action- and time-window-specific identifiers from the gateway-observed IP or network address. The persistent rate-limit record contains only a hash-based key, an action name, a counter, update time, and expiry—not the raw IP address—and is not joined to a guest record. Shorter per-instance counters remain only in memory for about one minute. We conservatively disclose the persistent network-derived identifier as an unlinked <strong>Device ID</strong> used for app functionality and security. Cloud providers may separately process ordinary request metadata and logs as described under “Service providers and technical information.”</p>
+        </section>
+
+        <section>
+          <h2>Optional gameplay analytics</h2>
+          <p>Analytics is <strong>off by default</strong>. The app asks for a separate choice and you can continue playing without enabling it. If you choose to share analytics, future app sessions, screen views, round starts and completions, and question-answer events are sent to our Google Cloud service. We receive a random device identifier, a random session and round identifier, event time, app platform and version, device language, time-zone offset, and broad screen-size class. Gameplay properties are limited to the play mode, allowlisted topic/category, difficulty, correctness, duration, and counts. Generated topics are grouped under a generic label. We do not send typed searches, question or answer text, names, email addresses, social identifiers or credentials, your complete learning ledger, Knowledge DNA, precise location, or advertising identifiers.</p>
+          <p>The server hashes device, session, and round identifiers before storing them. Authorized administrators can view device-level activity and aggregate usage, completion, accuracy, and return-rate reports in a protected dashboard. An anonymous device identifier still links events from that installation; it does not tell us who you are and is not joined to your social profile. Data is used to understand and improve trivolivia, not advertising or cross-site tracking.</p>
+          <p>Open <strong>Privacy &amp; analytics</strong> to turn sharing off. Turning off and forgetting the device identifier stops new events and clears queued events and that local identifier. Previously received events remain for up to 31 days from the event, then are excluded from reports and scheduled for automatic deletion; physical deletion may follow after the cloud provider processes its expiry queue. We cannot recover an old device identifier once you forget it. Enabling analytics again creates a new identifier. Historical local play is never backfilled.</p>
+          <p>For mobile privacy disclosures, optional analytics adds an Analytics purpose to device identifiers, product interactions, gameplay content, and gameplay timing. These events are linked to a random device identifier, not a real-world identity.</p>
         </section>
 
         <section>
@@ -109,7 +117,7 @@
 
         <section>
           <h2>Cookies, caching, and tracking</h2>
-          <p>trivolivia does not set cookies for accounts, advertising, or analytics. Browser storage and cached site files support local progress and faster loading. The social service uses the secret credential stored by the app rather than a tracking cookie. On the web, encrypted credential storage is still part of the same website origin: clearing browser data can erase it, and malicious code running with that origin’s privileges could access it. Native Keychain or Keystore storage provides a stronger platform boundary but cannot protect an unlocked, compromised device.</p>
+          <p>trivolivia does not set cookies for advertising or gameplay analytics. When you opt in, browser or app storage retains your analytics choice and random device identifier. The private administrator dashboard uses Firebase email-and-password authentication; it holds short-lived credentials in page memory and clears them on sign-out or page exit. Browser storage and cached site files support local progress and faster loading. The social service uses the secret credential stored by the app rather than a tracking cookie. On the web, encrypted credential storage is still part of the same website origin: clearing browser data can erase it, and malicious code running with that origin’s privileges could access it. Native Keychain or Keystore storage provides a stronger platform boundary but cannot protect an unlocked, compromised device.</p>
           <p>The app does not track you across other companies’ websites or apps, sell personal information, or share personal information for cross-context behavioral advertising. We have not sold or shared personal information for those purposes.</p>
           <p>Because trivolivia does not perform cross-site tracking, it does not respond differently to browser “Do Not Track” signals.</p>
         </section>

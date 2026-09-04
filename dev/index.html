@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://social-us-central1-m1rif45.uc.gateway.dev; base-uri 'none'; form-action 'none'; object-src 'none'">
+  <title>trivolivia · Analytics</title>
+  <link rel="icon" href="/trivolivia-icon-2026-08.png">
+  <link rel="stylesheet" href="/dev/dashboard.css">
+  <script type="module" src="/dev/dashboard.js"></script>
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="/"><span class="mark">?</span> trivolivia <span class="badge">DEV</span></a><span class="topnote">Private analytics</span><button id="sign-out" class="quiet" hidden>Sign out</button></header>
+  <main>
+    <section id="login" class="login-panel">
+      <div class="lock" aria-hidden="true">↗</div><p class="eyebrow">THE VIEW BEHIND THE GAME</p><h1>A little more insight.</h1><p class="muted">Sign in to see how people play trivolivia.</p>
+      <form id="login-form">
+        <label for="email">Email</label><input id="email" name="email" type="email" autocomplete="username" required>
+        <label for="password">Password</label><input id="password" name="password" type="password" autocomplete="current-password" required>
+        <button id="sign-in" class="primary" type="submit">Open dashboard <span aria-hidden="true">→</span></button>
+      </form>
+      <button id="reset-password" class="text-button">Forgot your password?</button>
+      <p id="login-message" class="message" role="status" aria-live="polite"></p>
+      <p class="fine">Access is limited to approved administrators.</p>
+    </section>
+    <section id="dashboard" class="dashboard" hidden>
+      <div class="page-heading"><div><p class="eyebrow">TRIVOLIVIA / ANALYTICS</p><h1>How curiosity is growing.</h1><p id="updated" class="muted">Loading your activity…</p></div><div class="controls"><label for="period" class="sr-only">Date range</label><select id="period"><option value="7">Last 7 days</option><option value="14">Last 14 days</option><option value="30" selected>Last 30 days</option></select><button id="refresh" class="secondary">↻ Refresh</button><button id="export" class="secondary" disabled>Export CSV</button></div></div>
+      <nav class="tabs" aria-label="Analytics sections"><button class="tab active" data-tab="overview" aria-pressed="true">Overview</button><button class="tab" data-tab="players" aria-pressed="false">Players</button><button class="tab" data-tab="activity" aria-pressed="false">Activity</button><button class="tab" data-tab="social" aria-pressed="false">Social</button></nav>
+      <p id="dashboard-message" class="message" role="status" aria-live="polite"></p>
+      <div class="coverage"><span class="dot"></span><span id="coverage-text">Optional first-party analytics · anonymous devices · 31-day history</span></div>
+      <div id="panel-overview" class="tab-panel">
+        <div id="kpis" class="kpis"></div>
+        <div class="primary-grid"><section class="card trend-card"><div class="card-heading"><div><h2>Coming back for more</h2><p class="muted">Active devices each day · UTC</p></div><span class="legend"><i></i> Active devices</span></div><div id="trend" class="trend"></div></section><section class="card"><h2>The play journey</h2><p class="muted">Sessions → rounds → finished rounds</p><div id="journey"></div><div id="retention" class="retention"></div></section></div>
+        <div class="three-grid"><section class="card"><h2>Favorite ways to play</h2><p class="muted">Rounds started by mode</p><div id="modes"></div></section><section class="card"><h2>What sparks curiosity</h2><p class="muted">Questions answered by topic</p><div id="topics"></div></section><section class="card"><h2>Where people explore</h2><p class="muted">Screen views</p><div id="screens"></div></section></div>
+        <div class="three-grid"><section class="card"><h2>Categories</h2><p class="muted">Questions answered by category</p><div id="categories"></div></section><section class="card"><h2>Difficulty</h2><p class="muted">Answers by difficulty</p><div id="difficulties"></div></section><section class="card"><h2>Screen sizes</h2><p class="muted">Broad device viewport class</p><div id="screen-classes"></div></section></div>
+        <div class="three-grid"><section class="card"><h2>Platforms</h2><p class="muted">Distinct devices per platform</p><div id="platforms"></div></section><section class="card"><h2>Languages</h2><p class="muted">Device language</p><div id="languages"></div></section><section class="card"><h2>App versions</h2><p class="muted">Versions in use</p><div id="versions"></div></section><section class="card"><h2>Time zones</h2><p class="muted">Broad device UTC offset</p><div id="timezones"></div></section></div>
+        <p class="footnote">Only players who choose to share analytics appear here. A device is not necessarily a person. Return rates use the first activity seen in the retained 31-day history; they are not lifetime install cohorts. Activity is self-reported and may be delayed or missing.</p>
+      </div>
+      <div id="panel-players" class="tab-panel" hidden><section class="card"><div class="card-heading"><div><h2>A closer look at players</h2><p class="muted">Up to 100 recently active anonymous devices. Select a device to see its recent journey.</p></div><label><span class="sr-only">Search device ID</span><input id="player-search" type="search" placeholder="Find a device ID"></label></div><div id="players-table" class="table-scroll"></div></section><section id="player-detail" class="card" hidden></section></div>
+      <div id="panel-activity" class="tab-panel" hidden><section class="card"><div class="card-heading"><div><h2>The latest little discoveries</h2><p class="muted">The 100 most recent events in this period.</p></div><label><span class="sr-only">Event type</span><select id="event-filter"><option value="all">All events</option><option value="session_started">Session started</option><option value="screen_view">Screen viewed</option><option value="round_started">Round started</option><option value="question_answered">Question answered</option><option value="round_completed">Round completed</option></select></label></div><div id="activity-table" class="table-scroll"></div></section></div>
+      <div id="panel-social" class="tab-panel" hidden><section class="card"><h2>Playing together</h2><p class="muted">Current social service inventory, separate from optional gameplay analytics. Expired records and automated test accounts are excluded. Some records expire after 14 or 31 days; these are not lifetime totals.</p><div id="social-kpis" class="kpis social-kpis"></div><p id="social-note" class="footnote"></p></section></div>
+    </section>
+  </main>
+  <footer>trivolivia <span>·</span> A clearer view of a curious little world.</footer>
+</body>
+</html>
