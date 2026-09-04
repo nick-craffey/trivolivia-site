@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-04",
+  "version": "auto-v2-20260904T162643Z",
+  "digest": "df6c4702235c57f867dcc50d47f09e907bc73ee7b0c89a5fae7c995d356be751",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-04T16:26:43.000Z",
+  "validFrom": "2026-09-04T00:00:00.000Z",
+  "expiresAt": "2026-09-05T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "global-voices-8d20f7423f",
+      "difficulty": 1,
+      "category": "Sports & Games",
+      "archetype": "hiddenIdentity",
+      "question": "A footballer wins a tournament’s Golden Boot. What did they lead the tournament in?",
+      "choices": [
+        "Most clean sheets",
+        "Most assists",
+        "Most goals",
+        "Most minutes played"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "Most goals",
+      "answerExplanation": "The Golden Boot recognizes the top goalscorer. Assists can decide a tiebreak in some competitions, but they are not the main criterion; clean sheets belong to goalkeeper awards. It spotlights finishing rather than all-around play.",
+      "whyNow": "Cameroon’s women have just celebrated a landmark continental title, including individual tournament honors that make football’s best-known awards timely.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-08-16",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "FIFA",
+          "title": "Calvert-Lewin: I want to be the man England rely on to score goals",
+          "canonicalArticleUrl": "https://inside.fifa.com/tournaments/mens/worldcup/qatar2022/news/calvert-lewin-i-want-to-be-the-man-england-rely-on-to-score-goals",
+          "checkedAt": "2026-09-04T16:15:14.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Cameroon’s indomitable Lionesses football team finally shatter WAFCON glass ceiling",
+          "publisher": "Global Voices",
+          "canonicalArticleUrl": "https://globalvoices.org/2026/09/04/cameroons-indomitable-lionesses-football-team-finally-shatter-wafcon-glass-ceiling/",
+          "publishedAt": "2026-09-04T00:00:00.000Z",
+          "checkedAt": "2026-09-04T16:26:43.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-04T16:15:14.000Z"
+    },
+    {
+      "id": "nasa-5049d90645",
+      "difficulty": 1,
+      "category": "Technology & Innovation",
+      "archetype": "appliedScenario",
+      "question": "A cargo spacecraft carries food and fuel to a station but no passengers. What mission is it doing?",
+      "choices": [
+        "A crew rotation mission",
+        "An uncrewed resupply mission",
+        "A spacewalk mission",
+        "A satellite repair mission"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "An uncrewed resupply mission",
+      "answerExplanation": "An uncrewed resupply mission delivers cargo for people already in orbit. A crew rotation mission transports astronauts or cosmonauts; spacewalk and repair missions have entirely different purposes.",
+      "whyNow": "NASA is preparing coverage of a Progress spacecraft that will bring several tons of supplies to the International Space Station.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-09",
+      "eventStatus": "scheduled",
+      "coreFactSources": [
+        {
+          "publisher": "NASA",
+          "title": "NASA to Air Launch, Docking of Roscosmos Cargo Ship to Space Station",
+          "canonicalArticleUrl": "https://www.nasa.gov/news-release/nasa-to-air-launch-docking-of-roscosmos-cargo-ship-to-space-station/",
+          "checkedAt": "2026-09-04T16:15:14.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
+          "publishedAt": "2026-09-03T17:06:00.000Z",
+          "checkedAt": "2026-09-04T16:26:42.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-04T16:15:14.000Z"
+    },
+    {
+      "id": "the-white-house-cf121c24ce",
+      "difficulty": 2,
+      "category": "Business & Economy",
+      "archetype": "system",
+      "question": "For the U.S. jobless rate, someone without work is generally counted as unemployed only if they are doing what?",
+      "choices": [
+        "Receiving unemployment benefits",
+        "Working under 40 hours weekly",
+        "Actively seeking and available to work",
+        "Enrolled in job training"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "Actively seeking and available to work",
+      "answerExplanation": "The official measure generally counts people who have no job, actively looked for work recently, and are available to take one. Receiving benefits is not required, and working part-time means a person is employed, not unemployed.",
+      "whyNow": "The latest U.S. employment report has put payrolls and unemployment figures at the center of economic news.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-04",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "title": "How the Government Measures Unemployment",
+          "canonicalArticleUrl": "https://www.bls.gov/cps/cps_htgm.htm",
+          "checkedAt": "2026-09-04T16:15:14.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report",
+          "publisher": "The White House",
+          "canonicalArticleUrl": "https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
+          "publishedAt": "2026-09-04T15:25:08.000Z",
+          "checkedAt": "2026-09-04T16:26:42.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-04T16:15:14.000Z"
+    },
+    {
+      "id": "gov-uk-645d963dd1",
+      "difficulty": 2,
+      "category": "History & Geography",
+      "archetype": "comparison",
+      "question": "Which part of the UK is not part of Great Britain?",
+      "choices": [
+        "England",
+        "Northern Ireland",
+        "Scotland",
+        "Wales"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "Northern Ireland",
+      "answerExplanation": "Great Britain is England, Scotland and Wales. The UK includes those three plus Northern Ireland, which is on the island of Ireland. The distinction matters in travel, maps, sport and official statistics.",
+      "whyNow": "A September 4 update on child-facing work applies across several UK nations, making this common map distinction timely.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-04",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "Office for National Statistics",
+          "title": "People and places: Countries and regions",
+          "canonicalArticleUrl": "https://service-manual.ons.gov.uk/content/language/countries-and-regions",
+          "checkedAt": "2026-09-04T16:25:55.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Regulated activity with children: myth busting the September 2026 Supervision Exemption changes",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/regulated-activity-with-children-common-misconceptions-about-the-sept-2026-supervision-exemption-changes",
+          "publishedAt": "2026-09-04T14:57:03.000Z",
+          "checkedAt": "2026-09-04T16:26:43.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-04T16:25:55.000Z"
+    },
+    {
+      "id": "the-guardian-3ab26f1202",
+      "difficulty": 3,
+      "category": "World & Society",
+      "archetype": "comparison",
+      "question": "Which EU country keeps its own visa and border rules rather than joining Schengen?",
+      "choices": [
+        "Austria",
+        "Ireland",
+        "Spain",
+        "Sweden"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "Ireland",
+      "answerExplanation": "Ireland has an opt-out from Schengen and keeps its own visa and border policies. Austria, Spain and Sweden are in Schengen, where internal border checks have generally been abolished.",
+      "whyNow": "A September 4 visa debate turns on the often-confused boundary between the EU and the Schengen travel area.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-04",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "European Commission",
+          "title": "Schengen area",
+          "canonicalArticleUrl": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en",
+          "checkedAt": "2026-09-04T16:25:55.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Germany urges EU to cut Russians’ holiday visas after sabotage attacks",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/world/2026/sep/04/germany-russian-visas-eu-countries",
+          "publishedAt": "2026-09-04T15:22:53.000Z",
+          "checkedAt": "2026-09-04T16:26:42.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-04T16:25:55.000Z"
+    }
+  ]
+}
