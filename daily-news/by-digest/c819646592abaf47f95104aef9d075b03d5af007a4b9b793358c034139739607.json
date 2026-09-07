@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-08",
+  "version": "auto-v2-20260907T215914Z",
+  "digest": "c819646592abaf47f95104aef9d075b03d5af007a4b9b793358c034139739607",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-07T21:59:14.000Z",
+  "validFrom": "2026-09-08T00:00:00.000Z",
+  "expiresAt": "2026-09-09T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "nasa-12fdfe7038",
+      "difficulty": 1,
+      "category": "Science & Nature",
+      "archetype": "hiddenIdentity",
+      "question": "Cygnus, home to the Pelican Nebula, is the Latin name for which bird?",
+      "choices": [
+        "Eagle",
+        "Crane",
+        "Swan",
+        "Pelican"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "Swan",
+      "answerExplanation": "Cygnus is the Swan. The Pelican Nebula only appears within that constellation, so “pelican” is the tempting nearby wrong answer. Constellation names are sky patterns, not necessarily descriptions of every object within them.",
+      "whyNow": "NASA’s latest image features the Pelican Nebula, renewing attention on the constellation around it.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-07",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "NASA",
+          "title": "APOD: 2006 November 30 - A Pelican in the Swan",
+          "canonicalArticleUrl": "https://apod.nasa.gov/apod/ap061130.html",
+          "checkedAt": "2026-09-07T21:51:47.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+          "publishedAt": "2026-09-07T04:05:00.000Z",
+          "checkedAt": "2026-09-07T21:59:13.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-07T21:51:47.000Z"
+    },
+    {
+      "id": "global-voices-c550abfd40",
+      "difficulty": 1,
+      "category": "World & Society",
+      "archetype": "comparison",
+      "question": "When water is not available at home, which pair most often fetches it in affected households?",
+      "choices": [
+        "Women and girls",
+        "Men and boys",
+        "Adult women and men equally",
+        "Boys and girls equally"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Women and girls",
+      "answerExplanation": "Women and girls most often bear this task. UNICEF and WHO report that women and girls aged 15 and older are mainly responsible in 7 in 10 households without water on the premises; men and boys are the nearer contrast, but far less often responsible.",
+      "whyNow": "A report from Kazakhstan highlights the human time cost when taps run dry, especially for women.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-07",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "UNICEF",
+          "title": "Women and girls bear brunt of water and sanitation crisis – new UNICEF-WHO report",
+          "canonicalArticleUrl": "https://www.unicef.org/wca/press-releases/women-and-girls-bear-brunt-water-and-sanitation-crisis-new-unicef-who-report",
+          "checkedAt": "2026-09-07T21:51:47.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "When the tap runs dry: Women carry more than water in Kazakhstan",
+          "publisher": "Global Voices",
+          "canonicalArticleUrl": "https://globalvoices.org/2026/09/07/when-the-tap-runs-dry-women-carry-more-than-water-in-kazakhstan/",
+          "publishedAt": "2026-09-07T18:12:45.000Z",
+          "checkedAt": "2026-09-07T21:59:13.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-07T21:51:47.000Z"
+    },
+    {
+      "id": "nasa-bfae61052c",
+      "difficulty": 2,
+      "category": "Science & Nature",
+      "archetype": "hiddenIdentity",
+      "question": "What is a pool of molten rock held in a volcano’s crater called?",
+      "choices": [
+        "Lava lake",
+        "Magma chamber",
+        "Caldera",
+        "Lava tube"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Lava lake",
+      "answerExplanation": "A lava lake is molten lava pooled in a crater or vent. A magma chamber is below ground, a caldera is a large collapse depression, and a lava tube is a conduit beneath a lava flow. The names describe very different volcanic features.",
+      "whyNow": "NASA’s September 7 image showed Mount Michael’s long-lived molten feature from space.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-07",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. Geological Survey",
+          "title": "Volcano Hazards Program Glossary",
+          "canonicalArticleUrl": "https://www.usgs.gov/glossary/volcano-hazards-program-glossary",
+          "checkedAt": "2026-09-07T21:58:32.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "A Bright Spot at Mount Michael",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+          "publishedAt": "2026-09-07T04:01:00.000Z",
+          "checkedAt": "2026-09-07T21:59:13.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-07T21:58:32.000Z"
+    },
+    {
+      "id": "european-commission-c8bc788f75",
+      "difficulty": 2,
+      "category": "Language & Ideas",
+      "archetype": "comparison",
+      "question": "Which language is officially recognized in Greenland?",
+      "choices": [
+        "Greenlandic",
+        "Danish",
+        "Icelandic",
+        "Faroese"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Greenlandic",
+      "answerExplanation": "Greenlandic is Greenland’s official language. Danish can still be used in official matters, which makes it a tempting choice, while Icelandic and Faroese are languages of nearby North Atlantic societies. Language recognition is part of Greenland’s self-government identity.",
+      "whyNow": "An EU–Greenland joint declaration signed on September 7 puts Greenland’s distinctive culture and self-government in the spotlight.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-07",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "Statsministeriet",
+          "title": "Greenland",
+          "canonicalArticleUrl": "https://stm.dk/en/the-prime-ministers-office/the-unity-of-the-realm/greenland/",
+          "checkedAt": "2026-09-07T21:58:32.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Statement by President von der Leyen at the signing of the EU-Greenland Joint Declaration",
+          "publisher": "European Commission",
+          "canonicalArticleUrl": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1803",
+          "publishedAt": "2026-09-07T09:46:49.000Z",
+          "checkedAt": "2026-09-07T21:59:14.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-07T21:58:32.000Z"
+    },
+    {
+      "id": "bbc-news-199cb4e4ea",
+      "difficulty": 3,
+      "category": "World & Society",
+      "archetype": "hiddenIdentity",
+      "question": "After crossing a border to seek protection, someone awaits a decision on their claim. What are they called?",
+      "choices": [
+        "A refugee",
+        "An asylum-seeker",
+        "An internally displaced person",
+        "A migrant worker"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "An asylum-seeker",
+      "answerExplanation": "An asylum-seeker has applied for protection and is awaiting a decision. A refugee has already received that status, while an internally displaced person has not crossed an international border. A migrant worker moves primarily for employment.",
+      "whyNow": "A September 7 report tracing a migrant boat journey provides a human context for precise migration vocabulary.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-07",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "Office for National Statistics",
+          "title": "Experiences of displaced young people living in England",
+          "canonicalArticleUrl": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/experiencesofdisplacedyoungpeoplelivinginengland/latest",
+          "checkedAt": "2026-09-07T21:58:32.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "What we know about the journey of the Portsmouth migrant boat",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/news/videos/ce8xz6p23dno",
+          "publishedAt": "2026-09-07T17:57:19.000Z",
+          "checkedAt": "2026-09-07T21:59:13.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-07T21:58:32.000Z"
+    }
+  ]
+}
