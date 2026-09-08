@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-07",
+  "version": "auto-v2-20260907T003511Z",
+  "digest": "7f06bfe0674d976ed60191d134a4057414737dcbc89025b2cd6d28cd7347e3e0",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-07T00:35:11.000Z",
+  "validFrom": "2026-09-07T00:00:00.000Z",
+  "expiresAt": "2026-09-08T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "gov-uk-404137d2a2",
+      "difficulty": 1,
+      "category": "Arts & Culture",
+      "archetype": "hiddenIdentity",
+      "question": "Which author created Bilbo Baggins and The Hobbit?",
+      "choices": [
+        "J. R. R. Tolkien",
+        "C. S. Lewis",
+        "Philip Pullman",
+        "Roald Dahl"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "J. R. R. Tolkien",
+      "answerExplanation": "J. R. R. Tolkien wrote The Hobbit and created Bilbo’s Middle-earth adventure. C. S. Lewis is the nearest distractor because he created another famous fantasy world, Narnia. It is a useful reminder that the two authors’ worlds are distinct.",
+      "whyNow": "A UK reporting overhaul noted that some annual reports now run longer than Tolkien’s famous novel, making its author a timely cultural touchstone.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-06",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "The Tolkien Estate",
+          "title": "John D. Rateliff, ‘The Hobbit’",
+          "canonicalArticleUrl": "https://www.tolkienestate.com/writing/john-d-rateliff-the-hobbit/",
+          "checkedAt": "2026-09-07T00:26:06.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Firms freed from ‘pen-pushing paperwork’ and costly red tape in business reporting overhaul",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/firms-freed-from-pen-pushing-paperwork-and-costly-red-tape-in-business-reporting-overhaul",
+          "publishedAt": "2026-09-06T07:31:01.000Z",
+          "checkedAt": "2026-09-07T00:35:10.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-07T00:26:06.000Z"
+    },
+    {
+      "id": "bbc-news-13c00a238b",
+      "difficulty": 1,
+      "category": "Everyday Life",
+      "archetype": "appliedScenario",
+      "question": "A boat radio call of “Mayday” means which situation?",
+      "choices": [
+        "A grave, immediate danger needing help",
+        "An urgent concern needing attention",
+        "A routine safety announcement",
+        "A navigational weather warning"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "A grave, immediate danger needing help",
+      "answerExplanation": "Mayday is a distress call for grave and imminent danger when assistance is required. An urgent but less immediate situation uses “Pan Pan” instead. The distinction helps radio users give emergencies the right priority.",
+      "whyNow": "The rescue of people from a crowded dinghy makes the best-known maritime distress call a timely, practical bit of knowledge.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-06",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "GOV.UK",
+          "title": "GMDSS VHF DSC procedures for small boat users",
+          "canonicalArticleUrl": "https://www.gov.uk/government/publications/gmdss-sea-areas-and-procedures-for-small-boat-users/gmdss-vhf-dsc-procedures-for-small-boat-users",
+          "checkedAt": "2026-09-07T00:34:11.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "140 migrants in single dinghy rescued in English Channel",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo",
+          "publishedAt": "2026-09-06T22:42:56.000Z",
+          "checkedAt": "2026-09-07T00:35:09.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-07T00:34:11.000Z"
+    },
+    {
+      "id": "the-guardian-2290661cd9",
+      "difficulty": 2,
+      "category": "History & Geography",
+      "archetype": "hiddenIdentity",
+      "question": "Bristol’s historic Temple Meads station was designed by which engineer?",
+      "choices": [
+        "Isambard Kingdom Brunel",
+        "George Stephenson",
+        "Joseph Bazalgette",
+        "Thomas Telford"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Isambard Kingdom Brunel",
+      "answerExplanation": "Isambard Kingdom Brunel designed Bristol Old Station for the Great Western Railway. Stephenson was another railway pioneer, but Temple Meads is Brunel’s work—part of why Bristol is so closely associated with him.",
+      "whyNow": "Bristol’s new Temple Quarter campus is opening beside Temple Meads, putting the city’s old and new transport-and-learning landmarks side by side.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-07",
+      "eventStatus": "scheduled",
+      "coreFactSources": [
+        {
+          "publisher": "Historic England",
+          "title": "Bristol Old Station, Temple Meads",
+          "canonicalArticleUrl": "https://historicengland.org.uk/listing/the-list/list-entry/1209622",
+          "checkedAt": "2026-09-07T00:30:32.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "‘Gigantic spaceship’: University of Bristol’s flagship £500m campus opens",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/uk-news/2026/sep/07/university-of-bristol-flagship-500m-campus-opens",
+          "publishedAt": "2026-09-06T23:01:18.000Z",
+          "checkedAt": "2026-09-07T00:35:09.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-07T00:30:32.000Z"
+    },
+    {
+      "id": "global-voices-d476e80193",
+      "difficulty": 2,
+      "category": "History & Geography",
+      "archetype": "historicalEcho",
+      "question": "The Srebrenica genocide occurred during which 1990s conflict?",
+      "choices": [
+        "The Bosnian War",
+        "The Kosovo War",
+        "The Croatian War of Independence",
+        "The Slovenian Ten-Day War"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "The Bosnian War",
+      "answerExplanation": "The answer is the Bosnian War. Srebrenica was in eastern Bosnia during the 1992–95 conflict. The Kosovo War came later and centered on Kosovo, so mixing them up blurs distinct histories and places.",
+      "whyNow": "Debate over remembrance in North Macedonia has brought the history of Srebrenica and the wider Bosnian conflict back into focus.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-06",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "United Nations International Residual Mechanism for Criminal Tribunals",
+          "title": "Srebrenica 30",
+          "canonicalArticleUrl": "https://www.irmct.org/srebrenica/en/",
+          "checkedAt": "2026-09-07T00:30:32.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "North Macedonia’s independence should not be commemorated by glorifying war criminals",
+          "publisher": "Global Voices",
+          "canonicalArticleUrl": "https://globalvoices.org/2026/09/06/north-macedonias-independence-should-not-be-commemorated-by-glorifying-war-criminals/",
+          "publishedAt": "2026-09-06T11:11:21.000Z",
+          "checkedAt": "2026-09-07T00:35:10.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-07T00:30:32.000Z"
+    },
+    {
+      "id": "the-guardian-b1c4bd5867",
+      "difficulty": 3,
+      "category": "Science & Nature",
+      "archetype": "mechanism",
+      "question": "Near the surface, Northern Hemisphere hurricane winds follow which path around the eye?",
+      "choices": [
+        "Counterclockwise, spiraling inward",
+        "Counterclockwise, spiraling outward",
+        "Clockwise, spiraling inward",
+        "Clockwise, spiraling outward"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Counterclockwise, spiraling inward",
+      "answerExplanation": "Near-surface air moves toward a hurricane’s low-pressure center, while Northern Hemisphere circulation is counterclockwise. So the winds spiral inward counterclockwise; the other options miss either the spin or the inward flow.",
+      "whyNow": "A hurricane approaching Hawaii makes the storm’s striking spiral structure newly visible and relevant.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-07",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "NOAA National Environmental Satellite, Data, and Information Service",
+          "title": "How Does a Hurricane Form?",
+          "canonicalArticleUrl": "https://www.nesdis.noaa.gov/about/k-12-education/severe-weather/how-does-hurricane-form",
+          "checkedAt": "2026-09-07T00:30:32.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Hawaii declares state of emergency as Hurricane Lowell approaches islands",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
+          "publishedAt": "2026-09-06T19:12:36.000Z",
+          "checkedAt": "2026-09-07T00:35:10.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-07T00:30:32.000Z"
+    }
+  ]
+}

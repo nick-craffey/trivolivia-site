@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-06",
+  "version": "auto-v2-20260906T154511Z",
+  "digest": "6dc0e274ea3f7d2f233c931fdc2a6cc96e02981edfcfa7dca28b8a8371d219ea",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-06T15:45:11.000Z",
+  "validFrom": "2026-09-06T00:00:00.000Z",
+  "expiresAt": "2026-09-07T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "the-guardian-92c376cb4e",
+      "difficulty": 1,
+      "category": "Everyday Life",
+      "archetype": "language",
+      "question": "A job is made redundant when the employer says what has happened?",
+      "choices": [
+        "The job no longer exists",
+        "The worker broke workplace rules",
+        "The worker resigned voluntarily",
+        "The worker reached retirement age"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "The job no longer exists",
+      "answerExplanation": "A genuine redundancy means the job itself no longer exists or is no longer needed. That differs from dismissal for misconduct or poor performance, because redundancy is about the role rather than the worker.",
+      "whyNow": "Reports of job cuts at Jaguar Land Rover have put the term “redundancy” back into everyday headlines.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 3,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-06",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "GOV.UK",
+          "title": "Making staff redundant: Overview",
+          "canonicalArticleUrl": "https://www.gov.uk/staff-redundant",
+          "checkedAt": "2026-09-06T15:33:46.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "No bailouts for Jaguar Land Rover amid reports of thousands of job cuts, says minister",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/business/2026/sep/06/bailouts-jaguar-land-rover-redundancies-cuts-business-secretary",
+          "publishedAt": "2026-09-06T13:24:05.000Z",
+          "checkedAt": "2026-09-06T15:45:07.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-06T15:33:46.000Z"
+    },
+    {
+      "id": "gov-uk-82b521070b",
+      "difficulty": 1,
+      "category": "Business & Economy",
+      "archetype": "comparison",
+      "question": "Which financial statement shows what a company owns and owes at a single point in time?",
+      "choices": [
+        "Balance sheet",
+        "Income statement",
+        "Cash flow statement",
+        "Statement of shareholders’ equity"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Balance sheet",
+      "answerExplanation": "A balance sheet is a snapshot of assets, liabilities and equity on a particular date. A cash flow statement instead tracks money moving in and out over a period—useful, but not the same financial picture.",
+      "whyNow": "A business-reporting overhaul makes the basic documents behind company accounts especially timely.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 3,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-06",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. Securities and Exchange Commission",
+          "title": "Beginners' Guide to Financial Statement",
+          "canonicalArticleUrl": "https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide",
+          "checkedAt": "2026-09-06T15:38:59.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Firms freed from ‘pen-pushing paperwork’ and costly red tape in business reporting overhaul",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/firms-freed-from-pen-pushing-paperwork-and-costly-red-tape-in-business-reporting-overhaul",
+          "publishedAt": "2026-09-06T07:31:01.000Z",
+          "checkedAt": "2026-09-06T15:45:07.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-06T15:38:59.000Z"
+    },
+    {
+      "id": "global-voices-5906d39b98",
+      "difficulty": 2,
+      "category": "History & Geography",
+      "archetype": "historicalEcho",
+      "question": "In 1991, North Macedonia became independent amid the breakup of which state?",
+      "choices": [
+        "The Ottoman Empire",
+        "Czechoslovakia",
+        "Yugoslavia",
+        "The Soviet Union"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "Yugoslavia",
+      "answerExplanation": "North Macedonia emerged during Yugoslavia’s breakup. Czechoslovakia and the Soviet Union also dissolved around that era, making them tempting, but North Macedonia had been a Yugoslav republic. The distinction anchors the country’s modern history and regional relationships.",
+      "whyNow": "The Global Voices commentary reflects on North Macedonia’s independence and contested regional memory, making its path out of Yugoslavia a timely historical anchor.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-06",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "Office of the Historian, U.S. Department of State",
+          "title": "A Guide to the United States’ History of Recognition, Diplomatic, and Consular Relations, by Country, since 1776: North Macedonia",
+          "canonicalArticleUrl": "https://history.state.gov/countries/macedonia",
+          "checkedAt": "2026-09-06T15:44:24.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "North Macedonia’s independence should not be commemorated by glorifying war criminals",
+          "publisher": "Global Voices",
+          "canonicalArticleUrl": "https://globalvoices.org/2026/09/06/north-macedonias-independence-should-not-be-commemorated-by-glorifying-war-criminals/",
+          "publishedAt": "2026-09-06T11:11:21.000Z",
+          "checkedAt": "2026-09-06T15:45:08.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-06T15:44:24.000Z"
+    },
+    {
+      "id": "bbc-news-fb921e03e5",
+      "difficulty": 2,
+      "category": "History & Geography",
+      "archetype": "geography",
+      "question": "Ferries leaving Dover commonly cross to which French port?",
+      "choices": [
+        "Calais",
+        "Cherbourg",
+        "Le Havre",
+        "Saint-Malo"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Calais",
+      "answerExplanation": "Calais is the principal short-crossing destination from Dover. Cherbourg, Le Havre and Saint-Malo are French ports too, but they are farther along France’s coast and serve different routes.",
+      "whyNow": "Disruption around Dover has renewed attention on the port’s vital links across the English Channel.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-06",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "Dover Harbour Board",
+          "title": "Ferry - Home",
+          "canonicalArticleUrl": "https://www.portofdover.com/ferry/",
+          "checkedAt": "2026-09-06T15:33:46.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Police slow to respond to Dover protest, says council boss",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo",
+          "publishedAt": "2026-09-06T10:59:35.000Z",
+          "checkedAt": "2026-09-06T15:45:07.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-06T15:33:46.000Z"
+    },
+    {
+      "id": "the-guardian-01c03cb991",
+      "difficulty": 3,
+      "category": "Technology & Innovation",
+      "archetype": "mechanism",
+      "question": "To orbit Earth rather than fall back, a spacecraft must do what?",
+      "choices": [
+        "Move sideways fast enough to fall around Earth",
+        "Rise above all of Earth’s atmosphere",
+        "Accelerate straight upward until gravity fades",
+        "Match Earth’s spin exactly"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Move sideways fast enough to fall around Earth",
+      "answerExplanation": "An orbiting craft is continually falling toward Earth while moving sideways fast enough to keep missing it. Getting very high is not enough, and matching Earth’s spin matters only for a particular type of orbit.",
+      "whyNow": "A commercial rocket launch from Europe makes the basic difference between reaching space and achieving orbit especially timely.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-06",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "NASA Space Place",
+          "title": "What Is an Orbit?",
+          "canonicalArticleUrl": "https://spaceplace.nasa.gov/orbits/en/",
+          "checkedAt": "2026-09-06T15:33:46.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "German startup sends first commercial rocket into space from Europe",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
+          "publishedAt": "2026-09-06T13:21:36.000Z",
+          "checkedAt": "2026-09-06T15:45:07.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-06T15:33:46.000Z"
+    }
+  ]
+}
