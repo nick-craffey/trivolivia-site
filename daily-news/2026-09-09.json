@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-09",
+  "version": "auto-v2-20260909T185357Z",
+  "digest": "7f01ab15ae71429303a86ec2359a7d62e910d40c6434656b53ebe3f187ebb0a4",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-09T18:53:57.000Z",
+  "validFrom": "2026-09-09T00:00:00.000Z",
+  "expiresAt": "2026-09-10T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "the-guardian-9384067635",
+      "difficulty": 1,
+      "category": "Sports & Games",
+      "archetype": "comparison",
+      "question": "Compared with standard basketball, how high is the hoop in wheelchair basketball?",
+      "choices": [
+        "Three feet lower",
+        "Two feet lower",
+        "One foot lower",
+        "The same height"
+      ],
+      "correctIndex": 3,
+      "canonicalAnswer": "The same height",
+      "answerExplanation": "The hoop remains 10 feet high. Wheelchair basketball changes how players move around the court, but not the height of their target. ([invictusgames2025.ca](https://invictusgames2025.ca/sport-and-venues/wheelchair-basketball/))",
+      "whyNow": "Uganda's military chief announced withdrawal from the Invictus Games on September 9, bringing renewed attention to its adaptive sports.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-09",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "Invictus Games Vancouver Whistler 2025",
+          "title": "Wheelchair Basketball | Invictus Games 2025",
+          "canonicalArticleUrl": "https://invictusgames2025.ca/sport-and-venues/wheelchair-basketball/",
+          "checkedAt": "2026-09-09T18:41:29.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+          "publishedAt": "2026-09-09T18:20:24.000Z",
+          "checkedAt": "2026-09-09T18:53:56.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-09T18:41:29.000Z"
+    },
+    {
+      "id": "nasa-70f350558d",
+      "difficulty": 1,
+      "category": "Science & Nature",
+      "archetype": "comparison",
+      "question": "Compared with a day on Earth, how long is a day on Mars?",
+      "choices": [
+        "Slightly shorter",
+        "Slightly longer",
+        "About twice as long",
+        "About half as long"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "Slightly longer",
+      "answerExplanation": "A Martian day lasts about 24.6 Earth hours—surprisingly close to our own day. These Martian days are called sols. ([science.nasa.gov](https://science.nasa.gov/mars/facts/))",
+      "whyNow": "Curiosity's September 9 update celebrates reaching 5,000 Martian days on August 29, making the difference between Earth and Mars days timely.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-08-29",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "NASA",
+          "title": "Mars: Facts",
+          "canonicalArticleUrl": "https://science.nasa.gov/mars/facts/",
+          "checkedAt": "2026-09-09T18:41:29.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/",
+          "publishedAt": "2026-09-09T06:20:49.000Z",
+          "checkedAt": "2026-09-09T18:53:56.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-09T18:41:29.000Z"
+    },
+    {
+      "id": "gov-uk-390f62f5ed",
+      "difficulty": 1,
+      "category": "Language & Ideas",
+      "archetype": "language",
+      "question": "What is Angola's official language?",
+      "choices": [
+        "French",
+        "English",
+        "Portuguese",
+        "Spanish"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "Portuguese",
+      "answerExplanation": "Portuguese is Angola's official language, alongside a diverse range of national languages. Official does not mean exclusively spoken. ([governo.gov.ao](https://governo.gov.ao/angola/coordenadas-geogr%C3%A1ficas))",
+      "whyNow": "The September 9 UK-Angola Investment Forum speech highlighted cooperation and investment, making Angola's language a useful introduction to the country.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-09",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "Governo de Angola",
+          "title": "Angola - Coordenadas Geográficas",
+          "canonicalArticleUrl": "https://governo.gov.ao/angola/coordenadas-geogr%C3%A1ficas",
+          "checkedAt": "2026-09-09T18:41:29.000Z"
+        },
+        {
+          "publisher": "Centro de Imprensa Aníbal de Melo",
+          "title": "CIAM - Perfil de Angola",
+          "canonicalArticleUrl": "https://ciam.gov.ao/ao/angola/perfil",
+          "checkedAt": "2026-09-09T18:41:29.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "UK-Angola Investment Forum: Minister McNeill's opening speech",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/speeches/uk-angola-investment-forum-minister-mcneills-opening-speech",
+          "publishedAt": "2026-09-09T14:58:29.000Z",
+          "checkedAt": "2026-09-09T18:53:57.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-09T18:41:29.000Z"
+    },
+    {
+      "id": "gov-uk-98802fb780",
+      "difficulty": 2,
+      "category": "Technology & Innovation",
+      "archetype": "mechanism",
+      "question": "In ordinary concrete, which ingredient forms the binding paste when mixed with water?",
+      "choices": [
+        "Sand",
+        "Cement",
+        "Gravel",
+        "Clay"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "Cement",
+      "answerExplanation": "Cement forms a paste with water that binds sand and rock as the concrete hardens. Cement is an ingredient; concrete is the resulting mixture. ([cement.org](https://www.cement.org/cement-concrete/how-cement-is-made/))",
+      "whyNow": "The Housing Minister's September 9 speech highlighted increased building-material costs and pressures on housebuilding, making a familiar construction-material distinction timely.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-09",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "American Cement Association",
+          "title": "How Cement Is Made",
+          "canonicalArticleUrl": "https://www.cement.org/cement-concrete/how-cement-is-made/",
+          "checkedAt": "2026-09-09T18:47:45.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Housing and Planning Minister speech at Housing Community Summit",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/speeches/housing-and-planning-minister-speech-at-housing-community-summit",
+          "publishedAt": "2026-09-09T16:41:06.000Z",
+          "checkedAt": "2026-09-09T18:53:56.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-09T18:47:45.000Z"
+    },
+    {
+      "id": "bbc-news-cd02f11053",
+      "difficulty": 2,
+      "category": "Technology & Innovation",
+      "archetype": "mechanism",
+      "question": "In a refinery's heated separation tower, crude oil's components are sorted by which property?",
+      "choices": [
+        "Sulfur content",
+        "Boiling temperature",
+        "Ignition temperature",
+        "Thickness when liquid"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "Boiling temperature",
+      "answerExplanation": "The tower separates petroleum components according to their boiling points. Lighter components rise and condense near the top; the heaviest, highest-boiling components collect at the bottom. ([eia.gov](https://www.eia.gov/energyexplained/oil-and-petroleum-products/refining-crude-oil-the-refining-process.php))",
+      "whyNow": "Oil prices rose above $100 a barrel on September 9 amid attacks on tankers and oil facilities. That makes the basic process of turning crude oil into fuels timely.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-09",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "U.S. Energy Information Administration",
+          "title": "Refining crude oil - the refining process",
+          "canonicalArticleUrl": "https://www.eia.gov/energyexplained/oil-and-petroleum-products/refining-crude-oil-the-refining-process.php",
+          "checkedAt": "2026-09-09T18:47:45.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo",
+          "publishedAt": "2026-09-09T16:46:53.000Z",
+          "checkedAt": "2026-09-09T18:53:56.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-09T18:47:45.000Z"
+    }
+  ]
+}
