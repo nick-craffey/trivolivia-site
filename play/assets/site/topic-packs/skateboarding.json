@@ -1,0 +1,1261 @@
+{
+  "schemaVersion": 1,
+  "packId": "skateboarding",
+  "topic": "Skateboarding",
+  "version": 1,
+  "authorId": "topic-research-2026-09-09",
+  "createdAt": "2026-09-09T03:27:43Z",
+  "emoji": "🛹",
+  "category": "Sports & movement",
+  "description": "Tricks, board mechanics, and skateboarding’s Olympic milestone.",
+  "sources": [
+    {
+      "id": "aoc-debut",
+      "publisher": "Australian Olympic Committee",
+      "title": "Skateboarding Olympics",
+      "url": "https://www.olympics.com.au/sports/skateboarding/",
+      "independenceKey": "australian-olympic-committee",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "Tokyo 2020 was the first time Skateboarding became included in the Olympic Games",
+      "contentSha256": "4a459f474de77ba8049bf523b8ee8a1ba7395581001fe939fefd17bf1968227f"
+    },
+    {
+      "id": "bones-hardness",
+      "publisher": "BONES Wheels",
+      "title": "BONES Wheels SPF Rat Bones 60mm",
+      "url": "https://bones.com/bones-wheels-spf-rat-bones-60mm-4pk",
+      "independenceKey": "skate-one-bones",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "Shore Durometer A Scale is good, but it does not cover the entire range of skate wheel hardness",
+      "contentSha256": "adea91b271411795ad8e86502a1e4224fa1b13395af1e4480027f19e0c6cf446"
+    },
+    {
+      "id": "braille-hardflip",
+      "publisher": "Braille Skateboarding",
+      "title": "How to Hardflip the Easiest Way Tutorial 2020",
+      "url": "https://www.brailleskateboarding.com/blogs/news/how-to-hardflip-the-easiest-way-tutorial-2020",
+      "independenceKey": "braille-skateboarding",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "A hardflip is essentially a frontside pop shove it combined with a kickflip",
+      "contentSha256": "36882fe4bee17cb1ca7628040fdf798fb3aec06b02a2b628b4982a9459ce7270"
+    },
+    {
+      "id": "braille-heel",
+      "publisher": "Braille Skateboarding",
+      "title": "How to Heelflip",
+      "url": "https://www.brailleskateboarding.com/blogs/news/how-to-heelflip",
+      "independenceKey": "braille-skateboarding",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "a kick towards the front-foot’s toe-side corner of the skateboard.",
+      "contentSha256": "a683922d042380d7492c0c94590eecdf634671897315af53d713248790880e28"
+    },
+    {
+      "id": "braille-kick",
+      "publisher": "Braille Skateboarding",
+      "title": "How to Kickflip",
+      "url": "https://www.brailleskateboarding.com/blogs/news/how-to-kickflip",
+      "independenceKey": "braille-skateboarding",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "a kick-flick motion towards the front-foot’s heel-side corner of the skateboard.",
+      "contentSha256": "d62f191099f2806570e44593c45b4a8de06f8af1ebbfb4df8677271282f7e1c5"
+    },
+    {
+      "id": "braille-tre",
+      "publisher": "Braille Skateboarding",
+      "title": "How to 360 Flip",
+      "url": "https://www.brailleskateboarding.com/blogs/news/how-to-360-flip",
+      "independenceKey": "braille-skateboarding",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "360 Kickflip, or 360 Flips, are achieved by combining the 360 Shove-it and Kickflip as one spin/flip trick.",
+      "contentSha256": "33d334ff5a58cf0eaea047052c7c7244edb69a4d94e0c5385b3390ef1b9b86d9"
+    },
+    {
+      "id": "ccs-stances",
+      "publisher": "CCS",
+      "title": "A Beginners Guide to Skateboarding Tricks: Part 1",
+      "url": "https://shop.ccs.com/pages/a-beginners-guide-to-skateboarding-tricks-part-1",
+      "independenceKey": "ccs",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "Nollie (off the nose), Fakie (backwards), in your non-natural stance (Switch)",
+      "contentSha256": "b88d6862ba29ddc1e1cf1a069afc92d1246ca7446e71533957ff9bce56f813c9"
+    },
+    {
+      "id": "coc-debut",
+      "publisher": "Canadian Olympic Committee",
+      "title": "Skateboarding",
+      "url": "https://olympic.ca/sports/skateboarding/",
+      "independenceKey": "canadian-olympic-committee",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "Skateboarding made its Olympic debut at Tokyo 2020.",
+      "contentSha256": "cf2c9dfdbd8d4fa3983eed69afc87c70f18f12072c8430d34bd57e2e45042470"
+    },
+    {
+      "id": "exploratorium-ollie",
+      "publisher": "Exploratorium",
+      "title": "Jumping: the Ollie",
+      "url": "https://annex.exploratorium.edu/skateboarding/trick02.html",
+      "independenceKey": "exploratorium",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "As the tail strikes the ground, the ground exerts a large upward force on the tail.",
+      "contentSha256": "b1063166a871cf400d43b9bf873f02a81940d57a75e4f5aed32505ff9345f035"
+    },
+    {
+      "id": "howcast-50",
+      "publisher": "Howcast / Bam and Kerry",
+      "title": "How to Do a 50-50 Grind on a Skateboard",
+      "url": "https://howcast.com/videos/500120-how-to-do-a-50-50-grind-bam-skateboarding/",
+      "independenceKey": "howcast",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "50/50 Grind is when both trucks are on the rail.",
+      "contentSha256": "2c412a496184e59d89c4be3cd06f256d98b53ea19ccdf28706ad5aa879bdef08"
+    },
+    {
+      "id": "howto-manual",
+      "publisher": "How To Skateboards",
+      "title": "How To Manual On A Skateboard",
+      "url": "https://howtoskateboards.com/blogs/how-to-skateboard/how-to-manual-on-a-skateboard",
+      "independenceKey": "how-to-skateboards",
+      "retrievedAt": "2026-09-09T03:27:43Z",
+      "excerpt": "regular manual, lifting up your front trucks and riding only on the back wheels of you skateboard",
+      "contentSha256": "2cce89862a4d47195154e478fe5805745975c5965d744b27522e4e93a9a7c004"
+    },
+    {
+      "id": "nollie-manual",
+      "publisher": "Nollie Skateboarding",
+      "title": "Tail Manual",
+      "url": "https://nollieskateboarding.com/en/manual",
+      "independenceKey": "nollie-skateboarding",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "maintain a forward momentum while balancing only over your back wheels.",
+      "contentSha256": "2c8e0515dec3489938f26df11484fe2fb22713d73f4775d7d3283ea5dc86c5e1"
+    },
+    {
+      "id": "sd-50",
+      "publisher": "skatedeluxe",
+      "title": "50-50 – Skateboard Trick Tip",
+      "url": "https://www.skatedeluxe.com/blog/en/trick-tips/skateboard/curb-rail/how-to-50-50/",
+      "independenceKey": "skatedeluxe",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "50-50 Grind is the term for grinding on a ledge using both of your trucks.",
+      "contentSha256": "eaad88a848f41f4358e7986146b8d1ed2748121666a91e03a6c59cb7c3dcfc6c"
+    },
+    {
+      "id": "sd-bearings",
+      "publisher": "skatedeluxe",
+      "title": "Everything about Skateboard Bearings",
+      "url": "https://www.skatedeluxe.com/blog/en/wiki/skateboarding/skateboard-wiki/bearings/",
+      "independenceKey": "skatedeluxe",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "Every skateboard wheel is equipped with two bearings.",
+      "contentSha256": "fa1b77b925cb6d8a2098e88d64257d42bfe78ba78fefd87071bb1a7de84025bc"
+    },
+    {
+      "id": "sd-bite",
+      "publisher": "skatedeluxe",
+      "title": "All about Shock Pads & Riser Pads",
+      "url": "https://www.skatedeluxe.com/blog/en/wiki/skateboarding/skateboard-wiki/shock-pads-riser-pads/",
+      "independenceKey": "skatedeluxe",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "deck coming into contact with your wheels.",
+      "contentSha256": "126943c06d5c47a64150e0fb2c9d0a3d70f8d57dfe0a3c94721935ccf4f75597"
+    },
+    {
+      "id": "sd-bite-stop",
+      "publisher": "skatedeluxe",
+      "title": "All about Shock Pads & Riser Pads",
+      "url": "https://www.skatedeluxe.com/blog/en/wiki/skateboarding/skateboard-wiki/shock-pads-riser-pads/",
+      "independenceKey": "skatedeluxe",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "leading to a very abrupt and likely painful stop.",
+      "contentSha256": "139e9e933a949fcbabf55d658baf6de9f78a8dff97614e9c60c02eeb8971da45"
+    },
+    {
+      "id": "sd-hardflip",
+      "publisher": "skatedeluxe",
+      "title": "Hardflip – Skateboard Trick Tip",
+      "url": "https://www.skatedeluxe.com/blog/en/trick-tips/skateboard/flat/how-to-hardflip/",
+      "independenceKey": "skatedeluxe",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "A Hardflip is a combination between a Frontside Pop Shove-It and a Kickflip.",
+      "contentSha256": "0517d759342838b9e8e8598120f3d42d4976296eaec79eb717e70c913f2d1082"
+    },
+    {
+      "id": "sd-heel",
+      "publisher": "skatedeluxe",
+      "title": "Heelflip – Skateboard Trick Tip",
+      "url": "https://www.skatedeluxe.com/blog/en/trick-tips/skateboard/flat/how-to-heelflip/",
+      "independenceKey": "skatedeluxe",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "the board performs a flipping rotation alongside its long axis, but in the opposite direction",
+      "contentSha256": "f5f0eba93351d6140655fb4b23ada35e20a5b773b7e63e766af6c9aef022fa50"
+    },
+    {
+      "id": "sd-kick",
+      "publisher": "skatedeluxe",
+      "title": "Kickflip – Skateboard Trick Tip",
+      "url": "https://www.skatedeluxe.com/blog/en/trick-tips/skateboard/flat/how-to-kickflip/",
+      "independenceKey": "skatedeluxe",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "off the nose behind you.",
+      "contentSha256": "edd77a710e4b55a6d5e2167ac7c6cb3f76baf79f75f2575cbe0c22ed8d3a1af2"
+    },
+    {
+      "id": "sd-kick-spin",
+      "publisher": "skatedeluxe",
+      "title": "Kickflip – Skateboard Trick Tip",
+      "url": "https://www.skatedeluxe.com/blog/en/trick-tips/skateboard/flat/how-to-kickflip/",
+      "independenceKey": "skatedeluxe",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "the board flips but does not turn like when you do a Pop Shove-It.",
+      "contentSha256": "a12d0f43ff2e94e1bb925e9faae21c025ec17d8328dbfd779e3b59c1f4f72fdb"
+    },
+    {
+      "id": "sd-ollie",
+      "publisher": "skatedeluxe",
+      "title": "Ollie – Skateboard Trick Tip",
+      "url": "https://www.skatedeluxe.com/blog/en/trick-tips/skateboard/flat/how-to-ollie/",
+      "independenceKey": "skatedeluxe",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "press the back foot quickly down on the tail towards the ground making a pop like motion.",
+      "contentSha256": "b778c806f4c5a2532c0d2e23b92eccb3847ae669180c0c2d525f846aa9e15ddb"
+    },
+    {
+      "id": "sd-switch",
+      "publisher": "skatedeluxe",
+      "title": "Switch Kickflip & Switch Heelflip",
+      "url": "https://www.skatedeluxe.com/blog/en/trick-tips/skateboard/flat/how-to-switch-kickflip-switch-heelflip/",
+      "independenceKey": "skatedeluxe",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "The switch stance position is the opposite position of how you would normally ride.",
+      "contentSha256": "d6458d2eb313a460cc9dd52e17b1f11bb6ddb8a22a84f2c83243c9361928625c"
+    },
+    {
+      "id": "sd-tre",
+      "publisher": "skatedeluxe",
+      "title": "360 Flip – Skateboard Trick Tip",
+      "url": "https://www.skatedeluxe.com/blog/en/trick-tips/skateboard/flat/how-to-360-flip-treflip/",
+      "independenceKey": "skatedeluxe",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "it is a mix between a 360 Pop Shove-It and a Kickflip.",
+      "contentSha256": "4c87aba91710b78aa2c5de39abe3d765e6a9c7a8b6efd71e8afa0bb836adc055"
+    },
+    {
+      "id": "sw-bite",
+      "publisher": "Skate Warehouse",
+      "title": "Skateboard Anatomy",
+      "url": "https://www.skatewarehouse.com/anatomy.html",
+      "independenceKey": "skate-warehouse",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "wheel you're turning over may contact the deck",
+      "contentSha256": "458f41704506fabafb6e71619fcb0c3dcae86fbf361bf3bfce2140dd49d6e0a7"
+    },
+    {
+      "id": "sw-bite-stop",
+      "publisher": "Skate Warehouse",
+      "title": "Skateboard Anatomy",
+      "url": "https://www.skatewarehouse.com/anatomy.html",
+      "independenceKey": "skate-warehouse",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "stop or slow down abruptly",
+      "contentSha256": "712b287fbd3d13b0fbc2aeea5d3f02d05665d6ba991eddb8f4687e6b1b5a1b34"
+    },
+    {
+      "id": "sw-hardness",
+      "publisher": "Skate Warehouse",
+      "title": "Skateboard Anatomy",
+      "url": "https://www.skatewarehouse.com/anatomy.html",
+      "independenceKey": "skate-warehouse",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "Durometer is the international standard for the hardness measurement",
+      "contentSha256": "97e2b7275037fb6ccf3bb1f983b775c29a0eb0ffdafb9bc6718c4bab62f9cd15"
+    },
+    {
+      "id": "swarthmore-fakie",
+      "publisher": "Swarthmore College",
+      "title": "Dropping In",
+      "url": "https://magazine.swarthmore.edu/issue/winter-2022/dropping-in/",
+      "independenceKey": "swarthmore-college",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "Fakie: Roll backward in your normal stance.",
+      "contentSha256": "8732bc597ab81749e3780a14364f036a8dc3b7d64621abfa6f24e46dfaea6638"
+    },
+    {
+      "id": "swarthmore-switch",
+      "publisher": "Swarthmore College",
+      "title": "Dropping In",
+      "url": "https://magazine.swarthmore.edu/issue/winter-2022/dropping-in/",
+      "independenceKey": "swarthmore-college",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "Switch: Skate opposite to your normal stance",
+      "contentSha256": "57c47ca80a50d8d18ef9c292359f66aff259c9f9ee88d4a3c3d641d5ac54e0f7"
+    },
+    {
+      "id": "tgm-bearings",
+      "publisher": "TGM Skateboards",
+      "title": "Buyer’s Guide Bearings",
+      "url": "https://tgmskateboards.com/pages/buyer-s-guide-bearings",
+      "independenceKey": "tgm-skateboards",
+      "retrievedAt": "2026-09-09T03:25:31Z",
+      "excerpt": "each skateboard has four wheels, and each wheel gets two bearings (one on each side).",
+      "contentSha256": "2b408c5ed8ecd5b856222980cc9770db7020ad544f4689afeb35b21007517750"
+    }
+  ],
+  "cards": [
+    {
+      "id": "skate-ollie-pop",
+      "sequence": 1,
+      "difficulty": 1,
+      "archetype": "board mechanics",
+      "hook": "A jump starts with a pop.",
+      "question": "Which part of a skateboard hits the ground to create the pop in a standard ollie?",
+      "choices": [
+        "The tail",
+        "The nose",
+        "The left edge",
+        "The right edge"
+      ],
+      "answerIndex": 0,
+      "revealHeadline": "The pop starts at the tail.",
+      "explanation": "For a standard ollie, the skater pops the tail against the ground.",
+      "tags": [
+        "skateboarding",
+        "board mechanics"
+      ],
+      "claims": [
+        {
+          "id": "skate-ollie-pop-claim-1",
+          "text": "A standard ollie starts with the tail hitting the ground to produce the pop.",
+          "evidenceIds": [
+            "exploratorium-ollie",
+            "sd-ollie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skate-olympic-debut",
+      "sequence": 2,
+      "difficulty": 1,
+      "archetype": "sport history",
+      "hook": "Skateboarding meets the Games.",
+      "question": "Which city hosted skateboarding's Olympic debut?",
+      "choices": [
+        "London",
+        "Rio de Janeiro",
+        "Tokyo",
+        "Paris"
+      ],
+      "answerIndex": 2,
+      "revealHeadline": "Tokyo put skateboarding on the Olympic program.",
+      "explanation": "Skateboarding entered the Olympic program at Tokyo 2020.",
+      "tags": [
+        "skateboarding",
+        "sport history"
+      ],
+      "claims": [
+        {
+          "id": "skate-olympic-debut-claim-1",
+          "text": "Skateboarding's Olympic debut was Tokyo 2020.",
+          "evidenceIds": [
+            "coc-debut",
+            "aoc-debut"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skate-wheelbite",
+      "sequence": 3,
+      "difficulty": 1,
+      "archetype": "recognize a problem",
+      "hook": "An unwelcome stop.",
+      "question": "Which parts touch during wheel bite?",
+      "choices": [
+        "A wheel and the deck",
+        "The tail and the ground",
+        "Two wheels",
+        "A shoe and a wheel"
+      ],
+      "answerIndex": 0,
+      "revealHeadline": "A small contact can stop the ride.",
+      "explanation": "A wheel rubs the deck. That contact can slow or stop the board abruptly.",
+      "tags": [
+        "skateboarding",
+        "recognize a problem"
+      ],
+      "claims": [
+        {
+          "id": "skate-wheelbite-claim-1",
+          "text": "Wheel bite is contact between a skateboard wheel and its deck.",
+          "evidenceIds": [
+            "sw-bite",
+            "sd-bite"
+          ]
+        },
+        {
+          "id": "skate-wheelbite-claim-2",
+          "text": "Wheel bite can slow or stop a skateboard abruptly.",
+          "evidenceIds": [
+            "sw-bite-stop",
+            "sd-bite-stop"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skate-fifty-fifty",
+      "sequence": 4,
+      "difficulty": 2,
+      "archetype": "grind mechanics",
+      "hook": "Along for the grind.",
+      "question": "In a 50-50 grind, which parts of the skateboard ride along the ledge?",
+      "choices": [
+        "Both trucks",
+        "Only the front truck",
+        "Only the rear truck",
+        "The middle of the deck"
+      ],
+      "answerIndex": 0,
+      "revealHeadline": "Two trucks share the grind.",
+      "explanation": "A 50-50 puts both trucks on the ledge at the same time.",
+      "tags": [
+        "skateboarding",
+        "grind mechanics"
+      ],
+      "claims": [
+        {
+          "id": "skate-fifty-fifty-claim-1",
+          "text": "A 50-50 grind uses both trucks on the ledge.",
+          "evidenceIds": [
+            "sd-50",
+            "howcast-50"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skate-durometer",
+      "sequence": 5,
+      "difficulty": 2,
+      "archetype": "read the equipment",
+      "hook": "A number on the wheel.",
+      "question": "What does a skateboard wheel's durometer rating measure?",
+      "choices": [
+        "Hardness",
+        "Diameter",
+        "Weight",
+        "Bearing count"
+      ],
+      "answerIndex": 0,
+      "revealHeadline": "That rating measures wheel hardness.",
+      "explanation": "Durometer describes how hard the wheel material is.",
+      "tags": [
+        "skateboarding",
+        "read the equipment"
+      ],
+      "claims": [
+        {
+          "id": "skate-durometer-claim-1",
+          "text": "A wheel's durometer describes its material hardness.",
+          "evidenceIds": [
+            "sw-hardness",
+            "bones-hardness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skate-kickflip-direction",
+      "sequence": 6,
+      "difficulty": 2,
+      "archetype": "distinguish similar tricks",
+      "hook": "The direction makes the difference.",
+      "question": "Which trick flips the board once toward your heels, without adding a shove-it spin?",
+      "choices": [
+        "Heelflip",
+        "Kickflip",
+        "Hardflip",
+        "360 flip"
+      ],
+      "answerIndex": 1,
+      "revealHeadline": "The flick goes toward the heel side.",
+      "explanation": "A kickflip uses a flick toward the heel-side corner. A heelflip rotates the board the opposite way.",
+      "tags": [
+        "skateboarding",
+        "distinguish similar tricks"
+      ],
+      "claims": [
+        {
+          "id": "skate-kickflip-direction-claim-1",
+          "text": "A standard kickflip flips toward the heel side without a shove-it rotation.",
+          "evidenceIds": [
+            "braille-kick",
+            "sd-kick",
+            "sd-kick-spin"
+          ]
+        },
+        {
+          "id": "skate-kickflip-direction-claim-2",
+          "text": "Heelflip and kickflip rotate in opposite directions.",
+          "evidenceIds": [
+            "braille-heel",
+            "sd-heel",
+            "braille-kick"
+          ]
+        },
+        {
+          "id": "skate-kickflip-direction-claim-3",
+          "text": "A hardflip includes a frontside pop shove-it and a kickflip.",
+          "evidenceIds": [
+            "sd-hardflip",
+            "braille-hardflip"
+          ]
+        },
+        {
+          "id": "skate-kickflip-direction-claim-4",
+          "text": "A 360 flip includes a 360 shove-it and a kickflip.",
+          "evidenceIds": [
+            "sd-tre",
+            "braille-tre"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skate-bearing-count",
+      "sequence": 7,
+      "difficulty": 2,
+      "archetype": "building a board",
+      "hook": "A tiny parts count.",
+      "question": "How many bearings go into a standard skateboard's four wheels?",
+      "choices": [
+        "Four",
+        "Six",
+        "Eight",
+        "Twelve"
+      ],
+      "answerIndex": 2,
+      "revealHeadline": "Each wheel takes a pair of bearings.",
+      "explanation": "Two bearings sit inside each wheel: four wheels need eight bearings.",
+      "tags": [
+        "skateboarding",
+        "building a board"
+      ],
+      "claims": [
+        {
+          "id": "skate-bearing-count-claim-1",
+          "text": "A standard skateboard wheel uses two bearings, so four wheels need eight.",
+          "evidenceIds": [
+            "tgm-bearings",
+            "sd-bearings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skate-manual",
+      "sequence": 8,
+      "difficulty": 2,
+      "archetype": "balance mechanics",
+      "hook": "A rolling balancing act.",
+      "question": "In a standard manual, which wheels stay on the ground?",
+      "choices": [
+        "Both rear wheels",
+        "Both front wheels",
+        "All four wheels",
+        "One front and one rear wheel"
+      ],
+      "answerIndex": 0,
+      "revealHeadline": "The front wheels stay airborne.",
+      "explanation": "The skater rolls on the rear wheels while holding the front wheels up.",
+      "tags": [
+        "skateboarding",
+        "balance mechanics"
+      ],
+      "claims": [
+        {
+          "id": "skate-manual-claim-1",
+          "text": "A standard tail manual rolls on the back wheels with the front wheels lifted.",
+          "evidenceIds": [
+            "nollie-manual",
+            "howto-manual"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skate-switch",
+      "sequence": 9,
+      "difficulty": 2,
+      "archetype": "stance recognition",
+      "hook": "Your usual trick, remixed.",
+      "question": "What changes when a skater performs a trick switch?",
+      "choices": [
+        "Using the opposite stance to your usual one",
+        "Rolling backward in your usual stance",
+        "Changing the direction of the board's flip",
+        "Popping the nose in your usual stance"
+      ],
+      "answerIndex": 0,
+      "revealHeadline": "Your usual stance gets reversed.",
+      "explanation": "Switch means doing the trick in the opposite of your usual stance.",
+      "tags": [
+        "skateboarding",
+        "stance recognition"
+      ],
+      "claims": [
+        {
+          "id": "skate-switch-claim-1",
+          "text": "Switch means using the opposite of the rider’s normal stance.",
+          "evidenceIds": [
+            "sd-switch",
+            "ccs-stances",
+            "swarthmore-switch"
+          ]
+        },
+        {
+          "id": "skate-switch-claim-2",
+          "text": "Rolling backward in the normal stance is called fakie, rather than switch.",
+          "evidenceIds": [
+            "ccs-stances",
+            "swarthmore-fakie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skate-hardflip",
+      "sequence": 10,
+      "difficulty": 3,
+      "archetype": "combine tricks",
+      "hook": "Two tricks, one landing.",
+      "question": "Which two moves combine to make a hardflip?",
+      "choices": [
+        "Frontside pop shove-it + kickflip",
+        "Backside pop shove-it + kickflip",
+        "Frontside pop shove-it + heelflip",
+        "Backside pop shove-it + heelflip"
+      ],
+      "answerIndex": 0,
+      "revealHeadline": "The hardflip combines a spin and a flip.",
+      "explanation": "A hardflip pairs a frontside pop shove-it with a kickflip.",
+      "tags": [
+        "skateboarding",
+        "combine tricks"
+      ],
+      "claims": [
+        {
+          "id": "skate-hardflip-claim-1",
+          "text": "A hardflip combines a frontside pop shove-it and a kickflip.",
+          "evidenceIds": [
+            "sd-hardflip",
+            "braille-hardflip"
+          ]
+        }
+      ]
+    }
+  ],
+  "review": {
+    "reviewerId": "independent-topic-editor-2026-09-09",
+    "reviewedAt": "2026-09-09T03:27:43Z",
+    "contentDigest": "125ace52bf15a98ef74a62302a43a9c5960eb9d4d405ff5bff23d6f645c153a0",
+    "verdict": "approved",
+    "cardReviews": [
+      {
+        "cardId": "skate-ollie-pop",
+        "questionSupported": true,
+        "explanationSupported": true,
+        "unambiguous": true,
+        "engaging": true,
+        "choiceReviews": [
+          {
+            "choiceIndex": 0,
+            "verdict": "correct",
+            "reason": "The tail supplies the ground contact for the pop.",
+            "evidenceIds": [
+              "exploratorium-ollie",
+              "sd-ollie"
+            ]
+          },
+          {
+            "choiceIndex": 1,
+            "verdict": "incorrect",
+            "reason": "These ollie instructions specify tail contact, not nose contact.",
+            "evidenceIds": [
+              "exploratorium-ollie",
+              "sd-ollie"
+            ]
+          },
+          {
+            "choiceIndex": 2,
+            "verdict": "incorrect",
+            "reason": "These ollie instructions pop the tail, not the left edge.",
+            "evidenceIds": [
+              "exploratorium-ollie",
+              "sd-ollie"
+            ]
+          },
+          {
+            "choiceIndex": 3,
+            "verdict": "incorrect",
+            "reason": "These ollie instructions pop the tail, not the right edge.",
+            "evidenceIds": [
+              "exploratorium-ollie",
+              "sd-ollie"
+            ]
+          }
+        ],
+        "claimReviews": [
+          {
+            "claimId": "skate-ollie-pop-claim-1",
+            "supported": true,
+            "evidenceIds": [
+              "exploratorium-ollie",
+              "sd-ollie"
+            ]
+          }
+        ]
+      },
+      {
+        "cardId": "skate-olympic-debut",
+        "questionSupported": true,
+        "explanationSupported": true,
+        "unambiguous": true,
+        "engaging": true,
+        "choiceReviews": [
+          {
+            "choiceIndex": 0,
+            "verdict": "incorrect",
+            "reason": "The first Olympic inclusion is explicitly Tokyo, so London is excluded.",
+            "evidenceIds": [
+              "coc-debut",
+              "aoc-debut"
+            ]
+          },
+          {
+            "choiceIndex": 1,
+            "verdict": "incorrect",
+            "reason": "The first Olympic inclusion is explicitly Tokyo, so Rio de Janeiro is excluded.",
+            "evidenceIds": [
+              "coc-debut",
+              "aoc-debut"
+            ]
+          },
+          {
+            "choiceIndex": 2,
+            "verdict": "correct",
+            "reason": "Skateboarding's Olympic debut was Tokyo 2020.",
+            "evidenceIds": [
+              "coc-debut",
+              "aoc-debut"
+            ]
+          },
+          {
+            "choiceIndex": 3,
+            "verdict": "incorrect",
+            "reason": "The first Olympic inclusion is explicitly Tokyo, so Paris is excluded.",
+            "evidenceIds": [
+              "coc-debut",
+              "aoc-debut"
+            ]
+          }
+        ],
+        "claimReviews": [
+          {
+            "claimId": "skate-olympic-debut-claim-1",
+            "supported": true,
+            "evidenceIds": [
+              "coc-debut",
+              "aoc-debut"
+            ]
+          }
+        ]
+      },
+      {
+        "cardId": "skate-wheelbite",
+        "questionSupported": true,
+        "explanationSupported": true,
+        "unambiguous": true,
+        "engaging": true,
+        "choiceReviews": [
+          {
+            "choiceIndex": 0,
+            "verdict": "correct",
+            "reason": "Wheel bite means wheel-to-deck contact.",
+            "evidenceIds": [
+              "sw-bite",
+              "sd-bite"
+            ]
+          },
+          {
+            "choiceIndex": 1,
+            "verdict": "incorrect",
+            "reason": "Tail-to-ground contact does not involve a wheel.",
+            "evidenceIds": [
+              "sw-bite",
+              "sd-bite"
+            ]
+          },
+          {
+            "choiceIndex": 2,
+            "verdict": "incorrect",
+            "reason": "Wheel-to-wheel contact does not involve the deck.",
+            "evidenceIds": [
+              "sw-bite",
+              "sd-bite"
+            ]
+          },
+          {
+            "choiceIndex": 3,
+            "verdict": "incorrect",
+            "reason": "Shoe-to-wheel contact does not involve the deck.",
+            "evidenceIds": [
+              "sw-bite",
+              "sd-bite"
+            ]
+          }
+        ],
+        "claimReviews": [
+          {
+            "claimId": "skate-wheelbite-claim-1",
+            "supported": true,
+            "evidenceIds": [
+              "sw-bite",
+              "sd-bite"
+            ]
+          },
+          {
+            "claimId": "skate-wheelbite-claim-2",
+            "supported": true,
+            "evidenceIds": [
+              "sw-bite-stop",
+              "sd-bite-stop"
+            ]
+          }
+        ]
+      },
+      {
+        "cardId": "skate-fifty-fifty",
+        "questionSupported": true,
+        "explanationSupported": true,
+        "unambiguous": true,
+        "engaging": true,
+        "choiceReviews": [
+          {
+            "choiceIndex": 0,
+            "verdict": "correct",
+            "reason": "A 50-50 grind uses both trucks on the ledge.",
+            "evidenceIds": [
+              "sd-50",
+              "howcast-50"
+            ]
+          },
+          {
+            "choiceIndex": 1,
+            "verdict": "incorrect",
+            "reason": "Only the front truck does not satisfy the required both-trucks contact.",
+            "evidenceIds": [
+              "sd-50",
+              "howcast-50"
+            ]
+          },
+          {
+            "choiceIndex": 2,
+            "verdict": "incorrect",
+            "reason": "Only the rear truck does not satisfy the required both-trucks contact.",
+            "evidenceIds": [
+              "sd-50",
+              "howcast-50"
+            ]
+          },
+          {
+            "choiceIndex": 3,
+            "verdict": "incorrect",
+            "reason": "Deck contact does not satisfy the required both-trucks contact.",
+            "evidenceIds": [
+              "sd-50",
+              "howcast-50"
+            ]
+          }
+        ],
+        "claimReviews": [
+          {
+            "claimId": "skate-fifty-fifty-claim-1",
+            "supported": true,
+            "evidenceIds": [
+              "sd-50",
+              "howcast-50"
+            ]
+          }
+        ]
+      },
+      {
+        "cardId": "skate-durometer",
+        "questionSupported": true,
+        "explanationSupported": true,
+        "unambiguous": true,
+        "engaging": true,
+        "choiceReviews": [
+          {
+            "choiceIndex": 0,
+            "verdict": "correct",
+            "reason": "Durometer quantifies material hardness.",
+            "evidenceIds": [
+              "sw-hardness",
+              "bones-hardness"
+            ]
+          },
+          {
+            "choiceIndex": 1,
+            "verdict": "incorrect",
+            "reason": "Diameter measures size, not hardness.",
+            "evidenceIds": [
+              "sw-hardness",
+              "bones-hardness"
+            ]
+          },
+          {
+            "choiceIndex": 2,
+            "verdict": "incorrect",
+            "reason": "Weight does not measure material hardness.",
+            "evidenceIds": [
+              "sw-hardness",
+              "bones-hardness"
+            ]
+          },
+          {
+            "choiceIndex": 3,
+            "verdict": "incorrect",
+            "reason": "A parts count does not measure hardness.",
+            "evidenceIds": [
+              "sw-hardness",
+              "bones-hardness"
+            ]
+          }
+        ],
+        "claimReviews": [
+          {
+            "claimId": "skate-durometer-claim-1",
+            "supported": true,
+            "evidenceIds": [
+              "sw-hardness",
+              "bones-hardness"
+            ]
+          }
+        ]
+      },
+      {
+        "cardId": "skate-kickflip-direction",
+        "questionSupported": true,
+        "explanationSupported": true,
+        "unambiguous": true,
+        "engaging": true,
+        "choiceReviews": [
+          {
+            "choiceIndex": 0,
+            "verdict": "incorrect",
+            "reason": "A heelflip uses the opposite flick direction.",
+            "evidenceIds": [
+              "braille-heel",
+              "sd-heel",
+              "braille-kick"
+            ]
+          },
+          {
+            "choiceIndex": 1,
+            "verdict": "correct",
+            "reason": "The kickflip uses the heel-side flick without a shove-it turn.",
+            "evidenceIds": [
+              "braille-kick",
+              "sd-kick",
+              "sd-kick-spin"
+            ]
+          },
+          {
+            "choiceIndex": 2,
+            "verdict": "incorrect",
+            "reason": "A hardflip also includes a frontside pop shove-it, which the clue excludes.",
+            "evidenceIds": [
+              "sd-hardflip",
+              "braille-hardflip"
+            ]
+          },
+          {
+            "choiceIndex": 3,
+            "verdict": "incorrect",
+            "reason": "A 360 flip also includes a 360 shove-it, which the clue excludes.",
+            "evidenceIds": [
+              "sd-tre",
+              "braille-tre"
+            ]
+          }
+        ],
+        "claimReviews": [
+          {
+            "claimId": "skate-kickflip-direction-claim-1",
+            "supported": true,
+            "evidenceIds": [
+              "braille-kick",
+              "sd-kick",
+              "sd-kick-spin"
+            ]
+          },
+          {
+            "claimId": "skate-kickflip-direction-claim-2",
+            "supported": true,
+            "evidenceIds": [
+              "braille-heel",
+              "sd-heel",
+              "braille-kick"
+            ]
+          },
+          {
+            "claimId": "skate-kickflip-direction-claim-3",
+            "supported": true,
+            "evidenceIds": [
+              "sd-hardflip",
+              "braille-hardflip"
+            ]
+          },
+          {
+            "claimId": "skate-kickflip-direction-claim-4",
+            "supported": true,
+            "evidenceIds": [
+              "sd-tre",
+              "braille-tre"
+            ]
+          }
+        ]
+      },
+      {
+        "cardId": "skate-bearing-count",
+        "questionSupported": true,
+        "explanationSupported": true,
+        "unambiguous": true,
+        "engaging": true,
+        "choiceReviews": [
+          {
+            "choiceIndex": 0,
+            "verdict": "incorrect",
+            "reason": "Four gives one per wheel; the sources specify two.",
+            "evidenceIds": [
+              "tgm-bearings",
+              "sd-bearings"
+            ]
+          },
+          {
+            "choiceIndex": 1,
+            "verdict": "incorrect",
+            "reason": "Six does not supply two to all four wheels.",
+            "evidenceIds": [
+              "tgm-bearings",
+              "sd-bearings"
+            ]
+          },
+          {
+            "choiceIndex": 2,
+            "verdict": "correct",
+            "reason": "A standard skateboard uses two bearings per wheel, totaling eight for four wheels.",
+            "evidenceIds": [
+              "tgm-bearings",
+              "sd-bearings"
+            ]
+          },
+          {
+            "choiceIndex": 3,
+            "verdict": "incorrect",
+            "reason": "Twelve gives three per wheel; the sources specify two.",
+            "evidenceIds": [
+              "tgm-bearings",
+              "sd-bearings"
+            ]
+          }
+        ],
+        "claimReviews": [
+          {
+            "claimId": "skate-bearing-count-claim-1",
+            "supported": true,
+            "evidenceIds": [
+              "tgm-bearings",
+              "sd-bearings"
+            ]
+          }
+        ]
+      },
+      {
+        "cardId": "skate-manual",
+        "questionSupported": true,
+        "explanationSupported": true,
+        "unambiguous": true,
+        "engaging": true,
+        "choiceReviews": [
+          {
+            "choiceIndex": 0,
+            "verdict": "correct",
+            "reason": "A standard tail manual rolls on the back wheels with the front wheels lifted.",
+            "evidenceIds": [
+              "nollie-manual",
+              "howto-manual"
+            ]
+          },
+          {
+            "choiceIndex": 1,
+            "verdict": "incorrect",
+            "reason": "The described tail manual keeps the front wheels raised.",
+            "evidenceIds": [
+              "nollie-manual",
+              "howto-manual"
+            ]
+          },
+          {
+            "choiceIndex": 2,
+            "verdict": "incorrect",
+            "reason": "The described tail manual keeps the front wheels raised.",
+            "evidenceIds": [
+              "nollie-manual",
+              "howto-manual"
+            ]
+          },
+          {
+            "choiceIndex": 3,
+            "verdict": "incorrect",
+            "reason": "The described tail manual rolls on the rear pair, not a mixed pair.",
+            "evidenceIds": [
+              "nollie-manual",
+              "howto-manual"
+            ]
+          }
+        ],
+        "claimReviews": [
+          {
+            "claimId": "skate-manual-claim-1",
+            "supported": true,
+            "evidenceIds": [
+              "nollie-manual",
+              "howto-manual"
+            ]
+          }
+        ]
+      },
+      {
+        "cardId": "skate-switch",
+        "questionSupported": true,
+        "explanationSupported": true,
+        "unambiguous": true,
+        "engaging": true,
+        "choiceReviews": [
+          {
+            "choiceIndex": 0,
+            "verdict": "correct",
+            "reason": "Switch is the opposite of the rider's normal stance.",
+            "evidenceIds": [
+              "sd-switch",
+              "ccs-stances"
+            ]
+          },
+          {
+            "choiceIndex": 1,
+            "verdict": "incorrect",
+            "reason": "Rolling backward in the usual stance is fakie, which these guides distinguish from switch.",
+            "evidenceIds": [
+              "ccs-stances",
+              "swarthmore-fakie"
+            ]
+          },
+          {
+            "choiceIndex": 2,
+            "verdict": "incorrect",
+            "reason": "A different flip direction alone leaves the stance unchanged. Switch requires the opposite stance.",
+            "evidenceIds": [
+              "sd-switch",
+              "ccs-stances"
+            ]
+          },
+          {
+            "choiceIndex": 3,
+            "verdict": "incorrect",
+            "reason": "The option explicitly retains the usual stance, whereas switch requires the opposite stance.",
+            "evidenceIds": [
+              "sd-switch",
+              "ccs-stances"
+            ]
+          }
+        ],
+        "claimReviews": [
+          {
+            "claimId": "skate-switch-claim-1",
+            "supported": true,
+            "evidenceIds": [
+              "sd-switch",
+              "ccs-stances",
+              "swarthmore-switch"
+            ]
+          },
+          {
+            "claimId": "skate-switch-claim-2",
+            "supported": true,
+            "evidenceIds": [
+              "ccs-stances",
+              "swarthmore-fakie"
+            ]
+          }
+        ]
+      },
+      {
+        "cardId": "skate-hardflip",
+        "questionSupported": true,
+        "explanationSupported": true,
+        "unambiguous": true,
+        "engaging": true,
+        "choiceReviews": [
+          {
+            "choiceIndex": 0,
+            "verdict": "correct",
+            "reason": "A hardflip combines a frontside pop shove-it and a kickflip.",
+            "evidenceIds": [
+              "sd-hardflip",
+              "braille-hardflip"
+            ]
+          },
+          {
+            "choiceIndex": 1,
+            "verdict": "incorrect",
+            "reason": "The source-specified shove-it direction is frontside, not backside.",
+            "evidenceIds": [
+              "sd-hardflip",
+              "braille-hardflip"
+            ]
+          },
+          {
+            "choiceIndex": 2,
+            "verdict": "incorrect",
+            "reason": "The source-specified flip is a kickflip, not a heelflip.",
+            "evidenceIds": [
+              "sd-hardflip",
+              "braille-hardflip"
+            ]
+          },
+          {
+            "choiceIndex": 3,
+            "verdict": "incorrect",
+            "reason": "Both the shove-it direction and flip type differ from the source-specified combination.",
+            "evidenceIds": [
+              "sd-hardflip",
+              "braille-hardflip"
+            ]
+          }
+        ],
+        "claimReviews": [
+          {
+            "claimId": "skate-hardflip-claim-1",
+            "supported": true,
+            "evidenceIds": [
+              "sd-hardflip",
+              "braille-hardflip"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
