@@ -1,0 +1,209 @@
+{
+  "id": "sample-daily-five-v1",
+  "title": "Sample Five",
+  "emoji": "✨",
+  "category": "daily",
+  "description": "Five small surprises, from ocean hearts to the internet’s first hello. A reusable sample round for testing Today’s Five.",
+  "cards": [
+    {
+      "id": "sample-five-octopus-hearts",
+      "deckId": "sample-daily-five-v1",
+      "sequence": 1,
+      "difficulty": 1,
+      "archetype": "which-is-real",
+      "hook": "Eight arms. An even stranger heartbeat.",
+      "question": "An octopus has eight arms. How many hearts keep them going?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "Three",
+      "revealHeadline": "Three hearts. One very busy octopus.",
+      "explanation": "Two hearts move blood through the gills to pick up oxygen. The third sends that oxygen-rich blood around the body. Its copper-based oxygen carrier, hemocyanin, also gives the blood a blue color.",
+      "sources": [
+        {
+          "publisher": "Smithsonian Ocean",
+          "title": "Octopuses, Squids and Relatives",
+          "url": "https://ocean.si.edu/ocean-life/invertebrates/octopuses-squids-and-relatives"
+        },
+        {
+          "publisher": "NOAA Ocean Service",
+          "title": "Heartless or hopelessly romantic?",
+          "url": "https://oceanservice.noaa.gov/news/feb26/undersea-creatures-valentines-day.html"
+        }
+      ],
+      "sourceCheckedAt": "2026-09-08",
+      "volatility": "evergreen",
+      "tags": [
+        "octopuses",
+        "anatomy",
+        "ocean"
+      ],
+      "editorialStatus": "assistant_reviewed",
+      "categoryLabel": "Animals"
+    },
+    {
+      "id": "sample-five-toy-story",
+      "deckId": "sample-daily-five-v1",
+      "sequence": 2,
+      "difficulty": 1,
+      "archetype": "milestone",
+      "hook": "Woody and Buzz helped change how movies are made.",
+      "question": "What made Toy Story a first when it reached cinemas in 1995?",
+      "choices": [
+        "The first entirely computer-animated feature",
+        "The first feature with stop-motion puppets",
+        "The first animated feature with recorded dialogue",
+        "The first animated feature shown in color"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "The first entirely computer-animated feature",
+      "revealHeadline": "A whole feature, built with computer animation.",
+      "explanation": "Toy Story was the first feature-length movie made entirely with computer animation. Pixar brought Woody, Buzz, and their world to the screen with digitally rendered images.",
+      "sources": [
+        {
+          "publisher": "Pixar Animation Studios",
+          "title": "Our Story",
+          "url": "https://www.pixar.com/our-story"
+        },
+        {
+          "publisher": "Academy of Motion Picture Arts and Sciences",
+          "title": "Toy Story",
+          "url": "https://www.oscars.org/collection-highlights/toy-story"
+        }
+      ],
+      "sourceCheckedAt": "2026-09-08",
+      "volatility": "evergreen",
+      "tags": [
+        "animation",
+        "pixar",
+        "film-history"
+      ],
+      "editorialStatus": "assistant_reviewed",
+      "categoryLabel": "Movies"
+    },
+    {
+      "id": "sample-five-mars-sunset",
+      "deckId": "sample-daily-five-v1",
+      "sequence": 3,
+      "difficulty": 2,
+      "archetype": "scenario",
+      "hook": "The Red Planet has a surprise at sundown.",
+      "question": "You are watching sunset on Mars. What color glow can appear around the Sun?",
+      "choices": [
+        "Golden yellow",
+        "Blue",
+        "Violet",
+        "Emerald green"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "Blue",
+      "revealHeadline": "The Red Planet gets a blue sunset glow.",
+      "explanation": "Fine dust in the Martian atmosphere scatters light differently from the air on Earth. Near sunset, blue light stays concentrated toward the Sun while much of the surrounding sky looks yellow, orange, or reddish.",
+      "sources": [
+        {
+          "publisher": "NASA Space Place",
+          "title": "Why Is the Sky Blue?",
+          "url": "https://spaceplace.nasa.gov/blue-sky/en/"
+        },
+        {
+          "publisher": "NASA Jet Propulsion Laboratory",
+          "title": "NASA’s Curiosity Rover Views Serene Sundown on Mars",
+          "url": "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-views-serene-sundown-on-mars/"
+        }
+      ],
+      "sourceCheckedAt": "2026-09-08",
+      "volatility": "evergreen",
+      "tags": [
+        "mars",
+        "sunsets",
+        "light"
+      ],
+      "editorialStatus": "assistant_reviewed",
+      "categoryLabel": "Space"
+    },
+    {
+      "id": "sample-five-popcorn",
+      "deckId": "sample-daily-five-v1",
+      "sequence": 4,
+      "difficulty": 2,
+      "archetype": "kitchen-mechanism",
+      "hook": "A snack with a tiny pressure-cooker secret.",
+      "question": "What makes a popcorn kernel pop when you heat it?",
+      "choices": [
+        "Oil boils inside a thin skin",
+        "Trapped air makes the shell melt",
+        "Sugar crystals suddenly expand",
+        "Water becomes vapor inside a tough hull"
+      ],
+      "correctIndex": 3,
+      "canonicalAnswer": "Water becomes vapor inside a tough hull",
+      "revealHeadline": "Every kernel is a tiny pressure cooker.",
+      "explanation": "A popcorn kernel holds moisture inside a strong outer hull. As the water heats and vaporizes, pressure builds until the hull bursts. The softened starch expands outward into the fluffy snack.",
+      "sources": [
+        {
+          "publisher": "USDA National Agricultural Library",
+          "title": "How does popcorn pop?",
+          "url": "https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/popcorn/how-does-popcorn-pop-"
+        },
+        {
+          "publisher": "Purdue University College of Agriculture",
+          "title": "What’s under the shell of this popular snack?",
+          "url": "https://ag.purdue.edu/news/2020/02/whats-under-the-shell-of-this-popular-snack.html"
+        }
+      ],
+      "sourceCheckedAt": "2026-09-08",
+      "volatility": "evergreen",
+      "tags": [
+        "popcorn",
+        "steam",
+        "pressure"
+      ],
+      "editorialStatus": "assistant_reviewed",
+      "categoryLabel": "Food"
+    },
+    {
+      "id": "sample-five-first-message",
+      "deckId": "sample-daily-five-v1",
+      "sequence": 5,
+      "difficulty": 3,
+      "archetype": "chronology",
+      "hook": "Even the internet’s first conversation hit a snag.",
+      "question": "In 1969, UCLA tried to send LOGIN over ARPANET. Which letters arrived before the system crashed?",
+      "choices": [
+        "LI",
+        "LOG",
+        "LO",
+        "LOGI"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "LO",
+      "revealHeadline": "The first message was just “LO”.",
+      "explanation": "The L and O reached the computer at Stanford Research Institute before the system crashed. The team restored the connection and successfully sent the full command later that evening.",
+      "sources": [
+        {
+          "publisher": "UCLA Newsroom",
+          "title": "Pioneers and Visionaries to Celebrate Internet's 50th Anniversary at UCLA",
+          "url": "https://newsroom.ucla.edu/releases/internet-50-symposium-ucla"
+        },
+        {
+          "publisher": "Computer History Museum",
+          "title": "Museum Celebrates ARPANET Anniversary",
+          "url": "https://computerhistory.org/press-releases/museum-celebrates-arpanet-anniversary/"
+        }
+      ],
+      "sourceCheckedAt": "2026-09-08",
+      "volatility": "evergreen",
+      "tags": [
+        "ARPANET",
+        "networking",
+        "UCLA"
+      ],
+      "editorialStatus": "assistant_reviewed",
+      "categoryLabel": "Internet"
+    }
+  ]
+}
