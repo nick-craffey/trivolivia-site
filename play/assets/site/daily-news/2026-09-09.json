@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "editionKey": "2026-09-09",
   "version": "auto-v2-20260909T185357Z",
-  "digest": "7f01ab15ae71429303a86ec2359a7d62e910d40c6434656b53ebe3f187ebb0a4",
+  "digest": "1f61e59b805cbfadea77606ba74547c64fd6b7c1b307b4b89d7486fddc856d76",
   "title": "Today’s News",
   "generatedAt": "2026-09-09T18:53:57.000Z",
   "validFrom": "2026-09-09T00:00:00.000Z",
@@ -22,7 +22,7 @@
       ],
       "correctIndex": 3,
       "canonicalAnswer": "The same height",
-      "answerExplanation": "The hoop remains 10 feet high. Wheelchair basketball changes how players move around the court, but not the height of their target. ([invictusgames2025.ca](https://invictusgames2025.ca/sport-and-venues/wheelchair-basketball/))",
+      "answerExplanation": "The hoop remains 10 feet high. Wheelchair basketball changes how players move around the court, but not the height of their target.",
       "whyNow": "Uganda's military chief announced withdrawal from the Invictus Games on September 9, bringing renewed attention to its adaptive sports.",
       "quality": {
         "standaloneInterest": 5,
@@ -68,7 +68,7 @@
       ],
       "correctIndex": 1,
       "canonicalAnswer": "Slightly longer",
-      "answerExplanation": "A Martian day lasts about 24.6 Earth hours—surprisingly close to our own day. These Martian days are called sols. ([science.nasa.gov](https://science.nasa.gov/mars/facts/))",
+      "answerExplanation": "A Martian day lasts about 24.6 Earth hours—surprisingly close to our own day. These Martian days are called sols.",
       "whyNow": "Curiosity's September 9 update celebrates reaching 5,000 Martian days on August 29, making the difference between Earth and Mars days timely.",
       "quality": {
         "standaloneInterest": 5,
@@ -114,7 +114,7 @@
       ],
       "correctIndex": 2,
       "canonicalAnswer": "Portuguese",
-      "answerExplanation": "Portuguese is Angola's official language, alongside a diverse range of national languages. Official does not mean exclusively spoken. ([governo.gov.ao](https://governo.gov.ao/angola/coordenadas-geogr%C3%A1ficas))",
+      "answerExplanation": "Portuguese is Angola's official language, alongside a diverse range of national languages. Official does not mean exclusively spoken.",
       "whyNow": "The September 9 UK-Angola Investment Forum speech highlighted cooperation and investment, making Angola's language a useful introduction to the country.",
       "quality": {
         "standaloneInterest": 4,
@@ -166,7 +166,7 @@
       ],
       "correctIndex": 1,
       "canonicalAnswer": "Cement",
-      "answerExplanation": "Cement forms a paste with water that binds sand and rock as the concrete hardens. Cement is an ingredient; concrete is the resulting mixture. ([cement.org](https://www.cement.org/cement-concrete/how-cement-is-made/))",
+      "answerExplanation": "Cement forms a paste with water that binds sand and rock as the concrete hardens. Cement is an ingredient; concrete is the resulting mixture.",
       "whyNow": "The Housing Minister's September 9 speech highlighted increased building-material costs and pressures on housebuilding, making a familiar construction-material distinction timely.",
       "quality": {
         "standaloneInterest": 4,
@@ -212,7 +212,7 @@
       ],
       "correctIndex": 1,
       "canonicalAnswer": "Boiling temperature",
-      "answerExplanation": "The tower separates petroleum components according to their boiling points. Lighter components rise and condense near the top; the heaviest, highest-boiling components collect at the bottom. ([eia.gov](https://www.eia.gov/energyexplained/oil-and-petroleum-products/refining-crude-oil-the-refining-process.php))",
+      "answerExplanation": "The tower separates petroleum components according to their boiling points. Lighter components rise and condense near the top; the heaviest, highest-boiling components collect at the bottom.",
       "whyNow": "Oil prices rose above $100 a barrel on September 9 amid attacks on tankers and oil facilities. That makes the basic process of turning crude oil into fuels timely.",
       "quality": {
         "standaloneInterest": 4,
