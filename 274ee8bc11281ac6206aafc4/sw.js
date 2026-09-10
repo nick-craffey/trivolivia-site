@@ -1,4 +1,4 @@
-const CACHE='session-lowell-shell-v2';
+const CACHE='session-lowell-shell-v3';
 const SHELL=['./','./index.html','./style.css','./app.mjs','./core.mjs','./parks.mjs','./regional.mjs','./photos.mjs','./vendor/leaflet.js','./vendor/leaflet.css','./icon.svg','./manifest.webmanifest'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith('session-lowell-shell-')&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()));});

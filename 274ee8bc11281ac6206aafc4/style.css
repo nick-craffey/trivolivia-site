@@ -7,3 +7,9 @@ dialog{border:1px solid #d4dbca;border-radius:18px;padding:28px;color:var(--ink)
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
 
 @media(max-width:760px){.has-selection .map-actions,.has-selection .map-layers,.has-selection .utility-tools{display:none}}
+
+.community-hint{background:#42bceb;box-shadow:0 0 0 3px #42bceb44;margin-left:5px}
+.map-pin.community-pin .poi-dot{width:15px;height:15px;background:#42bceb;border-width:2px}
+.map-pin.community-pin .poi-dot:after{width:3px;height:3px;margin:4px;background:#124f68}
+.map-pin.community-pin.selected-pin .poi-dot{width:26px;height:26px;border-width:4px;box-shadow:0 0 0 6px #42bceb44,0 3px 12px #0005}
+.map-pin.community-pin.selected-pin .poi-dot:after{width:6px;height:6px;margin:6px}
