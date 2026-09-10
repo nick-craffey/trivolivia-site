@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://trivolivia.com/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://trivolivia.com/about/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -37,7 +37,7 @@
   </url>
   <url>
     <loc>https://trivolivia.com/press/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
