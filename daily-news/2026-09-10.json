@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-10",
+  "version": "auto-v2-20260910T215413Z",
+  "digest": "e56e82f59b5d0885bb60dce0c30c76ccef5c3d358f17694bf540b057934df1d1",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-10T21:54:13.000Z",
+  "validFrom": "2026-09-10T00:00:00.000Z",
+  "expiresAt": "2026-09-11T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "the-white-house-c4606c02e4",
+      "difficulty": 1,
+      "category": "Everyday Life",
+      "archetype": "appliedScenario",
+      "question": "Which health-insurance cost is paid monthly for coverage, even when you receive no medical care?",
+      "choices": [
+        "Deductible",
+        "Premium",
+        "Coinsurance",
+        "Copayment"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "Premium",
+      "answerExplanation": "The premium pays for coverage itself. Deductibles, copayments and coinsurance concern what you pay for covered care, rather than the monthly cost of keeping insurance.",
+      "whyNow": "The White House announced refunds for certain people buying insurance through the federal exchange, putting premiums and other insurance costs in focus.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 5
+      },
+      "eventDate": "2026-09-10",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "HealthCare.gov",
+          "title": "Premium - Glossary",
+          "canonicalArticleUrl": "https://www.healthcare.gov/glossary/premium/",
+          "checkedAt": "2026-09-10T21:53:01.000Z"
+        },
+        {
+          "publisher": "HealthCare.gov",
+          "title": "Your total costs for health care: Premium, deductible & out-of-pocket costs",
+          "canonicalArticleUrl": "https://www.healthcare.gov/choose-a-plan/your-total-costs/",
+          "checkedAt": "2026-09-10T21:53:01.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds",
+          "publisher": "The White House",
+          "canonicalArticleUrl": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/",
+          "publishedAt": "2026-09-10T14:06:53.000Z",
+          "checkedAt": "2026-09-10T21:54:12.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-10T21:53:01.000Z"
+    },
+    {
+      "id": "the-white-house-5f20eeba99",
+      "difficulty": 1,
+      "category": "Arts & Culture",
+      "archetype": "historicalEcho",
+      "question": "Whose portrait did Dolley Madison famously arrange to preserve from the White House in 1814?",
+      "choices": [
+        "James Madison",
+        "Thomas Jefferson",
+        "George Washington",
+        "John Adams"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "George Washington",
+      "answerExplanation": "She directed the rescue of Gilbert Stuart's portrait of George Washington. Staff helped remove it, and two visitors carried it away for safekeeping—the preservation was a shared effort.",
+      "whyNow": "Melania Trump discussed preserving White House interiors and decorative arts at a presidential-sites summit, recalling the enduring importance of protecting its historic objects.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-09",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "White House Historical Association",
+          "title": "Saving the Washington Portrait",
+          "canonicalArticleUrl": "https://www.whitehousehistory.org/saving-the-washington-portrait",
+          "checkedAt": "2026-09-10T21:53:01.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "First Lady Melania Trump’s Personal Vision to Preserve America’s Story Through Superior Design",
+          "publisher": "The White House",
+          "canonicalArticleUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/",
+          "publishedAt": "2026-09-09T22:59:40.000Z",
+          "checkedAt": "2026-09-10T21:54:12.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-10T21:53:01.000Z"
+    },
+    {
+      "id": "bbc-news-a85a1c405e",
+      "difficulty": 1,
+      "category": "Sports & Games",
+      "archetype": "language",
+      "question": "On a ski slope, what are moguls?",
+      "choices": [
+        "Patches of exposed ice",
+        "Sharp bends in the trail",
+        "Sudden steep drops",
+        "Bumps of snow"
+      ],
+      "correctIndex": 3,
+      "canonicalAnswer": "Bumps of snow",
+      "answerExplanation": "Moguls are snow bumps. In competition, skiers navigate a course of these bumps and perform aerial jumps, with turns, speed and aerial skill contributing to their score.",
+      "whyNow": "Edgar Grospiron, an Olympic moguls champion, has left the leadership of the 2030 Winter Olympics organising committee, bringing his skiing discipline back into view.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-10",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "International Ski and Snowboard Federation",
+          "title": "Moguls 101: Understanding Moguls and Dual Moguls",
+          "canonicalArticleUrl": "https://www.fis-ski.com/freestyle/news/moguls-aerials-2025-26/moguls-101-understanding-moguls-and-dual-moguls",
+          "checkedAt": "2026-09-10T21:53:01.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "2030 Winter Olympics boss departs amid turmoil",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/sport/articles/c980dgv6vyqo",
+          "publishedAt": "2026-09-10T18:50:11.000Z",
+          "checkedAt": "2026-09-10T21:54:12.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-10T21:53:01.000Z"
+    },
+    {
+      "id": "nasa-3f3012e62e",
+      "difficulty": 2,
+      "category": "Science & Nature",
+      "archetype": "mechanism",
+      "question": "Why can a dark nebula look like a hole in a star-filled sky?",
+      "choices": [
+        "Dust blocks light from stars behind it",
+        "A black hole traps the surrounding light",
+        "An empty gap contains no stars",
+        "The stars there have all burned out"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Dust blocks light from stars behind it",
+      "answerExplanation": "A dark nebula contains dust thick enough to block visible light from objects behind it. Its dark silhouette marks obscuring material, rather than simply an empty patch of space.",
+      "whyNow": "NASA's September 10 Astronomy Picture of the Day features the Giraffe Nebula, a dark cloud whose silhouette invites viewers to spot an animal shape.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-10",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "NASA",
+          "title": "Decoding Nebulae",
+          "canonicalArticleUrl": "https://science.nasa.gov/universe/stories/quick-reads/decoding-nebulae/",
+          "checkedAt": "2026-09-10T21:47:50.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/",
+          "publishedAt": "2026-09-10T04:05:00.000Z",
+          "checkedAt": "2026-09-10T21:54:12.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-10T21:47:50.000Z"
+    },
+    {
+      "id": "the-guardian-481d62419e",
+      "difficulty": 2,
+      "category": "Business & Economy",
+      "archetype": "appliedScenario",
+      "question": "In a rental report, what does the median rent describe?",
+      "choices": [
+        "The middle value after rents are ordered",
+        "The total rent divided by the number of homes",
+        "The rent charged by the greatest number of homes",
+        "The halfway point between the lowest and highest rents"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "The middle value after rents are ordered",
+      "answerExplanation": "The median is the middle of the ordered values; with an even number, it averages the two middle values. Unlike the mean, it is less affected by unusually high or low prices.",
+      "whyNow": "San Francisco's mayor declared a rent emergency, and the report uses median rents to describe housing costs. Knowing what that measure means helps decode the comparison.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-10",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "Australian Bureau of Statistics",
+          "title": "Measures of central tendency",
+          "canonicalArticleUrl": "https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/measures-central-tendency",
+          "checkedAt": "2026-09-10T21:53:01.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "San Francisco mayor declares rent emergency as housing costs soar",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/us-news/2026/sep/10/san-francisco-mayor-declares-rent-emergency",
+          "publishedAt": "2026-09-10T21:34:55.000Z",
+          "checkedAt": "2026-09-10T21:54:12.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-10T21:53:01.000Z"
+    }
+  ]
+}
