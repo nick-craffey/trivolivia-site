@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-11",
+  "version": "auto-v2-20260911T163744Z",
+  "digest": "7b744cdecd1123ad2b60160866edd061c84195670377f5826e7c2724a97aa5d4",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-11T16:37:44.000Z",
+  "validFrom": "2026-09-11T00:00:00.000Z",
+  "expiresAt": "2026-09-12T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "bbc-news-3c748cb81f",
+      "difficulty": 1,
+      "category": "Arts & Culture",
+      "archetype": "hiddenIdentity",
+      "question": "Céline Dion's My Heart Will Go On is the theme song from which film?",
+      "choices": [
+        "The Bodyguard",
+        "Pretty Woman",
+        "Titanic",
+        "Ghost"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "Titanic",
+      "answerExplanation": "My Heart Will Go On is the theme song from Titanic. It also won the Academy Award for Best Original Song.",
+      "whyNow": "Céline Dion sang with a fan in Paris ahead of her scheduled Saturday comeback show, making her familiar songs timely again.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-12",
+      "eventStatus": "scheduled",
+      "coreFactSources": [
+        {
+          "publisher": "CelineDion.com",
+          "title": "Biography",
+          "canonicalArticleUrl": "https://www.celinedion.com/about/biography/",
+          "checkedAt": "2026-09-11T16:08:29.000Z"
+        },
+        {
+          "publisher": "Academy of Motion Picture Arts and Sciences",
+          "title": "The 70th Academy Awards | 1998",
+          "canonicalArticleUrl": "https://www.oscars.org/oscars/ceremonies/1998",
+          "checkedAt": "2026-09-11T16:08:29.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Céline Dion duets with fan ahead of Paris comeback concert",
+          "publisher": "BBC News",
+          "canonicalArticleUrl": "https://www.bbc.co.uk/news/videos/cm2q8gg09d1o",
+          "publishedAt": "2026-09-11T14:54:07.000Z",
+          "checkedAt": "2026-09-11T16:37:44.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-11T16:08:29.000Z"
+    },
+    {
+      "id": "nasa-7bdcbd763f",
+      "difficulty": 1,
+      "category": "Science & Nature",
+      "archetype": "comparison",
+      "question": "Despite its name, a light-year measures which quantity?",
+      "choices": [
+        "Duration",
+        "Brightness",
+        "Speed",
+        "Distance"
+      ],
+      "correctIndex": 3,
+      "canonicalAnswer": "Distance",
+      "answerExplanation": "A light-year is the distance light travels in one Earth year. Light takes time to arrive, so distant objects also show us the past.",
+      "whyNow": "NASA's September 11 astronomy image features M83, described as about twelve million light-years away, making this easily confused unit timely.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-11",
+      "eventStatus": "completed",
+      "coreFactSources": [
+        {
+          "publisher": "NASA Space Place",
+          "title": "What Is a Light-Year?",
+          "canonicalArticleUrl": "https://spaceplace.nasa.gov/light-year/en/",
+          "checkedAt": "2026-09-11T16:08:29.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
+          "publishedAt": "2026-09-11T04:05:00.000Z",
+          "checkedAt": "2026-09-11T16:37:44.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-11T16:08:29.000Z"
+    },
+    {
+      "id": "gov-uk-8facbaafba",
+      "difficulty": 1,
+      "category": "Technology & Innovation",
+      "archetype": "hiddenIdentity",
+      "question": "Steel is made mainly from which metal?",
+      "choices": [
+        "Aluminum",
+        "Copper",
+        "Titanium",
+        "Iron"
+      ],
+      "correctIndex": 3,
+      "canonicalAnswer": "Iron",
+      "answerExplanation": "Steel consists primarily of iron combined with a small amount of carbon. It is a mixture of elements, not a separate metallic element.",
+      "whyNow": "Alan Lovell's appointment as Chair of British Steel was announced on September 11, bringing the material behind the business into focus.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-11",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "World Steel Association",
+          "title": "Raw materials",
+          "canonicalArticleUrl": "https://worldsteel.org/about-steel/raw-materials/",
+          "checkedAt": "2026-09-11T16:08:29.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Alan Lovell appointed Chair of British Steel",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/alan-lovell-appointed-chair-of-british-steel",
+          "publishedAt": "2026-09-11T13:00:01.000Z",
+          "checkedAt": "2026-09-11T16:37:43.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-11T16:08:29.000Z"
+    },
+    {
+      "id": "gov-uk-1d02c20a67",
+      "difficulty": 1,
+      "category": "Arts & Culture",
+      "archetype": "language",
+      "question": "A painting described as a diptych consists of how many panels?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "Two",
+      "answerExplanation": "A diptych has two parts. Traditional examples are often hinged so they can close like a book, protecting the paintings inside.",
+      "whyNow": "The government announced a temporary export bar on Stanley Spencer's The Resurrection of the Good and the Bad, a diptych.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 4,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-11",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "The National Gallery",
+          "title": "Diptychs",
+          "canonicalArticleUrl": "https://www.nationalgallery.org.uk/paintings/glossary/diptychs",
+          "checkedAt": "2026-09-11T16:08:29.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Minister acts to stop pivotal British Modernist painting from leaving the UK",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/minister-acts-to-stop-pivotal-british-modernist-painting-from-leaving-the-uk",
+          "publishedAt": "2026-09-11T13:00:01.000Z",
+          "checkedAt": "2026-09-11T16:37:43.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-11T16:08:29.000Z"
+    },
+    {
+      "id": "u-s-national-science-foundation-d8821ee3d0",
+      "difficulty": 1,
+      "category": "Science & Nature",
+      "archetype": "comparison",
+      "question": "What is the main aim of basic scientific research?",
+      "choices": [
+        "Developing a product for a specific use",
+        "Improving an existing manufacturing process",
+        "Understanding phenomena without a specific application in mind",
+        "Designing a prototype to meet a practical need"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "Understanding phenomena without a specific application in mind",
+      "answerExplanation": "Basic research seeks new understanding without a particular application in view. Applied research instead pursues a specific practical aim; development creates or improves products and processes.",
+      "whyNow": "NSF's September 10 statement described changes to research support and highlighted both basic and applied research, making their different goals worth distinguishing.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 4,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-10",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "National Center for Science and Engineering Statistics, U.S. National Science Foundation",
+          "title": "Definitions of Research and Development: An Annotated Compilation of Official Sources",
+          "canonicalArticleUrl": "https://ncses.nsf.gov/pubs/ncses25215",
+          "checkedAt": "2026-09-11T16:24:49.000Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "NSF leadership in a new golden age of science",
+          "publisher": "U.S. National Science Foundation",
+          "canonicalArticleUrl": "https://www.nsf.gov/news/nsf-leadership-new-golden-age-science",
+          "publishedAt": "2026-09-10T18:59:14.000Z",
+          "checkedAt": "2026-09-11T16:37:43.000Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-11T16:24:49.000Z"
+    }
+  ]
+}
