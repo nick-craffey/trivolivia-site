@@ -1259,7 +1259,7 @@ c.adoptText(b)
 c.first()
 for(s=a.length,r=0;!J.e(c.next(),-1);r=q){q=J.aF(c.current())
 for(p=r,o=0,n=0;p<q;++p){m=a.charCodeAt(p)
-if(B.a0v.p(0,m)){++o;++n}else if(B.a0Y.p(0,m))++n
+if(B.a0w.p(0,m)){++o;++n}else if(B.a0Z.p(0,m))++n
 else if(n>0){k.push(new A.tk(r,p,B.tG,o,n))
 r=p
 o=0
@@ -1602,7 +1602,7 @@ s=B.c.p(s,"OS 15_")}else s=!1
 if(s)return"BlinkMacSystemFont"
 if($.bK().ge9()===B.bN||$.bK().ge9()===B.d0)return"-apple-system, BlinkMacSystemFont"
 return"Arial"},
-bhn(a){if(B.a0w.p(0,a))return a
+bhn(a){if(B.a0x.p(0,a))return a
 if($.bK().ge9()===B.bN||$.bK().ge9()===B.d0)if(a===".SF Pro Text"||a===".SF Pro Display"||a===".SF UI Text"||a===".SF UI Display")return A.b03()
 return'"'+A.q(a)+'", '+A.b03()+", sans-serif"},
 bhr(a,b,c){if(a<b)return b
@@ -25245,8 +25245,8 @@ _.$ti=a},
 ES:function ES(a,b,c){this.c=a
 this.d=b
 this.a=c},
-aXR(a,b){return new A.xV(b,B.ad,B.a0O,a,null)},
-aXS(a){return new A.xV(null,null,B.a0R,a,null)},
+aXR(a,b){return new A.xV(b,B.ad,B.a0P,a,null)},
+aXS(a){return new A.xV(null,null,B.a0S,a,null)},
 aXT(a,b){var s,r=a.F8(t.bb)
 if(r==null)return!1
 s=A.nK(a).jp(a)
@@ -28524,7 +28524,7 @@ r=A.T("^[\\d.]+$",!0,!1)
 if(r.b.test(s))return!1
 return!B.b.c7(B.SL,B.c.gaxY(s))},
 bgu(a){var s=A.b(a.toLowerCase().split("."),t.s),r=s.length
-if(r>2&&B.a0C.p(0,s[r-2])&&B.b.gan(s).length===2)return A.cJ(s,s.length-3,null,t.N).aT(0,".")
+if(r>2&&B.a0D.p(0,s[r-2])&&B.b.gan(s).length===2)return A.cJ(s,s.length-3,null,t.N).aT(0,".")
 return A.cJ(s,s.length-2,null,t.N).aT(0,".")},
 aTh(a){var s=A.ah(a.toLowerCase(),"&"," and "),r=A.T("[\\s\\-_\u2013\u2014/:;,.!?\"'\u201c\u201d\u2018\u2019()\\[\\]{}]+",!0,!0)
 return B.c.L(A.ah(s,r," "))},
@@ -28923,7 +28923,7 @@ aaA:function aaA(){},
 aaB:function aaB(){},
 aaC:function aaC(){},
 aVS(a){var s,r,q,p,o,n,m,l="provenance",k="headline",j="publisher"
-A.N2(a,B.a0r,l)
+A.N2(a,B.a0s,l)
 s=A.dT(a.h(0,k),"provenance.headline")
 r=A.dT(a.h(0,j),"provenance.publisher")
 q=A.b0x(a,"canonicalArticleUrl",l)
@@ -28960,8 +28960,8 @@ l=q?"legacy-headline-recall":a8
 k=b6==null?"reported":b6
 j=b8==null?a5:b8
 i=!a5
-if(i){if(!B.a14.p(0,l))throw A.c(B.Nk)
-if(!B.a17.p(0,k))throw A.c(B.NJ)
+if(i){if(!B.a15.p(0,l))throw A.c(B.Nk)
+if(!B.a0j.p(0,k))throw A.c(B.NJ)
 if(c2!=null){h=c2.a
 g=c2.b
 f=c2.c
@@ -29012,7 +29012,7 @@ g=c2==null?B.KN:c2
 return new A.ln(b9,b4,b0,l,c3,q,b3,a9,s,r,i,h,g,A.oU(A.fB(n),A.fg(n),A.ff(n),0,0,0),k,j,m,c4)},
 b6Q(a4,a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1="card",a2=null,a3="quality"
 if(a5===1)return A.b6P(a4)
-A.N2(a4,B.a0H,a1)
+A.N2(a4,B.a0I,a1)
 s=A.N9(a4,"choices",a1)
 r=A.N9(a4,"coreFactSources",a1)
 q=A.N9(a4,"newsPegSources",a1)
@@ -29020,7 +29020,7 @@ p=a4.h(0,"headlineLeakage")
 if(!A.it(p))A.Q(A.a4("card.headlineLeakage must be a boolean.",a2,a2))
 if(p)throw A.c(B.rY)
 o=A.a5W(a4.h(0,a3),"card.quality")
-A.N2(o,B.a0N,a3)
+A.N2(o,B.a0O,a3)
 n=A.mz(o,"standaloneInterest",a3)
 m=A.mz(o,"fairness",a3)
 l=A.mz(o,"payoff",a3)
@@ -29087,7 +29087,7 @@ return A.aQS(A.cb(p,t.N,t.z))},
 aQS(b5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2="manifest",b3=-216e8,b4=6e7
 A.N2(b5,B.a19,b2)
 s=A.mz(b5,"schemaVersion",b2)
-if(!B.a0m.p(0,s))throw A.c(A.a4("Unsupported Daily News manifest schema "+s+".",null,null))
+if(!B.a0n.p(0,s))throw A.c(A.a4("Unsupported Daily News manifest schema "+s+".",null,null))
 r=A.dT(b5.h(0,"editionKey"),"manifest.editionKey")
 q=A.d9(r)
 p=A.dT(b5.h(0,"version"),"manifest.version")
@@ -30688,7 +30688,7 @@ r=A.T("^[A-Za-z0-9_-]{43}$",!0,!1)
 if(!r.b.test(d))A.Q(A.bV(d,"deckFingerprint","Must be one unpadded SHA-256 base64url digest."))
 return new A.atf(q,s,c,d,A.aH(A.bh2(a),t.S),A.b1_(b,"choiceOrderKey",96),f)},
 bbA(a,b,c){var s,r,q,p,o,n,m
-if(!B.a0z.p(0,c.d)||c.e!==b.a||c.cx!==5||c.dx.length!==5)throw A.c(B.NE)
+if(!B.a0A.p(0,c.d)||c.e!==b.a||c.cx!==5||c.dx.length!==5)throw A.c(B.NE)
 A.b0Z(b)
 s=A.b([],t.t)
 for(r=c.dx,q=r.length,p=b.f,o=0;o<q;++o){n=B.b.Fy(p,new A.atj(r[o]))
@@ -31773,11 +31773,11 @@ for(s=[!1,!0],r=0;r<2;++r){q=A.b8r(a,s[r])
 p=q.length
 if(p===0)continue
 for(o=0;o<q.length;q.length===p||(0,A.C)(q),++o){n=q[o]
-if(B.a0T.p(0,n)||B.b.c7(B.SW,B.c.ga7L(n)))return!0}if(B.b.c7(B.Rw,new A.af_(" "+B.b.aT(q," ")+" ")))return!0}return!1},
+if(B.a0U.p(0,n)||B.b.c7(B.SW,B.c.ga7L(n)))return!0}if(B.b.c7(B.Rw,new A.af_(" "+B.b.aT(q," ")+" ")))return!0}return!1},
 b8r(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=new A.d_("")
 for(s=new A.yc(a.toLowerCase()),r=!b;s.q();){q=s.d
 p=B.W6.h(0,q)
-if(p!=null)o=!r||!B.a0x.p(0,q)
+if(p!=null)o=!r||!B.a0y.p(0,q)
 else o=!1
 if(o)h.a+=p
 else{if(!(q>=97&&q<=122))o=q>=65&&q<=90
@@ -31943,7 +31943,7 @@ if(B.c.L(s.a).length===0||B.c.L(s.b).length===0)c.push(b+": the primary source n
 r=A.kR(B.c.L(s.c))
 if(r==null||r.gcl()!=="https"||r.gf3().length===0)c.push(b+": the primary source must use an HTTPS URL.")},
 bcB(a){var s,r,q=A.me(a.e)
-if(B.a16.p(0,q))return!0
+if(B.a17.p(0,q))return!0
 if(B.b.c7(A.b(["recognition","identification","identify","title"],t.s),new A.awg(q)))return!0
 s=A.me(a.r)
 r=A.T("^(which|what|who) .*(topic|title|name|person|place|city|event|work)\\b",!0,!1)
@@ -32258,7 +32258,7 @@ o=A.T("[A-Za-z][A-Za-z'-]+",!0,!1).jE(0,s),o=new A.qj(o.a,o.b,o.c),n=t.Qz
 case 2:if(!o.q()){r=3
 break}m=o.d
 l=(m==null?n.a(m):m).b[0].toLowerCase()
-if(l.length<4||B.a0V.p(0,l)||!k.D(0,l)){r=2
+if(l.length<4||B.a0W.p(0,l)||!k.D(0,l)){r=2
 break}r=4
 return b.b=l,1
 case 4:r=2
@@ -32646,8 +32646,8 @@ A.bgq(a,"blockedAt")
 return new A.hZ(s,r)},
 bbL(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null
 if(a.k(0).length>2048||a.gpt().length!==0)return c
-s=a.gcl()==="https"&&B.a0X.p(0,a.gf3().toLowerCase())
-r=(a.gcl()==="http"||a.gcl()==="https")&&B.a0n.p(0,a.gf3())
+s=a.gcl()==="https"&&B.a0Y.p(0,a.gf3().toLowerCase())
+r=(a.gcl()==="http"||a.gcl()==="https")&&B.a0o.p(0,a.gf3())
 if(!s&&!r)return c
 q=A.J(B.yR.gbF(),t.N)
 q.push("invite")
@@ -35955,7 +35955,7 @@ $2(a,b){this.a.$2(B.b.e3(a,t.m),b)},
 $S:352}
 A.aOS.prototype={
 $1(a){var s=A.dH(a,0,null)
-if(B.a0E.p(0,B.b.gan(s.grq())))return s.k(0)
+if(B.a0F.p(0,B.b.gan(s.grq())))return s.k(0)
 v.G.window.console.error("URL rejected by TrustedTypes policy flutter-engine: "+a+"(download prevented)")
 return null},
 $S:447}
@@ -38817,7 +38817,7 @@ if((q.R8&1)!==0){s=q.a.b
 if(s!==B.a3){q=q.p1
 q===$&&A.a()
 r=s===B.aV
-q=B.a12.p(0,q)
+q=B.a13.p(0,q)
 s=this.b.a
 if(q){s===$&&A.a()
 q=A.aq(r)
@@ -40388,7 +40388,7 @@ H7(a){var s
 if(this.a==null)return!0
 s=$.cm
 if((s==null?$.cm=A.eW():s).b)return!0
-if(!B.a0K.p(0,a.type))return!0
+if(!B.a0L.p(0,a.type))return!0
 if(!J.e(a.target,this.a))return!0
 s=$.cm;(s==null?$.cm=A.eW():s).sHN(!0)
 this.l()
@@ -40428,7 +40428,7 @@ if(i.d){if($.bK().geg()!==B.ca||J.e(a.type,"touchend")||J.e(a.type,"pointerup")|
 return!0}s=$.cm
 if((s==null?$.cm=A.eW():s).b)return!0
 if(++i.c>=20)return i.d=!0
-if(!B.a10.p(0,a.type))return!0
+if(!B.a11.p(0,a.type))return!0
 if(i.a!=null)return!1
 r=A.mj("activationPoint")
 switch(a.type){case"click":r.scV(new A.CC(a.offsetX,a.offsetY))
@@ -58182,7 +58182,7 @@ break $label0$0}q=null}return q},
 C(a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=this,a1=null
 a0.B5(a2)
 s=A.t(a2)
-r=a0.gd_().a.d4(B.a0Z)
+r=a0.gd_().a.d4(B.a1_)
 q=t.C
 p=A.cn(r,q)
 p.D(0,B.X)
@@ -65638,7 +65638,7 @@ ass(a){var s,r=this
 r.a.toString
 r.f===$&&A.a()
 switch(1){case 1:s=r.y
-if(s==null)s=r.y=A.ajw(r,B.a0G)
+if(s==null)s=r.y=A.ajw(r,B.a0H)
 s.p1=r.gakR()
 s.p2=r.gajd()
 s.R8=r.gajT()
@@ -71937,7 +71937,7 @@ j(a,b){var s=this
 if(b==null)return!1
 return b instanceof A.Le&&b.a===s.a&&b.b===s.b&&b.c===s.c&&J.e(b.e,s.e)&&A.r0(b.d,s.d)},
 gF(a){var s=this,r=s.d
-return A.a0(s.a,s.b,s.c,s.e,A.ba_(r==null?B.a0S:r),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)}}
+return A.a0(s.a,s.b,s.c,s.e,A.ba_(r==null?B.a0T:r),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)}}
 A.aKT.prototype={
 gf_(){var s=this.d
 return s==null?this.gbW():s},
@@ -98817,14 +98817,14 @@ break
 case 7:case 1:return A.m(q,r)
 case 2:return A.l(o.at(-1),r)}})
 return A.n($async$A9,r)},
-HH(a){if(!B.a0u.p(0,a)||this.ax===a)return
+HH(a){if(!B.a0v.p(0,a)||this.ax===a)return
 this.ax=a
 this.tS("screen_view",A.ad(["screen",a],t.N,t.K))},
 XL(a,b,c,d,e){var s,r="generated_topic",q=this.z.bG(e,A.bh3()),p=this.b
 if(p.ak(c))s=c
 else s=b?"daily_news":r
 p=p.h(0,c)
-if(p==null)if(b&&B.a0q.p(0,a))p=a
+if(p==null)if(b&&B.a0r.p(0,a))p=a
 else p=b?"news":r
 return A.ad(["roundId",q,"kind",d,"topic",s,"category",p],t.N,t.K)},
 a5_(a,b,c,d,e,f,g){var s,r=this
@@ -99193,7 +99193,7 @@ d3=A.T(h8,!0,!1)
 if(d3.b.test(d2))A.b_(d1,h9)
 d3=A.ah(c7.toLowerCase(),h0,h1)
 d4=A.T(h2,!0,!0)
-if(B.a1_.p(0,B.c.L(A.ah(d3,d4,h3))))A.b_(d1,"replace generator boilerplate with a topic-specific hook")
+if(B.a10.p(0,B.c.L(A.ah(d3,d4,h3))))A.b_(d1,"replace generator boilerplate with a topic-specific hook")
 d3=A.T("^(choose|select|pick|identify|guess|answer|read|use|find|name|match)\\b",!1,!1)
 if(d3.b.test(c7))A.b_(d1,"must create curiosity instead of repeating instructions")
 d5=A.aTq(c2,"choices",a,4,60,4)
@@ -99334,7 +99334,7 @@ A.aHQ.prototype={
 $0(){return this.a.e},
 $S:53}
 A.aHR.prototype={
-$1(a){return!this.a.p(0,a)&&!B.a0Q.p(0,a)},
+$1(a){return!this.a.p(0,a)&&!B.a0R.p(0,a)},
 $S:4}
 A.aHS.prototype={
 $1(a){var s=this.a.c.h(0,a)
@@ -101085,7 +101085,7 @@ if(B.c.L(o).length===0)o=b.a.d
 s=b.a
 r=A.aX0(o,s.d)
 q=b.f
-return A.aWZ(a.y,a.d,o,c.dy,s.b,p.d,a.a,a.f,B.a0k.p(0,c.d),a.x,a.b,A.cJ(q,0,A.dU(12,"count",t.S),A.B(q).c).dC(0,!1),1,r)},
+return A.aWZ(a.y,a.d,o,c.dy,s.b,p.d,a.a,a.f,B.a0l.p(0,c.d),a.x,a.b,A.cJ(q,0,A.dU(12,"count",t.S),A.B(q).c).dC(0,!1),1,r)},
 N(a){var s=0,r=A.o(t.H),q=this,p,o,n
 var $async$N=A.p(function(b,c){if(b===1)return A.l(c,r)
 for(;;)switch(s){case 0:q.cW()
@@ -101854,7 +101854,7 @@ $1(a){return a.length!==0},
 $S:4}
 A.jZ.prototype={}
 A.aOQ.prototype={
-$1(a){return a.length!==0&&!B.a0J.p(0,a)},
+$1(a){return a.length!==0&&!B.a0K.p(0,a)},
 $S:4}
 A.aNy.prototype={
 $1(a){var s=B.nC.h(0,a)
@@ -102457,7 +102457,7 @@ pI(a,b,c,d){return this.a7F(a,b,c,d)},
 a7F(a,b,c,d){var s=0,r=A.o(t.y),q,p=this,o,n,m,l
 var $async$pI=A.p(function(e,f){if(e===1)return A.l(f,r)
 for(;;)switch(s){case 0:l={}
-if(!B.a0D.p(0,c))throw A.c(A.bV(c,"kind","Unsupported fixed quest kind."))
+if(!B.a0E.p(0,c))throw A.c(A.bV(c,"kind","Unsupported fixed quest kind."))
 o=B.c.L(b)
 n=A.B(a).i("z<1,i>")
 m=A.J(new A.z(a,new A.aiU(),n),n.i("a3.E"))
@@ -103309,7 +103309,7 @@ $2(a,b){},
 $S:18}
 A.ajl.prototype={
 $1(a){var s=!0
-if(!B.a15.p(0,a))if(!B.c.aX(a,"progress_"))if(!B.c.aX(a,"paused_quiz_")){s=$.b2g()
+if(!B.a16.p(0,a))if(!B.c.aX(a,"progress_"))if(!B.c.aX(a,"paused_quiz_")){s=$.b2g()
 s=s.b.test(a)}return s},
 $S:4}
 A.F2.prototype={}
@@ -104835,15 +104835,15 @@ q=r.$ti.i("z<a3.E,i>")
 r=A.J(new A.z(r,new A.aCt(),q),q.i("a3.E"))
 return r},
 amx(a,b){var s,r=A.bW([a.a.d.toLowerCase(),a.c.CW.toLowerCase()],t.N)
-$label0$0:{if("Arts & Culture"===b){s=B.a0U
-break $label0$0}if("Earth & Nature"===b){s=B.a11
-break $label0$0}if("Food & Drink"===b){s=B.a0y
-break $label0$0}if("History"===b){s=B.a0o
-break $label0$0}if("Language & Ideas"===b){s=B.a0t
-break $label0$0}if("Life & Society"===b){s=B.a0W
-break $label0$0}if("Science & Technology"===b){s=B.a0L
-break $label0$0}if("Sports & Play"===b){s=B.a0F
-break $label0$0}if("The World"===b){s=B.a0P
+$label0$0:{if("Arts & Culture"===b){s=B.a0V
+break $label0$0}if("Earth & Nature"===b){s=B.a12
+break $label0$0}if("Food & Drink"===b){s=B.a0z
+break $label0$0}if("History"===b){s=B.a0p
+break $label0$0}if("Language & Ideas"===b){s=B.a0u
+break $label0$0}if("Life & Society"===b){s=B.a0X
+break $label0$0}if("Science & Technology"===b){s=B.a0M
+break $label0$0}if("Sports & Play"===b){s=B.a0G
+break $label0$0}if("The World"===b){s=B.a0Q
 break $label0$0}s=B.bF
 break $label0$0}return r.c7(0,s.gi6(s))},
 YK(a,b){var s,r,q,p=(2166136261^a)&2147483647
@@ -108578,7 +108578,7 @@ A.awl.prototype={
 $1(a){return A.Vk(this.a,a)},
 $S:4}
 A.awq.prototype={
-$1(a){return a.length!==0&&!this.a.p(0,a)&&!B.a0A.p(0,a)},
+$1(a){return a.length!==0&&!this.a.p(0,a)&&!B.a0B.p(0,a)},
 $S:4}
 A.awp.prototype={
 $1(a){return A.Vk(this.a,a)},
@@ -108736,7 +108736,7 @@ s.toString
 return s},
 $S:91}
 A.aNl.prototype={
-$1(a){return a.length!==0&&!B.a0p.p(0,a.toLowerCase())},
+$1(a){return a.length!==0&&!B.a0q.p(0,a.toLowerCase())},
 $S:4}
 A.aNm.prototype={
 $1(a){return a[0].toUpperCase()},
@@ -112512,8 +112512,8 @@ if(q!==B.CU)if(q!==B.CV){s=r&&q===B.jY
 p=s}return this.zr(a,!0,!0,b.b.c,q===B.CW,p,p,b.d)}}
 A.ax2.prototype={
 aCX(a,b){var s,r=A.kR(a),q=r==null?null:r.gcl()
-if(B.a0I.p(0,q))return!1
-s=this.b&&B.a0j.p(0,q)?"_top":""
+if(B.a0J.p(0,q))return!1
+s=this.b&&B.a0k.p(0,q)?"_top":""
 this.a.open(a,s,"noopener,noreferrer")
 return!0},
 zr(a,b,c,d,e,f,g,h){return this.aAW(a,!0,!0,d,e,f,g,h)},
@@ -117277,21 +117277,21 @@ B.nS=new A.j(0,4)
 B.H_=new A.bv(0,B.V,B.a1,B.nS,0)
 B.tP=s([B.H_],t.V)
 B.SD=s([1,3,7,21,60],t.t)
-B.Xk={"earth science":0,science:1}
-B.a0s=new A.bA(B.Xk,2,t.M)
-B.ae3=new A.mw("science-nature","Science & Nature","\ud83d\udd2c","Living things, the human body, Earth, and the universe.",B.a0s)
-B.Xl={geography:0,history:1,mythology:2}
-B.a0M=new A.bA(B.Xl,3,t.M)
-B.ae2=new A.mw("history-places","History & Places","\ud83c\udf0d","People, events, myths, maps, and the shape of our world.",B.a0M)
+B.Xl={"earth science":0,science:1}
+B.a0t=new A.bA(B.Xl,2,t.M)
+B.ae3=new A.mw("science-nature","Science & Nature","\ud83d\udd2c","Living things, the human body, Earth, and the universe.",B.a0t)
+B.Xm={geography:0,history:1,mythology:2}
+B.a0N=new A.bA(B.Xm,3,t.M)
+B.ae2=new A.mw("history-places","History & Places","\ud83c\udf0d","People, events, myths, maps, and the shape of our world.",B.a0N)
 B.WO={arts:0,film:1,language:2,literature:3,music:4}
-B.a0B=new A.bA(B.WO,5,t.M)
-B.ae0=new A.mw("arts-stories","Arts & Stories","\ud83c\udfad","Books, words, music, film, and visual culture.",B.a0B)
-B.Xp={design:0,mathematics:1,technology:2}
-B.a13=new A.bA(B.Xp,3,t.M)
-B.ae_=new A.mw("ideas-technology","Ideas & Technology","\ud83d\udca1","Mathematics, inventions, design, and the connected world.",B.a13)
-B.Xc={food:0,games:1}
-B.a0l=new A.bA(B.Xc,2,t.M)
-B.ae1=new A.mw("life-play","Life & Play","\ud83c\udfb2","Food, games, and the culture of everyday life.",B.a0l)
+B.a0C=new A.bA(B.WO,5,t.M)
+B.ae0=new A.mw("arts-stories","Arts & Stories","\ud83c\udfad","Books, words, music, film, and visual culture.",B.a0C)
+B.Xq={design:0,mathematics:1,technology:2}
+B.a14=new A.bA(B.Xq,3,t.M)
+B.ae_=new A.mw("ideas-technology","Ideas & Technology","\ud83d\udca1","Mathematics, inventions, design, and the connected world.",B.a14)
+B.Xd={food:0,games:1}
+B.a0m=new A.bA(B.Xd,2,t.M)
+B.ae1=new A.mw("life-play","Life & Play","\ud83c\udfb2","Food, games, and the culture of everyday life.",B.a0m)
 B.nd=s([B.ae3,B.ae2,B.ae0,B.ae_,B.ae1],A.av("F<mw>"))
 B.SH=s(["wikipedia","stub","template","requested images","articles needing","use dmy dates"],t.s)
 B.SJ=s([1,1,2,2,3],t.t)
@@ -118061,8 +118061,8 @@ B.VO=new A.dM([0,"FontWeight.w100",1,"FontWeight.w200",2,"FontWeight.w300",3,"Fo
 B.z2={AVRInput:0,AVRPower:1,Accel:2,Accept:3,Again:4,AllCandidates:5,Alphanumeric:6,AltGraph:7,AppSwitch:8,ArrowDown:9,ArrowLeft:10,ArrowRight:11,ArrowUp:12,Attn:13,AudioBalanceLeft:14,AudioBalanceRight:15,AudioBassBoostDown:16,AudioBassBoostToggle:17,AudioBassBoostUp:18,AudioFaderFront:19,AudioFaderRear:20,AudioSurroundModeNext:21,AudioTrebleDown:22,AudioTrebleUp:23,AudioVolumeDown:24,AudioVolumeMute:25,AudioVolumeUp:26,Backspace:27,BrightnessDown:28,BrightnessUp:29,BrowserBack:30,BrowserFavorites:31,BrowserForward:32,BrowserHome:33,BrowserRefresh:34,BrowserSearch:35,BrowserStop:36,Call:37,Camera:38,CameraFocus:39,Cancel:40,CapsLock:41,ChannelDown:42,ChannelUp:43,Clear:44,Close:45,ClosedCaptionToggle:46,CodeInput:47,ColorF0Red:48,ColorF1Green:49,ColorF2Yellow:50,ColorF3Blue:51,ColorF4Grey:52,ColorF5Brown:53,Compose:54,ContextMenu:55,Convert:56,Copy:57,CrSel:58,Cut:59,DVR:60,Delete:61,Dimmer:62,DisplaySwap:63,Eisu:64,Eject:65,End:66,EndCall:67,Enter:68,EraseEof:69,Esc:70,Escape:71,ExSel:72,Execute:73,Exit:74,F1:75,F10:76,F11:77,F12:78,F13:79,F14:80,F15:81,F16:82,F17:83,F18:84,F19:85,F2:86,F20:87,F21:88,F22:89,F23:90,F24:91,F3:92,F4:93,F5:94,F6:95,F7:96,F8:97,F9:98,FavoriteClear0:99,FavoriteClear1:100,FavoriteClear2:101,FavoriteClear3:102,FavoriteRecall0:103,FavoriteRecall1:104,FavoriteRecall2:105,FavoriteRecall3:106,FavoriteStore0:107,FavoriteStore1:108,FavoriteStore2:109,FavoriteStore3:110,FinalMode:111,Find:112,Fn:113,FnLock:114,GoBack:115,GoHome:116,GroupFirst:117,GroupLast:118,GroupNext:119,GroupPrevious:120,Guide:121,GuideNextDay:122,GuidePreviousDay:123,HangulMode:124,HanjaMode:125,Hankaku:126,HeadsetHook:127,Help:128,Hibernate:129,Hiragana:130,HiraganaKatakana:131,Home:132,Hyper:133,Info:134,Insert:135,InstantReplay:136,JunjaMode:137,KanaMode:138,KanjiMode:139,Katakana:140,Key11:141,Key12:142,LastNumberRedial:143,LaunchApplication1:144,LaunchApplication2:145,LaunchAssistant:146,LaunchCalendar:147,LaunchContacts:148,LaunchControlPanel:149,LaunchMail:150,LaunchMediaPlayer:151,LaunchMusicPlayer:152,LaunchPhone:153,LaunchScreenSaver:154,LaunchSpreadsheet:155,LaunchWebBrowser:156,LaunchWebCam:157,LaunchWordProcessor:158,Link:159,ListProgram:160,LiveContent:161,Lock:162,LogOff:163,MailForward:164,MailReply:165,MailSend:166,MannerMode:167,MediaApps:168,MediaAudioTrack:169,MediaClose:170,MediaFastForward:171,MediaLast:172,MediaPause:173,MediaPlay:174,MediaPlayPause:175,MediaRecord:176,MediaRewind:177,MediaSkip:178,MediaSkipBackward:179,MediaSkipForward:180,MediaStepBackward:181,MediaStepForward:182,MediaStop:183,MediaTopMenu:184,MediaTrackNext:185,MediaTrackPrevious:186,MicrophoneToggle:187,MicrophoneVolumeDown:188,MicrophoneVolumeMute:189,MicrophoneVolumeUp:190,ModeChange:191,NavigateIn:192,NavigateNext:193,NavigateOut:194,NavigatePrevious:195,New:196,NextCandidate:197,NextFavoriteChannel:198,NextUserProfile:199,NonConvert:200,Notification:201,NumLock:202,OnDemand:203,Open:204,PageDown:205,PageUp:206,Pairing:207,Paste:208,Pause:209,PinPDown:210,PinPMove:211,PinPToggle:212,PinPUp:213,Play:214,PlaySpeedDown:215,PlaySpeedReset:216,PlaySpeedUp:217,Power:218,PowerOff:219,PreviousCandidate:220,Print:221,PrintScreen:222,Process:223,Props:224,RandomToggle:225,RcLowBattery:226,RecordSpeedNext:227,Redo:228,RfBypass:229,Romaji:230,STBInput:231,STBPower:232,Save:233,ScanChannelsToggle:234,ScreenModeNext:235,ScrollLock:236,Select:237,Settings:238,ShiftLevel5:239,SingleCandidate:240,Soft1:241,Soft2:242,Soft3:243,Soft4:244,Soft5:245,Soft6:246,Soft7:247,Soft8:248,SpeechCorrectionList:249,SpeechInputToggle:250,SpellCheck:251,SplitScreenToggle:252,Standby:253,Subtitle:254,Super:255,Symbol:256,SymbolLock:257,TV:258,TV3DMode:259,TVAntennaCable:260,TVAudioDescription:261,TVAudioDescriptionMixDown:262,TVAudioDescriptionMixUp:263,TVContentsMenu:264,TVDataService:265,TVInput:266,TVInputComponent1:267,TVInputComponent2:268,TVInputComposite1:269,TVInputComposite2:270,TVInputHDMI1:271,TVInputHDMI2:272,TVInputHDMI3:273,TVInputHDMI4:274,TVInputVGA1:275,TVMediaContext:276,TVNetwork:277,TVNumberEntry:278,TVPower:279,TVRadioService:280,TVSatellite:281,TVSatelliteBS:282,TVSatelliteCS:283,TVSatelliteToggle:284,TVTerrestrialAnalog:285,TVTerrestrialDigital:286,TVTimer:287,Tab:288,Teletext:289,Undo:290,Unidentified:291,VideoModeNext:292,VoiceDial:293,WakeUp:294,Wink:295,Zenkaku:296,ZenkakuHankaku:297,ZoomIn:298,ZoomOut:299,ZoomToggle:300}
 B.VP=new A.bq(B.z2,[B.wr,B.ws,B.u7,B.um,B.un,B.uL,B.uM,B.jE,B.xV,B.cX,B.cy,B.cz,B.cY,B.uo,B.wk,B.wl,B.wm,B.xM,B.wn,B.wo,B.wp,B.wq,B.xN,B.xO,B.vW,B.vY,B.vX,B.bB,B.uA,B.uB,B.wd,B.we,B.wf,B.wg,B.wh,B.wi,B.wj,B.xW,B.uC,B.xX,B.up,B.hC,B.wt,B.wu,B.nn,B.vJ,B.wB,B.uN,B.wv,B.ww,B.wx,B.wy,B.wz,B.wA,B.uO,B.uq,B.uP,B.ue,B.uf,B.ug,B.xz,B.br,B.wC,B.wD,B.v3,B.uD,B.eb,B.xY,B.jD,B.uh,B.hB,B.hB,B.ui,B.ur,B.wE,B.vd,B.vm,B.vn,B.vo,B.vp,B.vq,B.vr,B.vs,B.vt,B.vu,B.vv,B.ve,B.vw,B.vx,B.vy,B.vz,B.vA,B.vf,B.vg,B.vh,B.vi,B.vj,B.vk,B.vl,B.wF,B.wG,B.wH,B.wI,B.wJ,B.wK,B.wL,B.wM,B.wN,B.wO,B.wP,B.wQ,B.uQ,B.us,B.nm,B.u8,B.xZ,B.y_,B.uR,B.uS,B.uT,B.uU,B.wR,B.wS,B.wT,B.v0,B.v1,B.v4,B.y0,B.ut,B.uI,B.v5,B.v6,B.ec,B.u9,B.wU,B.no,B.wV,B.v2,B.v7,B.v8,B.v9,B.yw,B.yx,B.y1,B.w3,B.vZ,B.wb,B.w_,B.w9,B.wc,B.w0,B.w1,B.w2,B.wa,B.w4,B.w5,B.w6,B.w7,B.w8,B.wW,B.wX,B.wY,B.wZ,B.uE,B.vK,B.vL,B.vM,B.y3,B.x_,B.xA,B.xL,B.x0,B.x1,B.x2,B.x3,B.vN,B.x4,B.x5,B.x6,B.xB,B.xC,B.xD,B.xE,B.vO,B.xF,B.vP,B.vQ,B.xP,B.xQ,B.xS,B.xR,B.uV,B.xG,B.xH,B.xI,B.xJ,B.vR,B.uW,B.x7,B.x8,B.uX,B.y2,B.jF,B.x9,B.vS,B.hD,B.hE,B.xK,B.uj,B.uu,B.xa,B.xb,B.xc,B.xd,B.uv,B.xe,B.xf,B.xg,B.uF,B.uG,B.uY,B.vT,B.uH,B.uZ,B.uw,B.xh,B.xi,B.xj,B.uk,B.xk,B.va,B.xp,B.xq,B.vU,B.xl,B.xm,B.jG,B.ux,B.xn,B.ud,B.v_,B.vB,B.vC,B.vD,B.vE,B.vF,B.vG,B.vH,B.vI,B.xT,B.xU,B.vV,B.xo,B.uJ,B.xr,B.ua,B.ub,B.uc,B.xt,B.y5,B.y6,B.y7,B.y8,B.y9,B.ya,B.yb,B.xu,B.yc,B.yd,B.ye,B.yf,B.yg,B.yh,B.yi,B.yj,B.yk,B.yl,B.ym,B.yn,B.xv,B.yo,B.yp,B.yq,B.yr,B.ys,B.yt,B.yu,B.yv,B.jC,B.xs,B.ul,B.u6,B.xw,B.y4,B.uK,B.xx,B.vb,B.vc,B.uy,B.uz,B.xy],A.av("bq<i,k>"))
 B.VQ=new A.bq(B.z2,[4294970632,4294970633,4294967553,4294968577,4294968578,4294969089,4294969090,4294967555,4294971393,4294968065,4294968066,4294968067,4294968068,4294968579,4294970625,4294970626,4294970627,4294970882,4294970628,4294970629,4294970630,4294970631,4294970884,4294970885,4294969871,4294969873,4294969872,4294967304,4294968833,4294968834,4294970369,4294970370,4294970371,4294970372,4294970373,4294970374,4294970375,4294971394,4294968835,4294971395,4294968580,4294967556,4294970634,4294970635,4294968321,4294969857,4294970642,4294969091,4294970636,4294970637,4294970638,4294970639,4294970640,4294970641,4294969092,4294968581,4294969093,4294968322,4294968323,4294968324,4294970703,4294967423,4294970643,4294970644,4294969108,4294968836,4294968069,4294971396,4294967309,4294968325,4294967323,4294967323,4294968326,4294968582,4294970645,4294969345,4294969354,4294969355,4294969356,4294969357,4294969358,4294969359,4294969360,4294969361,4294969362,4294969363,4294969346,4294969364,4294969365,4294969366,4294969367,4294969368,4294969347,4294969348,4294969349,4294969350,4294969351,4294969352,4294969353,4294970646,4294970647,4294970648,4294970649,4294970650,4294970651,4294970652,4294970653,4294970654,4294970655,4294970656,4294970657,4294969094,4294968583,4294967558,4294967559,4294971397,4294971398,4294969095,4294969096,4294969097,4294969098,4294970658,4294970659,4294970660,4294969105,4294969106,4294969109,4294971399,4294968584,4294968841,4294969110,4294969111,4294968070,4294967560,4294970661,4294968327,4294970662,4294969107,4294969112,4294969113,4294969114,4294971905,4294971906,4294971400,4294970118,4294970113,4294970126,4294970114,4294970124,4294970127,4294970115,4294970116,4294970117,4294970125,4294970119,4294970120,4294970121,4294970122,4294970123,4294970663,4294970664,4294970665,4294970666,4294968837,4294969858,4294969859,4294969860,4294971402,4294970667,4294970704,4294970715,4294970668,4294970669,4294970670,4294970671,4294969861,4294970672,4294970673,4294970674,4294970705,4294970706,4294970707,4294970708,4294969863,4294970709,4294969864,4294969865,4294970886,4294970887,4294970889,4294970888,4294969099,4294970710,4294970711,4294970712,4294970713,4294969866,4294969100,4294970675,4294970676,4294969101,4294971401,4294967562,4294970677,4294969867,4294968071,4294968072,4294970714,4294968328,4294968585,4294970678,4294970679,4294970680,4294970681,4294968586,4294970682,4294970683,4294970684,4294968838,4294968839,4294969102,4294969868,4294968840,4294969103,4294968587,4294970685,4294970686,4294970687,4294968329,4294970688,4294969115,4294970693,4294970694,4294969869,4294970689,4294970690,4294967564,4294968588,4294970691,4294967569,4294969104,4294969601,4294969602,4294969603,4294969604,4294969605,4294969606,4294969607,4294969608,4294971137,4294971138,4294969870,4294970692,4294968842,4294970695,4294967566,4294967567,4294967568,4294970697,4294971649,4294971650,4294971651,4294971652,4294971653,4294971654,4294971655,4294970698,4294971656,4294971657,4294971658,4294971659,4294971660,4294971661,4294971662,4294971663,4294971664,4294971665,4294971666,4294971667,4294970699,4294971668,4294971669,4294971670,4294971671,4294971672,4294971673,4294971674,4294971675,4294967305,4294970696,4294968330,4294967297,4294970700,4294971403,4294968843,4294970701,4294969116,4294969117,4294968589,4294968590,4294970702],t.eL)
-B.Xh={alias:0,allScroll:1,basic:2,cell:3,click:4,contextMenu:5,copy:6,forbidden:7,grab:8,grabbing:9,help:10,move:11,none:12,noDrop:13,precise:14,progress:15,text:16,resizeColumn:17,resizeDown:18,resizeDownLeft:19,resizeDownRight:20,resizeLeft:21,resizeLeftRight:22,resizeRight:23,resizeRow:24,resizeUp:25,resizeUpDown:26,resizeUpLeft:27,resizeUpRight:28,resizeUpLeftDownRight:29,resizeUpRightDownLeft:30,verticalText:31,wait:32,zoomIn:33,zoomOut:34}
-B.VR=new A.bq(B.Xh,["alias","all-scroll","default","cell","pointer","context-menu","copy","not-allowed","grab","grabbing","help","move","none","no-drop","crosshair","progress","text","col-resize","s-resize","sw-resize","se-resize","w-resize","ew-resize","e-resize","row-resize","n-resize","ns-resize","nw-resize","ne-resize","nwse-resize","nesw-resize","vertical-text","wait","zoom-in","zoom-out"],t.li)
+B.Xi={alias:0,allScroll:1,basic:2,cell:3,click:4,contextMenu:5,copy:6,forbidden:7,grab:8,grabbing:9,help:10,move:11,none:12,noDrop:13,precise:14,progress:15,text:16,resizeColumn:17,resizeDown:18,resizeDownLeft:19,resizeDownRight:20,resizeLeft:21,resizeLeftRight:22,resizeRight:23,resizeRow:24,resizeUp:25,resizeUpDown:26,resizeUpLeft:27,resizeUpRight:28,resizeUpLeftDownRight:29,resizeUpRightDownLeft:30,verticalText:31,wait:32,zoomIn:33,zoomOut:34}
+B.VR=new A.bq(B.Xi,["alias","all-scroll","default","cell","pointer","context-menu","copy","not-allowed","grab","grabbing","help","move","none","no-drop","crosshair","progress","text","col-resize","s-resize","sw-resize","se-resize","w-resize","ew-resize","e-resize","row-resize","n-resize","ns-resize","nw-resize","ne-resize","nwse-resize","nesw-resize","vertical-text","wait","zoom-in","zoom-out"],t.li)
 B.a1T=new A.au(B.bB,!1,!1,!1,!1,B.w)
 B.a1q=new A.au(B.bB,!1,!0,!1,!1,B.w)
 B.a1p=new A.au(B.br,!1,!1,!1,!1,B.w)
@@ -118078,8 +118078,8 @@ B.Xx={"Content-Type":0}
 B.VT=new A.bq(B.Xx,["application/json"],t.li)
 B.WI={Accept:0}
 B.nD=new A.bq(B.WI,["application/json"],t.li)
-B.X7={round:0,challenge:1,braintrust:2,channel:3}
-B.yR=new A.bq(B.X7,[B.kB,B.Ee,B.oJ,B.Ef],t.eK)
+B.X8={round:0,challenge:1,braintrust:2,channel:3}
+B.yR=new A.bq(B.X8,[B.kB,B.Ee,B.oJ,B.Ef],t.eK)
 B.Xs={type:0}
 B.VU=new A.bq(B.Xs,["line"],t.li)
 B.VZ=new A.bq(B.aP,[],A.av("bq<kg,U>"))
@@ -118400,15 +118400,15 @@ B.BI=new A.D(458874)
 B.Cd=new A.D(65667)
 B.CG=new A.D(786994)
 B.yY=new A.bq(B.WR,[B.C0,B.BH,B.fm,B.fo,B.B6,B.B5,B.B4,B.B7,B.BP,B.BN,B.BO,B.AH,B.AE,B.Ax,B.AC,B.AD,B.Cg,B.Cf,B.CB,B.CF,B.CC,B.CA,B.CE,B.Cz,B.CD,B.ek,B.AI,B.Bp,B.fk,B.hN,B.BU,B.BK,B.BJ,B.B1,B.Av,B.Am,B.An,B.Ao,B.Ap,B.Aq,B.Ar,B.As,B.At,B.Au,B.Ce,B.Cp,B.B2,B.Aw,B.AB,B.o0,B.o0,B.AL,B.AU,B.AV,B.AW,B.Bs,B.Bt,B.Bu,B.Bv,B.Bw,B.Bx,B.By,B.AM,B.Bz,B.BA,B.BB,B.BC,B.BD,B.AN,B.AO,B.AP,B.AQ,B.AR,B.AS,B.AT,B.BM,B.hM,B.zm,B.zs,B.zB,B.zC,B.zD,B.zE,B.zF,B.zG,B.zH,B.zt,B.zu,B.zv,B.zw,B.zx,B.zy,B.zz,B.zA,B.zI,B.zJ,B.zK,B.zL,B.zM,B.zN,B.zO,B.zP,B.zQ,B.zR,B.zS,B.zT,B.zU,B.zV,B.zW,B.BF,B.B_,B.zk,B.AZ,B.Bo,B.BR,B.BT,B.BS,B.zX,B.zY,B.zZ,B.A_,B.A0,B.A1,B.A2,B.A3,B.A4,B.A5,B.A6,B.A7,B.A8,B.A9,B.Aa,B.Ab,B.Ac,B.Ad,B.Ae,B.Af,B.Ag,B.Ah,B.Ai,B.Aj,B.Ak,B.Al,B.CK,B.BW,B.BX,B.BY,B.BZ,B.C_,B.Cu,B.Ct,B.Cy,B.Cv,B.Cs,B.Cx,B.CI,B.CH,B.CJ,B.Ck,B.Ci,B.Ch,B.Cq,B.Cj,B.Cl,B.Cr,B.Co,B.Cm,B.Cn,B.fn,B.hP,B.zr,B.AA,B.BV,B.jV,B.Bm,B.Bd,B.Be,B.Bf,B.Bg,B.Bh,B.Bi,B.Bj,B.Bk,B.Bl,B.Bb,B.C4,B.Ca,B.Cb,B.BQ,B.Bn,B.B8,B.Bc,B.Br,B.C8,B.C7,B.C6,B.C5,B.C9,B.B9,B.C2,B.C3,B.Ba,B.BE,B.B3,B.B0,B.BL,B.AY,B.AJ,B.Bq,B.AX,B.zq,B.C1,B.AG,B.zo,B.jU,B.BG,B.Cw,B.AF,B.fl,B.hO,B.CL,B.AK,B.Cc,B.Az,B.zl,B.zn,B.Ay,B.zp,B.BI,B.Cd,B.CG],A.av("bq<i,D>"))
-B.Xj={science:0,"earth science":1,geography:2,history:3,mythology:4,arts:5,film:6,language:7,literature:8,music:9,design:10,mathematics:11,technology:12,food:13,games:14}
-B.W4=new A.bq(B.Xj,["science-nature","science-nature","history-places","history-places","history-places","arts-stories","arts-stories","arts-stories","arts-stories","arts-stories","ideas-technology","ideas-technology","ideas-technology","life-play","life-play"],t.li)
+B.Xk={science:0,"earth science":1,geography:2,history:3,mythology:4,arts:5,film:6,language:7,literature:8,music:9,design:10,mathematics:11,technology:12,food:13,games:14}
+B.W4=new A.bq(B.Xk,["science-nature","science-nature","history-places","history-places","history-places","arts-stories","arts-stories","arts-stories","arts-stories","arts-stories","ideas-technology","ideas-technology","ideas-technology","life-play","life-play"],t.li)
 B.Xu={"deleteBackward:":0,"deleteWordBackward:":1,"deleteToBeginningOfLine:":2,"deleteForward:":3,"deleteWordForward:":4,"deleteToEndOfLine:":5,"moveLeft:":6,"moveRight:":7,"moveForward:":8,"moveBackward:":9,"moveUp:":10,"moveDown:":11,"moveLeftAndModifySelection:":12,"moveRightAndModifySelection:":13,"moveUpAndModifySelection:":14,"moveDownAndModifySelection:":15,"moveWordLeft:":16,"moveWordRight:":17,"moveToBeginningOfParagraph:":18,"moveToEndOfParagraph:":19,"moveWordLeftAndModifySelection:":20,"moveWordRightAndModifySelection:":21,"moveParagraphBackwardAndModifySelection:":22,"moveParagraphForwardAndModifySelection:":23,"moveToLeftEndOfLine:":24,"moveToRightEndOfLine:":25,"moveToBeginningOfDocument:":26,"moveToEndOfDocument:":27,"moveToLeftEndOfLineAndModifySelection:":28,"moveToRightEndOfLineAndModifySelection:":29,"moveToBeginningOfDocumentAndModifySelection:":30,"moveToEndOfDocumentAndModifySelection:":31,"transpose:":32,"scrollToBeginningOfDocument:":33,"scrollToEndOfDocument:":34,"scrollPageUp:":35,"scrollPageDown:":36,"pageUpAndModifySelection:":37,"pageDownAndModifySelection:":38,"cancelOperation:":39,"insertTab:":40,"insertBacktab:":41}
 B.D9=new A.nM(!1)
 B.Da=new A.nM(!0)
 B.W5=new A.bq(B.Xu,[B.m2,B.m5,B.m3,B.hf,B.hg,B.m4,B.eU,B.eV,B.eV,B.eU,B.eY,B.eZ,B.j6,B.j7,B.hn,B.ho,B.ja,B.jb,B.e5,B.e6,B.rO,B.rP,B.rK,B.rL,B.e5,B.e6,B.eW,B.eX,B.rA,B.rB,B.mS,B.mT,B.qk,B.D9,B.Da,B.oe,B.kc,B.jc,B.jd,B.q8,B.qe,B.qg],A.av("bq<i,bj>"))
 B.W6=new A.dM([64,"a",33,"i",36,"s",43,"t",124,"i",224,"a",225,"a",226,"a",227,"a",228,"a",229,"a",231,"c",232,"e",233,"e",234,"e",235,"e",236,"i",237,"i",238,"i",239,"i",241,"n",242,"o",243,"o",244,"o",245,"o",246,"o",249,"u",250,"u",251,"u",252,"u",253,"y",255,"y",945,"a",949,"e",953,"i",959,"o",961,"p",964,"t",965,"y",967,"x",1072,"a",1077,"e",1110,"i",1112,"j",1086,"o",1088,"p",1089,"c",1090,"t",1091,"y",1093,"x"],t.TM)
-B.X9={BU:0,DD:1,FX:2,TP:3,YD:4,ZR:5}
-B.dj=new A.bq(B.X9,["MM","DE","FR","TL","YE","CD"],t.li)
+B.Xa={BU:0,DD:1,FX:2,TP:3,YD:4,ZR:5}
+B.dj=new A.bq(B.Xa,["MM","DE","FR","TL","YE","CD"],t.li)
 B.YF=new A.D(458752)
 B.YG=new A.D(458753)
 B.YH=new A.D(458754)
@@ -118834,113 +118834,113 @@ B.ol=new A.Gd(1,"valid")
 B.om=new A.Gd(2,"invalid")
 B.WL={id:0,difficulty:1,category:2,question:3,choices:4,correctIndex:5,canonicalAnswer:6,revealHeadline:7,explanation:8,provenance:9}
 B.a0h=new A.bA(B.WL,10,t.M)
-B.Xd={publisher:0,title:1,canonicalArticleUrl:2,checkedAt:3}
-B.a0i=new A.bA(B.Xd,4,t.M)
+B.Xe={publisher:0,title:1,canonicalArticleUrl:2,checkedAt:3}
+B.a0i=new A.bA(B.Xe,4,t.M)
+B.X3={reported:0,scheduled:1,ongoing:2,completed:3,announced:4}
+B.a0j=new A.bA(B.X3,5,t.M)
 B.WY={mailto:0,tel:1,sms:2}
-B.a0j=new A.bA(B.WY,3,t.M)
-B.a0k=new A.dN([B.cx,B.f6,B.hv],t.Gq)
-B.a0m=new A.dN([1,2],t.Ih)
+B.a0k=new A.bA(B.WY,3,t.M)
+B.a0l=new A.dN([B.cx,B.f6,B.hv],t.Gq)
+B.a0n=new A.dN([1,2],t.Ih)
 B.Dv=new A.dN([B.d0,B.jS,B.nY],A.av("dN<ns>"))
 B.Wy={localhost:0,"127.0.0.1":1}
-B.a0n=new A.bA(B.Wy,2,t.M)
+B.a0o=new A.bA(B.Wy,2,t.M)
 B.WT={"start with":0,"connect a":1,"connect this":2,"identify the":3,"identify this":4,"choose the":5,"select the":6,"pick the":7,"match the":8,"read the":9,"use the":10,"find the":11,"name the":12,"guess the":13,"answer the":14,"direct introduction clue":15,"less obvious detail":16,"deeper context":17,"source backed":18,"page title":19,wikipedia:20,"this topic":21,"the answer is":22}
 B.Dw=new A.bA(B.WT,23,t.M)
 B.WN={history:0,mythology:1,europe:2}
-B.a0o=new A.bA(B.WN,3,t.M)
+B.a0p=new A.bA(B.WN,3,t.M)
 B.WP={a:0,an:1,and:2,at:3,for:4,in:5,of:6,on:7,the:8,to:9}
-B.a0p=new A.bA(B.WP,10,t.M)
-B.X5={"Arts & Culture":0,"Earth & Nature":1,"Food & Drink":2,History:3,"Language & Ideas":4,"Life & Society":5,"Science & Technology":6,"Sports & Play":7,"The World":8}
-B.a0q=new A.bA(B.X5,9,t.M)
+B.a0q=new A.bA(B.WP,10,t.M)
+B.X6={"Arts & Culture":0,"Earth & Nature":1,"Food & Drink":2,History:3,"Language & Ideas":4,"Life & Society":5,"Science & Technology":6,"Sports & Play":7,"The World":8}
+B.a0r=new A.bA(B.X6,9,t.M)
 B.WJ={headline:0,publisher:1,canonicalArticleUrl:2,publishedAt:3,checkedAt:4}
-B.a0r=new A.bA(B.WJ,5,t.M)
-B.Xb={language:0,literature:1,design:2,"law & society":3}
-B.a0t=new A.bA(B.Xb,4,t.M)
+B.a0s=new A.bA(B.WJ,5,t.M)
+B.Xc={language:0,literature:1,design:2,"law & society":3}
+B.a0u=new A.bA(B.Xc,4,t.M)
 B.WM={today:0,library:1,play:2,groups:3,quest:4,quest_results:5,knowledge_profile:6,braintrust_detail:7,challenge_landing:8,challenge_comparison:9,hidden_thread_reveal:10,privacy:11}
-B.a0u=new A.bA(B.WM,12,t.M)
-B.X4={news:0,series:1,species:2}
-B.Dx=new A.bA(B.X4,3,t.M)
-B.a0v=new A.dN([10,11,12,13,133,8232,8233],t.Ih)
+B.a0v=new A.bA(B.WM,12,t.M)
+B.X5={news:0,series:1,species:2}
+B.Dx=new A.bA(B.X5,3,t.M)
+B.a0w=new A.dN([10,11,12,13,133,8232,8233],t.Ih)
 B.WC={serif:0,"sans-serif":1,monospace:2,cursive:3,fantasy:4,"system-ui":5,math:6,emoji:7,fangsong:8}
-B.a0w=new A.bA(B.WC,9,t.M)
-B.a0x=new A.dN([64,33,36,43,124],t.Ih)
+B.a0x=new A.bA(B.WC,9,t.M)
+B.a0y=new A.dN([64,33,36,43,124],t.Ih)
 B.WQ={food:0,"food & drink":1}
-B.a0y=new A.bA(B.WQ,2,t.M)
-B.a0z=new A.dN([B.cV,B.cW],t.Gq)
+B.a0z=new A.bA(B.WQ,2,t.M)
+B.a0A=new A.dN([B.cV,B.cW],t.Gq)
 B.X1={a:0,an:1,answer:2,are:3,correct:4,indeed:5,is:6,it:7,right:8,that:9,the:10,this:11,was:12,were:13,yes:14}
-B.a0A=new A.bA(B.X1,15,t.M)
+B.a0B=new A.bA(B.X1,15,t.M)
 B.Wz={co:0,com:1,org:2,net:3,ac:4,gov:5}
-B.a0C=new A.bA(B.Wz,6,t.M)
-B.a0D=new A.dN([B.hv,B.jv,B.hw,B.f6],t.Gq)
+B.a0D=new A.bA(B.Wz,6,t.M)
+B.a0E=new A.dN([B.hv,B.jv,B.hw,B.f6],t.Gq)
 B.WA={"canvaskit.js":0}
-B.a0E=new A.bA(B.WA,1,t.M)
+B.a0F=new A.bA(B.WA,1,t.M)
 B.WK={games:0,sports:1,"sports & games":2}
-B.a0F=new A.bA(B.WK,3,t.M)
+B.a0G=new A.bA(B.WK,3,t.M)
 B.WE={a:0,an:1,and:2,at:3,for:4,from:5,in:6,of:7,on:8,the:9,to:10}
 B.Dy=new A.bA(B.WE,11,t.M)
 B.WG={wikipedia:0,"page title":1,"source backed":2,introduction:3,"this topic":4,"deeper context":5,extract:6}
 B.Dz=new A.bA(B.WG,7,t.M)
 B.v=new A.cj(6,"disabled")
 B.kn=new A.dN([B.v],t.El)
-B.a0G=new A.dN([B.d1,B.bE,B.aU,B.cc,B.bO],t.Lu)
-B.Xf={id:0,difficulty:1,category:2,archetype:3,question:4,choices:5,correctIndex:6,canonicalAnswer:7,answerExplanation:8,whyNow:9,quality:10,eventDate:11,eventStatus:12,coreFactSources:13,newsPegSources:14,headlineLeakage:15,statusVerifiedAt:16}
-B.a0H=new A.bA(B.Xf,17,t.M)
-B.Xe={javascript:0}
-B.a0I=new A.bA(B.Xe,1,t.M)
+B.a0H=new A.dN([B.d1,B.bE,B.aU,B.cc,B.bO],t.Lu)
+B.Xg={id:0,difficulty:1,category:2,archetype:3,question:4,choices:5,correctIndex:6,canonicalAnswer:7,answerExplanation:8,whyNow:9,quality:10,eventDate:11,eventStatus:12,coreFactSources:13,newsPegSources:14,headlineLeakage:15,statusVerifiedAt:16}
+B.a0I=new A.bA(B.Xg,17,t.M)
+B.Xf={javascript:0}
+B.a0J=new A.bA(B.Xf,1,t.M)
 B.WF={a:0,an:1,and:2,are:3,as:4,at:5,be:6,but:7,by:8,for:9,from:10,had:11,has:12,have:13,he:14,her:15,his:16,how:17,i:18,in:19,into:20,is:21,it:22,its:23,of:24,on:25,or:26,our:27,she:28,that:29,the:30,their:31,them:32,there:33,these:34,they:35,this:36,to:37,was:38,were:39,what:40,when:41,where:42,which:43,who:44,why:45,with:46,you:47,your:48}
-B.a0J=new A.bA(B.WF,49,t.M)
-B.Xn={click:0,keyup:1,keydown:2,mouseup:3,mousedown:4,pointerdown:5,pointerup:6}
-B.a0K=new A.bA(B.Xn,7,t.M)
-B.Xa={science:0,"earth science":1,mathematics:2,technology:3,design:4,energy:5,health:6,"science & space":7,space:8}
-B.a0L=new A.bA(B.Xa,9,t.M)
+B.a0K=new A.bA(B.WF,49,t.M)
+B.Xo={click:0,keyup:1,keydown:2,mouseup:3,mousedown:4,pointerdown:5,pointerup:6}
+B.a0L=new A.bA(B.Xo,7,t.M)
+B.Xb={science:0,"earth science":1,mathematics:2,technology:3,design:4,energy:5,health:6,"science & space":7,space:8}
+B.a0M=new A.bA(B.Xb,9,t.M)
 B.Xt={standaloneInterest:0,fairness:1,payoff:2,memorability:3,currentRelevance:4,distractorIntegrity:5}
-B.a0N=new A.bA(B.Xt,6,t.M)
-B.a0O=new A.dN([B.aL,B.a9,B.cp],A.av("dN<hr>"))
+B.a0O=new A.bA(B.Xt,6,t.M)
+B.a0P=new A.dN([B.aL,B.a9,B.cp],A.av("dN<hr>"))
 B.WX={geography:0,history:1,world:2,"world affairs":3,"climate & world":4}
-B.a0P=new A.bA(B.WX,5,t.M)
-B.Xi={a:0,an:1,the:2,is:3,are:4,was:5,were:6,yes:7,correct:8,answer:9,right:10,it:11,this:12,that:13}
-B.a0Q=new A.bA(B.Xi,14,t.M)
-B.a0S=new A.bA(B.aP,0,A.av("bA<e_>"))
+B.a0Q=new A.bA(B.WX,5,t.M)
+B.Xj={a:0,an:1,the:2,is:3,are:4,was:5,were:6,yes:7,correct:8,answer:9,right:10,it:11,this:12,that:13}
+B.a0R=new A.bA(B.Xj,14,t.M)
+B.a0T=new A.bA(B.aP,0,A.av("bA<e_>"))
 B.bF=new A.bA(B.aP,0,t.M)
-B.a0R=new A.bA(B.aP,0,A.av("bA<hr>"))
+B.a0S=new A.bA(B.aP,0,A.av("bA<hr>"))
 B.bs=new A.bA(B.aP,0,A.av("bA<cj>"))
 B.Xw={anal:0,bestiality:1,brothel:2,clitoris:3,ejaculation:4,erotic:5,erotica:6,fetish:7,genital:8,genitalia:9,genitals:10,incest:11,intercourse:12,impaled:13,impalement:14,impaling:15,masturbation:16,naked:17,nude:18,nudity:19,orgasm:20,orgasmic:21,orgasms:22,penis:23,porn:24,porno:25,pornography:26,prostitution:27,rape:28,raped:29,rapes:30,raping:31,rapist:32,sex:33,sexual:34,vagina:35,vulva:36,xxx:37,beheading:38,bloodbath:39,corpse:40,decapitation:41,dismemberment:42,gore:43,gory:44,massacre:45,mutilation:46,torture:47,selfharm:48,selfinjury:49,suicidal:50,suicide:51,alqaeda:52,extremism:53,extremist:54,isis:55,jihadist:56,kkk:57,nazi:58,nazism:59,neonazi:60,supremacist:61,chink:62,faggot:63,homophobia:64,kike:65,nigger:66,racism:67,racist:68,retard:69,spic:70,tranny:71,wetback:72,asshole:73,bitch:74,bullshit:75,cock:76,cunt:77,dick:78,fuck:79,motherfucker:80,pussy:81,shit:82,slut:83,whore:84}
-B.a0T=new A.bA(B.Xw,85,t.M)
+B.a0U=new A.bA(B.Xw,85,t.M)
 B.X_={arts:0,film:1,literature:2,music:3,"arts & culture":4}
-B.a0U=new A.bA(B.X_,5,t.M)
-B.Xm={album:0,association:1,book:2,club:3,company:4,concept:5,event:6,film:7,genre:8,group:9,international:10,music:11,organization:12,song:13,sport:14,style:15,team:16}
-B.a0V=new A.bA(B.Xm,17,t.M)
-B.Xq={history:0,geography:1,"everyday life":2,population:3,"world & society":4}
-B.a0W=new A.bA(B.Xq,5,t.M)
-B.Xg={"trivolivia.com":0,"www.trivolivia.com":1,"trivolivia-social-prod.web.app":2}
-B.a0X=new A.bA(B.Xg,3,t.M)
-B.a0Y=new A.dN([32,8203],t.Ih)
+B.a0V=new A.bA(B.X_,5,t.M)
+B.Xn={album:0,association:1,book:2,club:3,company:4,concept:5,event:6,film:7,genre:8,group:9,international:10,music:11,organization:12,song:13,sport:14,style:15,team:16}
+B.a0W=new A.bA(B.Xn,17,t.M)
+B.Xr={history:0,geography:1,"everyday life":2,population:3,"world & society":4}
+B.a0X=new A.bA(B.Xr,5,t.M)
+B.Xh={"trivolivia.com":0,"www.trivolivia.com":1,"trivolivia-social-prod.web.app":2}
+B.a0Y=new A.bA(B.Xh,3,t.M)
+B.a0Z=new A.dN([32,8203],t.Ih)
 B.H=new A.cj(1,"focused")
 B.F=new A.cj(0,"hovered")
 B.X=new A.cj(2,"pressed")
-B.a0Z=new A.dN([B.H,B.F,B.X],t.El)
+B.a1_=new A.dN([B.H,B.F,B.X],t.El)
 B.WZ={"a defining detail sets it apart":0,"a detail worth knowing":1,"a name with a story":2,"a familiar name a surprising detail":3,"a less obvious detail":4,"one fact opens another door":5,"there is more to the story":6,"the story goes deeper":7}
-B.a1_=new A.bA(B.WZ,8,t.M)
+B.a10=new A.bA(B.WZ,8,t.M)
 B.WH={click:0,touchstart:1,touchend:2,pointerdown:3,pointermove:4,pointerup:5}
-B.a10=new A.bA(B.WH,6,t.M)
-B.Xo={science:0,"earth science":1,"science & nature":2,"earth & environment":3,"climate & world":4}
-B.a11=new A.bA(B.Xo,5,t.M)
+B.a11=new A.bA(B.WH,6,t.M)
+B.Xp={science:0,"earth science":1,"science & nature":2,"earth & environment":3,"climate & world":4}
+B.a12=new A.bA(B.Xp,5,t.M)
 B.a0d=new A.jJ(8,"row")
-B.a12=new A.dN([B.a0d,B.Do],A.av("dN<jJ>"))
-B.X8={mechanism:0,appliedScenario:1,geography:2,system:3,historicalEcho:4,language:5,comparison:6,hiddenIdentity:7}
-B.a14=new A.bA(B.X8,8,t.M)
+B.a13=new A.dN([B.a0d,B.Do],A.av("dN<jJ>"))
+B.X9={mechanism:0,appliedScenario:1,geography:2,system:3,historicalEcho:4,language:5,comparison:6,hiddenIdentity:7}
+B.a15=new A.bA(B.X9,8,t.M)
 B.WW={t:0,d:1,g:2,p:3,c:4,k:5,m:6}
 B.DA=new A.bA(B.WW,7,t.M)
 B.DB=new A.dN([B.aU,B.bE,B.d1,B.bO,B.cc],t.Lu)
 B.WB={user_id:0,device_id:1,topic_progress:2,missed_questions:3,question_cache:4,paused_quiz:5,todays_news_completion_date:6,todays_news_score:7,todays_news_results:8,todays_news_challenge_id:9,daily_drop_progress:10,cached_todays_news_quiz:11,cached_todays_news_quiz_date:12,cached_todays_news_quiz_version:13,random_trivia_run:14,user_stats:15,curiosity_prompts:16,curiosity_library:17,curiosity_setup_complete:18,curiosity_generation_paused:19}
-B.a15=new A.bA(B.WB,20,t.M)
+B.a16=new A.bA(B.WB,20,t.M)
 B.WD={annualdate:0,origindecade:1,milestoneyear:2,identity:3}
-B.a16=new A.bA(B.WD,4,t.M)
-B.Xr={scheduled:0,ongoing:1,completed:2,announced:3}
-B.a17=new A.bA(B.Xr,4,t.M)
-B.X3={album:0,band:1,book:2,company:3,computer:4,concept:5,event:6,film:7,game:8,novel:9,organization:10,person:11,place:12,plant:13,river:14,song:15,sport:16,"television series":17,"video game":18}
-B.a18=new A.bA(B.X3,19,t.M)
-B.X6={schemaVersion:0,editionKey:1,version:2,digest:3,title:4,generatedAt:5,validFrom:6,expiresAt:7,cards:8}
-B.a19=new A.bA(B.X6,9,t.M)
+B.a17=new A.bA(B.WD,4,t.M)
+B.X4={album:0,band:1,book:2,company:3,computer:4,concept:5,event:6,film:7,game:8,novel:9,organization:10,person:11,place:12,plant:13,river:14,song:15,sport:16,"television series":17,"video game":18}
+B.a18=new A.bA(B.X4,19,t.M)
+B.X7={schemaVersion:0,editionKey:1,version:2,digest:3,title:4,generatedAt:5,validFrom:6,expiresAt:7,cards:8}
+B.a19=new A.bA(B.X7,9,t.M)
 B.W=new A.cj(4,"selected")
 B.ko=new A.dN([B.W],t.El)
 B.JZ=new A.O(0.23529411764705882,0,0,0,B.h)
