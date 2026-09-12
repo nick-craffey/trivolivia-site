@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 2,
+  "editionKey": "2026-09-12",
+  "version": "curated-v2-20260912-recent-headlines",
+  "digest": "64d33210f813ecd0b606aa50f8f19f0b18f6c1509684bc97dd1527f74c2836a5",
+  "title": "Today’s News",
+  "generatedAt": "2026-09-12T06:24:35.974Z",
+  "validFrom": "2026-09-12T00:00:00.000Z",
+  "expiresAt": "2026-09-13T00:00:00.000Z",
+  "cards": [
+    {
+      "id": "white-house-c6821b281e",
+      "difficulty": 1,
+      "category": "Arts & Culture",
+      "archetype": "hiddenIdentity",
+      "question": "The shofar heard at Jewish New Year is traditionally fashioned from what?",
+      "choices": [
+        "A ram's horn",
+        "A conch shell",
+        "A bamboo stem",
+        "A clay vessel"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "A ram's horn",
+      "answerExplanation": "The shofar is an actual animal horn, used as a wind instrument. Its blasts at Rosh Hashanah call listeners to reflection and repentance.",
+      "whyNow": "A September 11 presidential message marks Rosh Hashanah, bringing the holiday and its distinctive shofar tradition into focus.",
+      "quality": {
+        "standaloneInterest": 4,
+        "fairness": 5,
+        "payoff": 4,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-11",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "The Jewish Museum",
+          "title": "Shofar",
+          "canonicalArticleUrl": "https://collections.thejewishmuseum.org/collection/10557-shofar",
+          "checkedAt": "2026-09-12T06:22:16.251Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Presidential Message on Rosh Hashanah",
+          "publisher": "The White House",
+          "canonicalArticleUrl": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/",
+          "publishedAt": "2026-09-11T14:22:25.000Z",
+          "checkedAt": "2026-09-12T06:22:16.251Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-12T06:22:16.251Z"
+    },
+    {
+      "id": "gov-uk-news-062962df52",
+      "difficulty": 2,
+      "category": "Food & Travel",
+      "archetype": "appliedScenario",
+      "question": "A bottle of 12-year-old Scotch stays unopened for 20 more years. How much is added to the whisky’s stated age?",
+      "choices": [
+        "Eight years",
+        "Twenty years",
+        "Zero years",
+        "Thirty-two years"
+      ],
+      "correctIndex": 2,
+      "canonicalAnswer": "Zero years",
+      "answerExplanation": "Whisky matures in the cask, not the bottle. A longer stay on a shelf makes the bottle older without adding years to the whisky's age statement.",
+      "whyNow": "English Whisky received protected geographical status on September 11, putting how whisky is made and described back in the news.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 4,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-11",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "Scotch Whisky Association",
+          "title": "Scotch Whisky FAQs",
+          "canonicalArticleUrl": "https://www.scotch-whisky.org.uk/discover-scotch/faqs/",
+          "checkedAt": "2026-09-12T06:22:16.251Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "English Whisky raises a glass to new protected status",
+          "publisher": "GOV.UK",
+          "canonicalArticleUrl": "https://www.gov.uk/government/news/english-whisky-raises-a-glass-to-new-protected-status",
+          "publishedAt": "2026-09-11T16:28:41.000Z",
+          "checkedAt": "2026-09-12T06:22:16.251Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-12T06:22:16.251Z"
+    },
+    {
+      "id": "nasa-general-c816f07863",
+      "difficulty": 2,
+      "category": "Science & Nature",
+      "archetype": "mechanism",
+      "question": "The dark-line pattern in a star's spectrum acts like a fingerprint of what?",
+      "choices": [
+        "Its chemical elements",
+        "Its number of planets",
+        "Its constellation",
+        "Its distance from Earth"
+      ],
+      "correctIndex": 0,
+      "canonicalAnswer": "Its chemical elements",
+      "answerExplanation": "Gases absorb particular colours of starlight, leaving dark lines. Each element has its own pattern, so astronomers can identify stellar ingredients without travelling to the star.",
+      "whyNow": "NASA’s September 11 introduction of Artifact InSPECtor highlights telescope spectra, the rainbow patterns that reveal what distant objects contain.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-11",
+      "eventStatus": "announced",
+      "coreFactSources": [
+        {
+          "publisher": "NASA Goddard Space Flight Center",
+          "title": "Imagine the Universe: Spectral Analysis Appendix",
+          "canonicalArticleUrl": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/appendix.html",
+          "checkedAt": "2026-09-12T06:22:16.251Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+          "publishedAt": "2026-09-11T19:48:09.000Z",
+          "checkedAt": "2026-09-12T06:22:16.251Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-12T06:22:16.251Z"
+    },
+    {
+      "id": "nasa-general-4ff1b5c935",
+      "difficulty": 2,
+      "category": "Science & Nature",
+      "archetype": "mechanism",
+      "question": "Why do astronauts and loose objects float together inside an orbiting space station?",
+      "choices": [
+        "The station shields them from gravity",
+        "Earth's gravity ends at that height",
+        "Air pressure balances their weight",
+        "They and the station fall together"
+      ],
+      "correctIndex": 3,
+      "canonicalAnswer": "They and the station fall together",
+      "answerExplanation": "The station, crew and loose objects are in continuous free fall around Earth. They fall together, while moving sideways fast enough to keep missing the ground; gravity has not switched off.",
+      "whyNow": "NASA announced a September 16 Crew-12 news conference from the space station ahead of the crew’s return, bringing daily life in orbit into focus.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 5,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-16",
+      "eventStatus": "scheduled",
+      "coreFactSources": [
+        {
+          "publisher": "NASA",
+          "title": "What Is Microgravity? (Grades 5-8)",
+          "canonicalArticleUrl": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-microgravity-grades-5-8/",
+          "checkedAt": "2026-09-12T06:22:16.251Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+          "publisher": "NASA",
+          "canonicalArticleUrl": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
+          "publishedAt": "2026-09-11T15:05:20.000Z",
+          "checkedAt": "2026-09-12T06:22:16.251Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-12T06:22:16.251Z"
+    },
+    {
+      "id": "guardian-world-4f9921434d",
+      "difficulty": 3,
+      "category": "Nature & Environment",
+      "archetype": "mechanism",
+      "question": "A tree can still draw water after losing a ring of bark. What supply is chiefly cut off?",
+      "choices": [
+        "Minerals moving up from the roots",
+        "Sugars moving out of the leaves",
+        "Water moving up inside the trunk",
+        "Carbon dioxide entering the leaves"
+      ],
+      "correctIndex": 1,
+      "canonicalAnswer": "Sugars moving out of the leaves",
+      "answerExplanation": "Ring-barking severs phloem, the route carrying sugars out of leaves. Water can still move through the intact xylem, but that does not replace the interrupted food supply.",
+      "whyNow": "A September 12 feature on rewilding art describes ring-barking trees to create deadwood habitat, a striking example of how bark keeps a tree alive.",
+      "quality": {
+        "standaloneInterest": 5,
+        "fairness": 4,
+        "payoff": 5,
+        "memorability": 5,
+        "currentRelevance": 5,
+        "distractorIntegrity": 4
+      },
+      "eventDate": "2026-09-12",
+      "eventStatus": "ongoing",
+      "coreFactSources": [
+        {
+          "publisher": "US Forest Service",
+          "title": "Carbohydrate regulation of photosynthesis and respiration from branch girdling in four species of wet tropical rain forest trees",
+          "canonicalArticleUrl": "https://research.fs.usda.gov/treesearch/52123",
+          "checkedAt": "2026-09-12T06:22:16.251Z"
+        },
+        {
+          "publisher": "Royal Horticultural Society",
+          "title": "Ring-barking",
+          "canonicalArticleUrl": "https://www.rhs.org.uk/plants/types/trees/ring-barking",
+          "checkedAt": "2026-09-12T06:22:16.251Z"
+        }
+      ],
+      "newsPegSources": [
+        {
+          "headline": "Artist delights in beautiful ‘mess’ and dead trees of England’s rewilding sites",
+          "publisher": "The Guardian",
+          "canonicalArticleUrl": "https://www.theguardian.com/environment/2026/sep/12/artist-england-rewilding-sites-knepp-rebecca-howard",
+          "publishedAt": "2026-09-12T05:00:24.000Z",
+          "checkedAt": "2026-09-12T06:22:16.251Z"
+        }
+      ],
+      "headlineLeakage": false,
+      "statusVerifiedAt": "2026-09-12T06:22:16.251Z"
+    }
+  ]
+}
