@@ -31480,10 +31480,13 @@ break
 case 7:s="This Hidden Thread round is saved on this device."
 break
 default:s=null}return s},
-aTT(a,b){var s,r=a.d,q=new A.Z(r,new A.aOz(),A.C(r).i("Z<1>")).gA(0),p=A.b1L(a.gEy(),q,5),o=a.a
-if(o.c===B.cn)return"trivolivia \xb7 SAMPLE FIVE \xb7 "+A.a6G(o.e)+"\n"+A.aUh(r)+"\n"+p+"\nA reusable preview round."
+aTT(a,b){var s,r,q,p,o=a.d,n=new A.Z(o,new A.aOz(),A.C(o).i("Z<1>")).gA(0),m=a.b.length,l=A.b1L(a.gEy(),n,m),k=a.a
+if(k.c===B.cn)return"trivolivia \xb7 SAMPLE FIVE \xb7 "+A.a6G(k.e)+"\n"+A.aUh(o)+"\n"+l+"\nA reusable preview round."
 s=b>0?"\n\ud83d\udd25 "+b+" day streak":""
-return"trivolivia \xb7 DAILY FIVE \xb7 "+A.a6G(o.e)+"\n"+A.aUh(r)+"\n"+p+s+"\n\nPlay today\u2019s five:\nhttps://trivolivia.com/"},
+r=m===10
+q=r?"DAILY CHALLENGE":"DAILY FIVE"
+p=r?"Play today\u2019s ten:":"Play today\u2019s five:"
+return"trivolivia \xb7 "+q+" \xb7 "+A.a6G(k.e)+"\n"+A.aUh(o)+"\n"+l+s+"\n\n"+p+"\nhttps://trivolivia.com/"},
 aTW(a){var s=a.bl(),r=new A.aOF()
 return""+A.ho(s)+"-"+A.q(r.$1(A.fW(s)))+"-"+A.q(r.$1(A.fV(s)))},
 B1(a){return B.T2[A.aYU(a.bl())-1]+", "+A.a6G(a)},
@@ -108498,7 +108501,7 @@ s=!s
 m=!s||k.r==null?j:new A.aEK(n,i,k.r)
 l=k.w
 s=!s||k.r==null||l!=null?j:new A.aEL(n,i,q,k.r)
-return A.aYZ(g,h,!0,!1,m,j,n.gLW(),n.gJl(),new A.aEM(n,o),s,r,l,j,j,o,p.b,f,i.a.d,5)},
+return A.aYZ(g,h,!0,!1,m,j,n.gLW(),n.gJl(),new A.aEM(n,o),s,r,l,j,j,o,p.b,f,i.a.d,i.b.length)},
 $S:270}
 A.aEJ.prototype={
 $1(a){var s=null
@@ -108554,7 +108557,7 @@ A.aEH.prototype={
 $1(a){return this.a.my(this.b,a.e,a.a)},
 $S:698}
 A.aDj.prototype={
-$1(a){var s,r,q,p=null,o=A.b([A.M("What should hook your friend?",p,p,p,p,p,A.t(a).ok.f,p,p,p),B.cj,A.M("They always play the exact complete five. This only chooses the teaser mentioned in the invite.",p,p,p,p,p,A.t(a).ok.Q,p,p,p),B.x,A.ku(!1,p,p,p,!0,p,p,p,!0,p,B.Qb,p,p,p,p,new A.aDh(a),!1,p,p,p,B.a9b,p,B.a8Q,p,p)],t.p)
+$1(a){var s,r,q,p=null,o=A.b([A.M("What should hook your friend?",p,p,p,p,p,A.t(a).ok.f,p,p,p),B.cj,A.M("They always play the complete challenge. This only chooses the teaser mentioned in the invite.",p,p,p,p,p,A.t(a).ok.Q,p,p,p),B.x,A.ku(!1,p,p,p,!0,p,p,p,!0,p,B.Qb,p,p,p,p,new A.aDh(a),!1,p,p,p,B.a9b,p,B.a8Q,p,p)],t.p)
 for(s=0;s<5;s=r){r=s+1
 q=""+r
 o.push(A.ku(!1,p,p,p,!0,p,p,p,!0,p,A.aRp(p,A.M(q,p,p,p,p,p,p,p,p,p),p),p,p,p,p,new A.aDi(a,s),!1,p,p,p,p,p,A.M("Lead with question "+q,p,p,p,p,p,p,p,p,p),p,p))}return A.eb(!0,new A.aO(B.Mm,A.ar(o,B.a_,p,B.f,B.a2),p),!0,!1,B.J,!0,!0)},
