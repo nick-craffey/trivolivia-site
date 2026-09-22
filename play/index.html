@@ -17,7 +17,7 @@
   <meta property="og:locale" content="en_US">
   <meta property="og:site_name" content="trivolivia">
   <meta property="og:title" content="Play trivolivia — free daily trivia">
-  <meta property="og:description" content="Five questions, clear explanations, and sources after every answer. Play free in your browser or on iPhone.">
+  <meta property="og:description" content="Ten daily questions, clear explanations, and sources after every answer. Play free in your browser or on iPhone.">
   <meta property="og:url" content="https://trivolivia.com/play/">
   <meta property="og:image" content="https://trivolivia.com/trivolivia-share-2026-08.png">
   <meta property="og:image:secure_url" content="https://trivolivia.com/trivolivia-share-2026-08.png">
@@ -27,7 +27,7 @@
   <meta property="og:image:alt" content="Olivia examines trivia cards with a magnifying glass">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Play trivolivia — free daily trivia">
-  <meta name="twitter:description" content="Five questions, clear explanations, and sources after every answer.">
+  <meta name="twitter:description" content="Ten daily questions, clear explanations, and sources after every answer.">
   <meta name="twitter:image" content="https://trivolivia.com/trivolivia-share-2026-08.png">
   <meta name="twitter:image:alt" content="Olivia examines trivia cards with a magnifying glass">
 
@@ -60,5 +60,13 @@
     </main>
   </noscript>
   <script src="flutter_bootstrap.js" async></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/play/daily_app_worker.js', {scope: '/play/'})
+          .catch(error => console.warn('Offline app cache unavailable', error));
+      });
+    }
+  </script>
 </body>
 </html>
