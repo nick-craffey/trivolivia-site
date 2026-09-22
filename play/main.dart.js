@@ -101883,7 +101883,7 @@ s=1
 break}g=a1.ga39()
 a2=m.d
 f=g.length
-if(a2.length!==f)throw A.c(A.bW(a2,"selectedIndices","Daily Five requires exactly five selections."))
+if(a2.length!==f)throw A.c(A.bW(a2,"selectedIndices","Daily Challenge requires one selection per published question."))
 e=A.b([],t.x5)
 for(d=0;d<f;++d){c=a2[d]
 if(c==null){e.push(B.j4)
@@ -106953,52 +106953,53 @@ break
 case 1:return A.m(q,r)}})
 return A.n($async$xJ,r)},
 mI(a,b,c,d){return this.aqB(a,b,c,d)},
-aqB(a3,a4,a5,a6){var s=0,r=A.o(t.y),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2
-var $async$mI=A.p(function(a7,a8){if(a7===1){o.push(a8)
-s=p}for(;;)switch(s){case 0:a=n.as
-if(a==null||a3.r!==a.a){q=!1
+aqB(a4,a5,a6,a7){var s=0,r=A.o(t.y),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3
+var $async$mI=A.p(function(a8,a9){if(a8===1){o.push(a9)
+s=p}for(;;)switch(s){case 0:a0=n.as
+if(a0==null||a4.r!==a0.a){q=!1
 s=1
-break}f=J.aSc(5,t.bo)
-for(e=a3.w,d=e.length,c=0;c<5;++c)f[c]=c<d?e[c].e:null
-m=a.aGy(f,a3.f)
-e=a4.r
-e===$&&A.a()
-e=e.a.a
-s=e===m.a.a&&a4.w.ny(e)==null?3:4
+break}f=a0.d.length
+e=J.aSc(f,t.bo)
+for(d=a4.w,c=d.length,b=0;b<f;++b)e[b]=b<c?d[b].e:null
+m=a0.aGy(e,a4.f)
+d=a5.r
+d===$&&A.a()
+d=d.a.a
+s=d===m.a.a&&a5.w.ny(d)==null?3:4
 break
 case 3:p=6
-e=m.c
-d=m.a
+d=m.c
+c=m.a
 s=9
-return A.h(a4.yy(e,m.b,d.a),$async$mI)
+return A.h(a5.yy(d,m.b,c.a),$async$mI)
 case 9:p=2
 s=8
 break
 case 6:p=5
-a0=o.pop()
-if(!(A.a0(a0) instanceof A.yR))throw a0
+a1=o.pop()
+if(!(A.a0(a1) instanceof A.yR))throw a1
 s=8
 break
 case 5:s=2
 break
-case 8:case 4:e=n.c
-if(e==null){q=!1
+case 8:case 4:d=n.c
+if(d==null){q=!1
 s=1
-break}l=A.eS(e,!1,t.Os)
+break}l=A.eS(d,!1,t.Os)
 s=10
 return A.h(n.fG(l),$async$mI)
-case 10:if(!a8||n.c==null){n.bB("Your challenge result is saved on this device. Reopen the invite to compare later.")
+case 10:if(!a9||n.c==null){n.bB("Your challenge result is saved on this device. Reopen the invite to compare later.")
 q=!1
 s=1
 break}p=12
 s=15
-return A.h(l.ux(a.a,m),$async$mI)
-case 15:k=a8
+return A.h(l.ux(a0.a,m),$async$mI)
+case 15:k=a9
 if(n.c==null){q=!0
 s=1
 break}n.as=null
 s=16
-return A.h(n.qw(k,a6,m,l),$async$mI)
+return A.h(n.qw(k,a7,m,l),$async$mI)
 case 16:q=!0
 s=1
 break
@@ -107006,22 +107007,22 @@ p=2
 s=14
 break
 case 12:p=11
-a1=o.pop()
-e=A.a0(a1)
-s=e instanceof A.hN?17:19
+a2=o.pop()
+d=A.a0(a2)
+s=d instanceof A.hN?17:19
 break
-case 17:j=e
+case 17:j=d
 s=j.b==="self_challenge"?20:21
 break
 case 20:p=23
 s=26
-return A.h(l.zJ(a.a,!0),$async$mI)
-case 26:i=a8
+return A.h(l.zJ(a0.a,!0),$async$mI)
+case 26:i=a9
 if(n.c==null){q=!0
 s=1
 break}n.as=null
 s=27
-return A.h(n.qw(i,a6,m,l),$async$mI)
+return A.h(n.qw(i,a7,m,l),$async$mI)
 case 27:q=!0
 s=1
 break
@@ -107029,7 +107030,7 @@ p=11
 s=25
 break
 case 23:p=22
-a2=o.pop()
+a3=o.pop()
 s=25
 break
 case 22:s=11
@@ -107040,8 +107041,8 @@ s=1
 break
 s=18
 break
-case 19:h=e
-g=A.af(a1)
+case 19:h=d
+g=A.af(a2)
 A.c1().$1("Challenge comparison could not finish: "+A.q(h)+"\n"+A.q(g))
 if(n.c!=null)n.bB(u.b)
 q=!1
@@ -107178,8 +107179,8 @@ case 6:case 1:return A.m(q,r)
 case 2:return A.l(o.at(-1),r)}})
 return A.n($async$y0,r)},
 ol(a,b){return this.anH(a,b)},
-anH(a,b){var s=0,r=A.o(t.CG),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e
-var $async$ol=A.p(function(c,d){if(c===1){o.push(d)
+anH(a,b){var s=0,r=A.o(t.CG),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d
+var $async$ol=A.p(function(c,a0){if(c===1){o.push(a0)
 s=p}for(;;)switch(s){case 0:if(a.b!==B.cC){q=null
 s=1
 break}m=a.r
@@ -107190,16 +107191,18 @@ return A.h(n.xh(),$async$ol)
 case 5:q=null
 s=1
 break
-case 4:j=J.aSc(5,t.bo)
-for(i=a.w,h=i.length,g=0;g<5;++g)j[g]=g<h?i[g].e:null
-l=j
+case 4:j=a.w
+i=j.length
+h=J.aSc(i,t.bo)
+for(g=0;f=g<i,f;++g)h[g]=f?j[g].e:null
+l=h
 p=7
-h=A.C(i).i("z<1,i>")
-i=A.L(new A.z(i,new A.aE6(),h),h.i("a3.E"))
-i.$flags=1
+f=A.C(j).i("z<1,i>")
+j=A.L(new A.z(j,new A.aE6(),f),f.i("a3.E"))
+j.$flags=1
 s=10
-return A.h(b.yy(l,i,m),$async$ol)
-case 10:k=d
+return A.h(b.yy(l,j,m),$async$ol)
+case 10:k=a0
 if(k==null&&n.c!=null)n.bB("Your result could not be saved. Try again.")
 q=k
 s=1
@@ -107208,8 +107211,8 @@ p=2
 s=9
 break
 case 7:p=6
-e=o.pop()
-s=A.a0(e) instanceof A.yR?11:13
+d=o.pop()
+s=A.a0(d) instanceof A.yR?11:13
 break
 case 11:s=14
 return A.h(n.xh(),$async$ol)
@@ -107218,7 +107221,7 @@ s=1
 break
 s=12
 break
-case 13:throw e
+case 13:throw d
 case 12:s=9
 break
 case 6:s=2
@@ -108074,9 +108077,10 @@ m=f==null
 if(m)e=c3
 else{l=f.a
 k=f.gEy()
-d=A.a6G(l.e)
+d=f.b
+c=A.a6G(l.e)
 A.aUh(f.d)
-e=new A.atO(l.d,k,5,d)}l=n.d
+e=new A.atO(l.d,k,d.length,c)}l=n.d
 k=c8.gOB()
 c8.gOB()
 o=o.f
@@ -111353,7 +111357,7 @@ $1(a){return a.a},
 $S:739}
 A.P4.prototype={
 aGy(a,b){var s,r,q,p,o,n=this.c,m=n.y,l=m.length
-if(5!==l)throw A.c(A.bI("A challenge result requires five selections.",null))
+if(a.length!==l)throw A.c(A.bI("A challenge result requires one selection per question.",null))
 s=A.b([],t.x5)
 for(r=0;r<l;++r){q=a[r]
 p=q==null
