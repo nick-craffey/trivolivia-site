@@ -31,12 +31,13 @@
     <main class="shell">
       <div class="legal-hero">
         <h1>Privacy Policy</h1>
-        <p class="lede">This policy explains how trivolivia handles information in its local-first game, optional social features, public share links, and support channels.</p>
-        <p class="updated"><strong>Effective and last updated:</strong> September 4, 2026</p>
+        <p class="lede">This policy explains how trivolivia handles information in its local-first game, Daily news service, and retired social features.</p>
+        <p class="updated"><strong>Effective and last updated:</strong> October 16, 2026</p>
       </div>
 
       <article class="legal-card">
-        <p class="notice"><strong>At a glance:</strong> core play is local-first and needs no account. Your full learning history, Knowledge DNA, interests, and review schedule stay on your device. If you intentionally create a social identity, trivolivia sends the limited Daily results and profile information needed for challenges, Braintrusts, channels, and anonymous answer distributions. Optional analytics, disabled by default, shares limited future gameplay events only after you choose to enable it. There are no ads or cross-site trackers.</p>
+        <p class="notice"><strong>Social sunset:</strong> New social activity ended October 16, 2026. Existing guest identities can use the in-app social data control to export or delete their server data for 60 days, through December 15, 2026. Older installed builds may still show social controls, but their social actions no longer work. After this window, remaining social records are purged. Local game history is not part of that purge.</p>
+        <p class="notice"><strong>At a glance:</strong> core play is local-first and needs no account. Your full learning history, Knowledge DNA, interests, and review schedule stay on your device. Former social features used limited Daily results and profile information; existing guests can now export or delete that data. Optional analytics, disabled by default, shares limited future gameplay events only after you choose to enable it. There are no ads or cross-site trackers.</p>
 
         <section>
           <h2>Scope</h2>
@@ -57,8 +58,8 @@
         </section>
 
         <section>
-          <h2>Optional social identity and information sent to trivolivia</h2>
-          <p>You do not need social features to play. If you choose to enable them, the app creates a pseudonymous guest identity without asking for an email address, phone number, password, contacts, or real name. We receive and store:</p>
+          <h2>Former social identity and information sent to trivolivia</h2>
+          <p>You do not need a social identity to play. Before social play retired, the app could create a pseudonymous guest identity without asking for an email address, phone number, password, contacts, or real name. Existing records may contain:</p>
           <ul>
             <li>a random guest identifier, your chosen display name (or the default “Curious player”), a one-way hash of the secret credential held on your device, and creation, update, and recent-use timestamps;</li>
             <li>verified Daily result data: edition and content identifiers, the five card identifiers, selected answer positions, correctness outcomes, categories, score, and completion time;</li>
@@ -103,7 +104,7 @@
 
         <section>
           <h2>Topic Sprint and source links</h2>
-          <p>Topic Sprint accepts safe free-form general-audience topics. The app first loads a reviewed question publication from bundled assets or local storage when available, or requests the normalized topic as a publication path, such as <code>/topic-packs/skateboarding.json</code>, from trivolivia.com. A publication that fails the app’s evidence and review checks is withheld. If no publication exists, the app sends the topic directly to the English Wikipedia API, retrieves matching article titles, URLs, categories, and introductory extracts, screens that material, and builds a quality-gated round on the device.</p>
+          <p>The current web game offers eight listed Topics. It loads authored questions from bundled assets or local storage, including a reviewed publication path such as <code>/topic-packs/skateboarding.json</code>. Experimental free-form topics are unavailable while source review is rebuilt. Older installed app versions may still accept safe free-form general-audience topics: if no publication exists, the app sends the topic directly to the English Wikipedia API, retrieves matching article titles, URLs, categories, and introductory extracts, screens that material, and builds a quality-gated round on the device.</p>
           <p>Our first-party hosting provider receives the publication request and ordinary connection information, including an IP address and request headers. When the Wikipedia fallback runs, the Wikimedia Foundation also receives the topic query, requested page identifiers, and ordinary connection information from your device under the <a href="https://foundation.wikimedia.org/wiki/Policy:Privacy_policy" rel="noreferrer">Wikimedia Foundation Privacy Policy</a>. The requested topic may therefore be linked to a user or device through connection metadata; we continue to disclose <strong>Search History</strong> conservatively. The reviewed publication or generated deck, its sources, and the normalized topic are cached on your device. trivolivia’s social service does not receive the topic selection.</p>
           <p>Question explanations include links to third-party sources. If you open one, you leave trivolivia, and the destination receives the request and may collect information under its own privacy policy. Sharing through your device also gives the link—and any text you choose to add—to the operating system and destination service you select. trivolivia does not receive your address book or learn whom you contacted through the system share sheet.</p>
         </section>
