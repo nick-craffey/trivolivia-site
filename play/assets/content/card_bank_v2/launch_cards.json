@@ -40,19 +40,19 @@
               "url": "https://science.nasa.gov/venus/venus-facts/"
             },
             {
-              "publisher": "Encyclopaedia Britannica",
-              "title": "Venus",
-              "url": "https://www.britannica.com/place/Venus-planet"
+              "publisher": "European Space Agency",
+              "title": "Venus compared to Earth",
+              "url": "https://www.esa.int/Science_Exploration/Space_Science/Venus_Express/Venus_compared_to_Earth"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "space",
             "planets",
             "time"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "cosmic-oddities-02",
@@ -71,7 +71,7 @@
           "correctIndex": 1,
           "canonicalAnswer": "There is no wind or rain to erase them",
           "revealHeadline": "The Moon has no wind or rain to erase the bootprints.",
-          "explanation": "The Moon has no substantial atmosphere, so there is no wind or rain to smooth the tracks. Micrometeorites gradually disturb them over much longer periods.",
+          "explanation": "The Moon has no substantial atmosphere, so wind and rain do not smooth away the tracks. Unlike marks on Earth, they can retain their shape for millions of years.",
           "sources": [
             {
               "publisher": "NASA",
@@ -84,14 +84,14 @@
               "url": "https://www.rmg.co.uk/stories/space-astronomy/moon-landing-conspiracy-theories-debunked"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "moon",
             "apollo",
             "weather"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "cosmic-oddities-03",
@@ -119,18 +119,18 @@
             },
             {
               "publisher": "Smithsonian National Air and Space Museum",
-              "title": "Mars Sunset",
-              "url": "https://airandspace.si.edu/multimedia-gallery/image/imgi57pia19400jpg"
+              "title": "Five Fun Facts About Mars",
+              "url": "https://airandspace.si.edu/stories/editorial/five-fun-facts-about-mars"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "mars",
             "sunsets",
             "light"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "cosmic-oddities-04",
@@ -157,19 +157,19 @@
               "url": "https://science.nasa.gov/saturn/facts/"
             },
             {
-              "publisher": "Encyclopaedia Britannica",
-              "title": "Saturn",
-              "url": "https://www.britannica.com/place/Saturn-planet"
+              "publisher": "Royal Museums Greenwich",
+              "title": "Planet Saturn",
+              "url": "https://www.rmg.co.uk/stories/space-astronomy/planet-saturn"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "saturn",
             "density",
             "planets"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "cosmic-oddities-05",
@@ -192,8 +192,8 @@
           "sources": [
             {
               "publisher": "NASA",
-              "title": "STEREO Science Guide",
-              "url": "https://www.nasa.gov/wp-content/uploads/2015/03/139023main_stereo_science_guide.pdf"
+              "title": "Sun: Facts",
+              "url": "https://science.nasa.gov/sun/facts/"
             },
             {
               "publisher": "European Space Agency",
@@ -201,14 +201,14 @@
               "url": "https://www.esa.int/kids/en/learn/Lessons/The_Solar_System"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "sun",
             "earth",
             "scale"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "cosmic-oddities-06",
@@ -240,14 +240,14 @@
               "url": "https://ntrs.nasa.gov/api/citations/20070011609/downloads/20070011609.pdf"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "moon",
             "apollo",
             "senses"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "cosmic-oddities-07",
@@ -266,7 +266,7 @@
           "correctIndex": 2,
           "canonicalAnswer": "About three times",
           "revealHeadline": "Olympus Mons is approximately three times as tall as Mount Everest.",
-          "explanation": "Olympus Mons rises about 25 kilometers above the surrounding Martian plains, nearly three times Everest's height above sea level. Its base also covers a much larger area.",
+          "explanation": "Both NASA and ESA compare Olympus Mons with roughly three Everests. Its base spreads hundreds of kilometers across Mars, making it far broader than Earth's tallest peak.",
           "sources": [
             {
               "publisher": "NASA",
@@ -279,14 +279,14 @@
               "url": "https://www.esa.int/ESA_Multimedia/Images/2008/07/First_glimpse_of_Olympus_Mons_15_Oct_2007"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "mars",
             "volcanoes",
             "mountains"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "cosmic-oddities-08",
@@ -305,7 +305,7 @@
           "correctIndex": 3,
           "canonicalAnswer": "Grow taller by up to 3%",
           "revealHeadline": "Astronauts can become up to 3% taller in microgravity.",
-          "explanation": "Without gravity compressing the spine, the discs between vertebrae expand. The increase in height is temporary because gravity compresses the spine again after landing.",
+          "explanation": "With far less gravitational loading, an astronaut's spine straightens and lengthens. The height gain is temporary: it usually fades soon after returning to Earth.",
           "sources": [
             {
               "publisher": "NASA",
@@ -318,14 +318,14 @@
               "url": "https://missionx.esa.int/wp-content/uploads/2021/09/PE-16-WhatsYourSpaceHeight_Student_Teacher.pdf"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "astronauts",
             "microgravity",
             "body"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "cosmic-oddities-09",
@@ -352,19 +352,19 @@
               "url": "https://science.nasa.gov/uranus/facts/"
             },
             {
-              "publisher": "Encyclopaedia Britannica",
-              "title": "Uranus",
-              "url": "https://www.britannica.com/place/Uranus-planet"
+              "publisher": "The Planetary Society",
+              "title": "Patience for Uranus",
+              "url": "https://www.planetary.org/articles/patience-for-uranus"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "uranus",
             "seasons",
             "orbits"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "cosmic-oddities-10",
@@ -396,14 +396,14 @@
               "url": "https://www.rmg.co.uk/stories/space-astronomy/planet-neptune"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "neptune",
             "discovery",
             "mathematics"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         }
       ]
     },
@@ -431,7 +431,7 @@
           "correctIndex": 2,
           "canonicalAnswer": "Three",
           "revealHeadline": "An octopus has three hearts.",
-          "explanation": "Two hearts send blood through the gills, while a third pumps it around the body. Its copper-based hemocyanin makes that blood appear blue.",
+          "explanation": "Two hearts pump blood through the gills, while the third sends oxygenated blood around the body. Each heart has a different job.",
           "sources": [
             {
               "publisher": "Smithsonian Ocean",
@@ -444,14 +444,14 @@
               "url": "https://oceanservice.noaa.gov/news/feb26/undersea-creatures-valentines-day.html"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "octopuses",
             "anatomy",
             "ocean"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "animal-superpowers-02",
@@ -470,7 +470,7 @@
           "correctIndex": 3,
           "canonicalAnswer": "Tubular and fixed",
           "revealHeadline": "Owls have elongated, tube-shaped eyes fixed in their sockets.",
-          "explanation": "An owl's elongated eyes are held rigidly in bony sockets rather than rotating freely. The bird must turn its head to change its gaze.",
+          "explanation": "An owl's tube-shaped eyes stay fixed rather than rotating freely. It turns its head to look in another direction.",
           "sources": [
             {
               "publisher": "Smithsonian Science Education Center",
@@ -483,14 +483,14 @@
               "url": "https://www.audubon.org/magazine/13-fun-facts-about-owls"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "owls",
             "vision",
             "anatomy"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "animal-superpowers-03",
@@ -509,7 +509,7 @@
           "correctIndex": 0,
           "canonicalAnswer": "A hummingbird",
           "revealHeadline": "Hummingbirds can sustain controlled backward flight.",
-          "explanation": "Their shoulder joints allow the wings to rotate almost 180 degrees, producing lift during both halves of a figure-eight stroke. This motion enables controlled reverse flight.",
+          "explanation": "Unlike most birds, hummingbirds generate lift on both the downstroke and upstroke. Their rotating wings let them hover and fly backward.",
           "sources": [
             {
               "publisher": "Smithsonian's National Zoo",
@@ -517,19 +517,19 @@
               "url": "https://nationalzoo.si.edu/migratory-birds/hummingbirds"
             },
             {
-              "publisher": "National Audubon Society",
-              "title": "Hummingbird Flight Is Nothing Like Anything Else in the Bird World",
-              "url": "https://www.audubon.org/news/hummingbird-flight-nothing-else-bird-world"
+              "publisher": "Cornell Lab of Ornithology",
+              "title": "9 Hummingbird Species to Look Out for This Summer",
+              "url": "https://www.allaboutbirds.org/news/summertime-in-the-united-states-of-hummingbirds/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "hummingbirds",
             "flight",
             "birds"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "animal-superpowers-04",
@@ -561,14 +561,14 @@
               "url": "https://www.nps.gov/places/000/atlantic-bottlenose-dolphin.htm"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "dolphins",
             "sleep",
             "brains"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "animal-superpowers-05",
@@ -587,7 +587,7 @@
           "correctIndex": 2,
           "canonicalAnswer": "Gold to deep blue",
           "revealHeadline": "A reindeer's retinal reflector changes from gold to deep blue in winter.",
-          "explanation": "Winter pressure changes inside the eye make its reflective tapetum lucidum appear deep blue instead of summer gold, increasing sensitivity in low light.",
+          "explanation": "The reflective layer behind the retina, called the tapetum lucidum, shifts from summer gold to winter blue. The change helps reindeer see in Arctic winter darkness.",
           "sources": [
             {
               "publisher": "University College London",
@@ -600,14 +600,14 @@
               "url": "https://www.nationalgeographic.com/animals/article/reindeer-eyes-color-change-season-uv"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "reindeer",
             "eyes",
             "adaptation"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "animal-superpowers-06",
@@ -616,15 +616,15 @@
           "difficulty": 2,
           "archetype": "scenario",
           "hook": "Archerfish capture insects positioned above the water.",
-          "question": "How does an archerfish knock an insect from a branch above the water?",
+          "question": "An archerfish knocks insects off branches above water. How does it make the shot?",
           "choices": [
-            "Stun it with an electric pulse",
-            "Leap from the mud and grab it",
-            "Lure it down with a bubble trail",
-            "Shoot it with a focused jet of water"
+            "Flick water upward with its tail",
+            "Blow a bubble through its gills",
+            "Launch a pebble from its mouth",
+            "Force a water jet through its mouth"
           ],
           "correctIndex": 3,
-          "canonicalAnswer": "Shoot it with a focused jet of water",
+          "canonicalAnswer": "Force a water jet through its mouth",
           "revealHeadline": "Archerfish knock insects down with precisely aimed jets of water.",
           "explanation": "The fish presses its tongue against a groove in the roof of its mouth, forming a tube. A precisely aimed stream knocks insects from branches into the water.",
           "sources": [
@@ -639,14 +639,14 @@
               "url": "https://animals.sandiegozoo.org/animals/banded-archer-fish"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "archerfish",
             "hunting",
             "water"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "animal-superpowers-07",
@@ -654,18 +654,18 @@
           "sequence": 7,
           "difficulty": 2,
           "archetype": "tool-use",
-          "hook": "Sea otters may store a particular stone beneath a forearm.",
-          "question": "What do sea otters use stored stones for?",
+          "hook": "Sea otters can use tools while feeding at the surface.",
+          "question": "A sea otter floats on its back with a hard-shelled clam. What does it use a rock for?",
           "choices": [
-            "Cracks open hard-shelled prey",
-            "Anchors the otter during sleep",
-            "Sharpens the otter's teeth",
-            "Marks a boundary on the seafloor"
+            "Cracking open the clam",
+            "Anchoring itself while sleeping",
+            "Sharpening its teeth",
+            "Marking a spot on the seafloor"
           ],
           "correctIndex": 0,
-          "canonicalAnswer": "Cracks open hard-shelled prey",
+          "canonicalAnswer": "Cracking open the clam",
           "revealHeadline": "Sea otters use stones to open hard-shelled prey.",
-          "explanation": "Sea otters strike mussels, clams, and snails against stones. Some store a preferred stone in loose skin beneath the forearm for later use.",
+          "explanation": "Floating on its back, an otter can strike a clam against a rock on its chest. Loose skin under each forearm carries extra prey from a dive.",
           "sources": [
             {
               "publisher": "Monterey Bay Aquarium",
@@ -673,19 +673,19 @@
               "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-otter"
             },
             {
-              "publisher": "NOAA Ocean Today",
-              "title": "Sea Otter Anatomy",
-              "url": "https://oceantoday.noaa.gov/seaotteranatomy/"
+              "publisher": "Aquarium of the Pacific",
+              "title": "Southern Sea Otter",
+              "url": "https://www.aquariumofpacific.org/exhibits/otters/southern_sea_otter"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "sea-otters",
             "tools",
             "feeding"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "animal-superpowers-08",
@@ -704,7 +704,7 @@
           "correctIndex": 1,
           "canonicalAnswer": "Rebuild a fully structured leg",
           "revealHeadline": "Axolotls can regenerate complete limbs.",
-          "explanation": "Cells near the wound reorganize into a growth zone called a blastema. It rebuilds a patterned limb containing bone, muscle, blood vessels, nerves, and skin.",
+          "explanation": "Cells near the wound form a growth zone called a blastema. It directs the regrowth of a complete limb, rather than just sealing the wound.",
           "sources": [
             {
               "publisher": "National Institute of General Medical Sciences",
@@ -712,19 +712,19 @@
               "url": "https://nigms.nih.gov/biobeat/2024/03/research-organism-superheroes-axolotls"
             },
             {
-              "publisher": "National Geographic",
-              "title": "Axolotl",
-              "url": "https://www.nationalgeographic.com/animals/amphibians/facts/axolotl/"
+              "publisher": "Harvard Stem Cell and Regenerative Biology",
+              "title": "Whited Lab Research",
+              "url": "https://hscrb.harvard.edu/labs/whited-lab/research/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "axolotls",
             "regeneration",
             "amphibians"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "animal-superpowers-09",
@@ -732,8 +732,8 @@
           "sequence": 9,
           "difficulty": 3,
           "archetype": "mechanism",
-          "hook": "A snapping shrimp produces its shock wave after its claw closes.",
-          "question": "A snapping shrimp closes its claw and stuns prey. What produces the resulting shock wave?",
+          "hook": "A snapping shrimp's loud snap comes after its claw closes.",
+          "question": "A snapping shrimp snaps its claw shut. What actually makes the loud sound?",
           "choices": [
             "A pellet of shell fired forward",
             "An electrical arc through seawater",
@@ -742,8 +742,8 @@
           ],
           "correctIndex": 2,
           "canonicalAnswer": "A collapsing cavitation bubble",
-          "revealHeadline": "The shock wave comes from the collapse of a cavitation bubble.",
-          "explanation": "The claw launches a fast water jet that creates a low-pressure bubble. Its collapse produces a sharp sound, a shock wave, and even a momentary flash of light.",
+          "revealHeadline": "The snap comes from the collapse of a cavitation bubble.",
+          "explanation": "The claw shoots out a fast water jet, creating a cavitation bubble. Its violent collapse makes the snap and can produce a momentary flash of light.",
           "sources": [
             {
               "publisher": "Woods Hole Oceanographic Institution",
@@ -752,18 +752,18 @@
             },
             {
               "publisher": "Nature",
-              "title": "How Snapping Shrimp Snap",
+              "title": "Snapping shrimp make flashing bubbles",
               "url": "https://www.nature.com/articles/35097152"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "shrimp",
             "cavitation",
             "sound"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "animal-superpowers-10",
@@ -795,14 +795,14 @@
               "url": "https://www.nhm.ac.uk/discover/bombardier-beetles-and-their-caustic-chemical-cannon.html"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "beetles",
             "chemistry",
             "defense"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         }
       ]
     },
@@ -2040,14 +2040,14 @@
               "url": "https://www.oscars.org/collection-highlights/toy-story"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "animation",
             "pixar",
             "film-history"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "movie-magic-02",
@@ -2066,7 +2066,7 @@
           "correctIndex": 3,
           "canonicalAnswer": "Chocolate syrup",
           "revealHeadline": "The shower scene in Psycho used diluted chocolate syrup as blood.",
-          "explanation": "Color accuracy did not matter in black and white; thickness and contrast did. Chocolate syrup gave Hitchcock the dark, viscous flow the camera needed.",
+          "explanation": "In black and white, the shower-scene blood only had to look convincing on film. The crew used watered-down chocolate syrup for the visible flow, and Hitchcock later confirmed the choice.",
           "sources": [
             {
               "publisher": "British Film Institute",
@@ -2079,14 +2079,14 @@
               "url": "https://catalog.afi.com/Catalog/MovieDetails/53260"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "psycho",
             "props",
             "black-and-white"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "movie-magic-03",
@@ -2105,7 +2105,7 @@
           "correctIndex": 0,
           "canonicalAnswer": "An old movie-projector motor",
           "revealHeadline": "The steady lightsaber hum began with a film projector motor.",
-          "explanation": "Ben Burtt blended an aging projector's motor with electrical buzz captured near a television. Moving a microphone past a speaker added the swinging whoosh.",
+          "explanation": "Ben Burtt blended an aging movie-projector motor with the electrical buzz of a television. The motor supplied a substantial part of the lightsaber’s steady hum.",
           "sources": [
             {
               "publisher": "StarWars.com",
@@ -2118,14 +2118,14 @@
               "url": "https://www.theguardian.com/film/article/2024/aug/15/star-wars-ben-burtt-sound-design-raiders-of-the-lost-ark-alien"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "star-wars",
             "sound-design",
             "lightsabers"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "movie-magic-04",
@@ -2144,7 +2144,7 @@
           "correctIndex": 1,
           "canonicalAnswer": "A baby elephant",
           "revealHeadline": "A baby elephant supplied a high-pitched layer of the T. rex roar.",
-          "explanation": "Sound designer Gary Rydstrom layered a rare baby-elephant trumpet over lower tiger sounds. Other T. rex textures included alligator gurgles.",
+          "explanation": "Sound designer Gary Rydstrom recorded a baby elephant's unusual high-pitched scream and layered it with lower animal sounds. He used that one recording in each T. rex attack roar.",
           "sources": [
             {
               "publisher": "National Public Radio",
@@ -2152,19 +2152,19 @@
               "url": "https://www.nwpb.org/npr-top-stories/2013-04-13/jurassic-bark-how-sound-design-changed-our-imaginations"
             },
             {
-              "publisher": "Smithsonian Magazine",
-              "title": "Here's How Video Game Designers Give Voices to Imaginary Creatures",
-              "url": "https://www.smithsonianmag.com/smart-news/how-video-game-designers-make-artificial-creatures-sound-real-180955268/"
+              "publisher": "Daily Herald",
+              "title": "From 'T2' to 'War Horse': Elmhurst native up for 2 Oscars",
+              "url": "https://www.dailyherald.com/20120226/lifestyle/from-t2-to-war-horse-elmhurst-native-up-for-2-oscars/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "jurassic-park",
             "sound-design",
             "dinosaurs"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "movie-magic-05",
@@ -2196,14 +2196,14 @@
               "url": "https://www.livedesignonline.com/hobbit-forming"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "lord-of-the-rings",
             "forced-perspective",
             "camera"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "movie-magic-06",
@@ -2235,14 +2235,14 @@
               "url": "https://theasc.com/articles/inception-cinematography-pfister-nolan"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "inception",
             "sets",
             "practical-effects"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "movie-magic-07",
@@ -2274,14 +2274,14 @@
               "url": "https://www.pbs.org/video/have-humans-always-feared-sharks-gwbdz9/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "jaws",
             "animatronics",
             "spielberg"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "movie-magic-08",
@@ -2313,14 +2313,14 @@
               "url": "https://theasc.com/article/behind-the-curtain-wizard-of-oz/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "wizard-of-oz",
             "miniatures",
             "tornadoes"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "movie-magic-09",
@@ -2352,14 +2352,14 @@
               "url": "https://patents.google.com/patent/US3095304A/en"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "mary-poppins",
             "compositing",
             "visual-effects"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "movie-magic-10",
@@ -2378,12 +2378,12 @@
           "correctIndex": 3,
           "canonicalAnswer": "An array of still cameras fired in sequence",
           "revealHeadline": "The original bullet-time rig used approximately 120 still cameras in sequence.",
-          "explanation": "Cameras arranged along a curve captured adjacent viewpoints in sequence. Interpolated frames joined the photographs into a continuous moving viewpoint around slowed action.",
+          "explanation": "A rig of 120 still cameras captured successive viewpoints. Playing their images in sequence made the viewpoint sweep around Neo while the action seemed slowed.",
           "sources": [
             {
               "publisher": "American Society of Cinematographers",
-              "title": "Back to The Matrix",
-              "url": "https://theasc.com/articles/back-to-the-matrix"
+              "title": "The Matrix: Welcome to the Machine",
+              "url": "https://theasc.com/article/flashback-the-matrix-cinematography/"
             },
             {
               "publisher": "Guinness World Records",
@@ -2391,14 +2391,14 @@
               "url": "https://www.guinnessworldrecords.com/world-records/73523-most-still-cameras-used-in-a-sequence"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "the-matrix",
             "bullet-time",
             "cameras"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         }
       ]
     },
@@ -3631,19 +3631,19 @@
               "url": "https://www.merriam-webster.com/dictionary/robot"
             },
             {
-              "publisher": "Science Museum",
-              "title": "Robot Uprising in the Science Museum",
-              "url": "https://blog.sciencemuseum.org.uk/robot-uprising-in-the-science-museum/"
+              "publisher": "Computer History Museum",
+              "title": "Robots before Computers",
+              "url": "https://www.computerhistory.org/revolution/artificial-intelligence-robotics/13/324"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "etymology",
             "robots",
             "czech"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "word-origins-02",
@@ -3662,7 +3662,7 @@
           "correctIndex": 3,
           "canonicalAnswer": "Forty",
           "revealHeadline": "Quarantine derives from the Italian word for forty.",
-          "explanation": "Venetian authorities required arriving ships to wait forty days during plague outbreaks. The English word preserves the Italian quaranta, meaning “forty.”",
+          "explanation": "The Italian quaranta means “forty.” European port cities made arriving ships wait forty days during plague outbreaks, and the word quarantine preserves that number.",
           "sources": [
             {
               "publisher": "Merriam-Webster",
@@ -3675,14 +3675,14 @@
               "url": "https://wwwnc.cdc.gov/eid/article/19/2/et-1902_article"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "etymology",
             "italian",
             "public-health"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "word-origins-03",
@@ -3714,14 +3714,14 @@
               "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/boycott_1"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "etymology",
             "ireland",
             "eponyms"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "word-origins-04",
@@ -3753,14 +3753,14 @@
               "url": "https://www.nps.gov/articles/camp-sumter-andersonville-prison.htm"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "etymology",
             "civil-war",
             "work"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "word-origins-05",
@@ -3792,14 +3792,14 @@
               "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/musculature"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "etymology",
             "latin",
             "body"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "word-origins-06",
@@ -3831,14 +3831,14 @@
               "url": "https://www.oxfordlearnersdictionaries.com/definition/english/daisy_1"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "etymology",
             "old-english",
             "flowers"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "word-origins-07",
@@ -3870,14 +3870,14 @@
               "url": "https://www.etymonline.com/word/nightmare"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "etymology",
             "folklore",
             "sleep"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "word-origins-08",
@@ -3904,19 +3904,19 @@
               "url": "https://www.merriam-webster.com/dictionary/candidate"
             },
             {
-              "publisher": "University of Chicago Logeion",
-              "title": "Candidatus",
-              "url": "https://logeion.uchicago.edu/candidatus"
+              "publisher": "Oxford Learner's Dictionaries",
+              "title": "Candidate",
+              "url": "https://www.oxfordlearnersdictionaries.com/definition/english/candidate"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "etymology",
             "rome",
             "politics"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "word-origins-09",
@@ -3948,14 +3948,14 @@
               "url": "https://www.oxfordlearnersdictionaries.com/definition/english/ampersand"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "etymology",
             "symbols",
             "alphabet"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "word-origins-10",
@@ -3974,7 +3974,7 @@
           "correctIndex": 3,
           "canonicalAnswer": "French finance minister",
           "revealHeadline": "Étienne de Silhouette was a finance minister.",
-          "explanation": "Étienne de Silhouette was Louis XV's finance minister and was associated with strict economy. Inexpensive profile portraits were called à la Silhouette, preserving his surname in the term.",
+          "explanation": "Étienne de Silhouette was Louis XV's finance minister. Scholars connect the term for inexpensive profile portraits to his reputation for cost-cutting; his surname survives in silhouette.",
           "sources": [
             {
               "publisher": "Smithsonian American Art Museum",
@@ -3987,14 +3987,14 @@
               "url": "https://www.merriam-webster.com/dictionary/silhouette"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "etymology",
             "eponyms",
             "portraiture"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         }
       ]
     },
@@ -4030,19 +4030,19 @@
               "url": "https://www.ox.ac.uk/about/the-university/history"
             },
             {
-              "publisher": "Encyclopaedia Britannica",
-              "title": "Tenochtitlán",
-              "url": "https://www.britannica.com/place/Tenochtitlan"
+              "publisher": "Smithsonian Magazine",
+              "title": "The University of Oxford Is Older Than the Aztec Empire",
+              "url": "https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "timelines",
             "oxford",
             "tenochtitlan"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "history-plot-twists-02",
@@ -4074,14 +4074,14 @@
               "url": "https://www.guinnessworldrecords.com/world-records/65353-shortest-war"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "wars",
             "zanzibar",
             "duration"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "history-plot-twists-03",
@@ -4100,7 +4100,7 @@
           "correctIndex": 2,
           "canonicalAnswer": "Emus",
           "revealHeadline": "The operation targeted large flocks of emus.",
-          "explanation": "Soldiers used Lewis guns against emus eating crops in Western Australia. The birds dispersed into small groups and were difficult to target, so the military campaign was withdrawn.",
+          "explanation": "Soldiers used Lewis guns against emus eating crops in Western Australia. The birds were difficult to hit, and the first operation ended with the troops recalled.",
           "sources": [
             {
               "publisher": "Government of Western Australia, Department of Biodiversity, Conservation and Attractions",
@@ -4108,19 +4108,19 @@
               "url": "https://library.dbca.wa.gov.au/FullTextFiles/017032.pdf"
             },
             {
-              "publisher": "State Library of Western Australia",
-              "title": "The Emu War",
-              "url": "https://purl.slwa.wa.gov.au/slwa_b6580504"
+              "publisher": "Australian Geographic",
+              "title": "Looking back: Australia’s Emu Wars",
+              "url": "https://www.australiangeographic.com.au/nature-wildlife/2016/10/australias-emu-wars/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "australia",
             "emus",
             "military-history"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "history-plot-twists-04",
@@ -4152,14 +4152,14 @@
               "url": "https://www.smithsonianmag.com/history/without-warning-molasses-january-surged-over-boston-180971251/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "boston",
             "disasters",
             "molasses"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "history-plot-twists-05",
@@ -4178,7 +4178,7 @@
           "correctIndex": 0,
           "canonicalAnswer": "Fell at first",
           "revealHeadline": "Road crashes initially decreased.",
-          "explanation": "Crashes and fatalities initially fell after Dagen H. Lower speed limits and unusually cautious driving contributed; the effect diminished as drivers became accustomed to the new system.",
+          "explanation": "Crashes and fatalities initially fell after Dagen H. The switch came with lower speed limits, new traffic rules, and extensive public preparation.",
           "sources": [
             {
               "publisher": "Stockholm City Museum",
@@ -4191,14 +4191,14 @@
               "url": "https://via.tt.se/pressmeddelande/1687248/dagen-h-fyller-50-ar?publisherId=33197"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "sweden",
             "traffic",
             "unexpected-outcomes"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "history-plot-twists-06",
@@ -4230,14 +4230,14 @@
               "url": "https://www.guinnessworldrecords.com/world-records/537889-oldest-written-customer-complaint"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "mesopotamia",
             "cuneiform",
             "customer-service"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "history-plot-twists-07",
@@ -4256,7 +4256,7 @@
           "correctIndex": 2,
           "canonicalAnswer": "The fax machine",
           "revealHeadline": "The patent was an ancestor of fax transmission.",
-          "explanation": "Alexander Bain patented an electric printing telegraph in 1843, establishing an early form of fax transmission. Bell's telephone patent followed in 1876.",
+          "explanation": "Alexander Bain patented an electric printing telegraph in Britain in 1843. It synchronized distant machines to copy marked surfaces electrically, anticipating facsimile or fax.",
           "sources": [
             {
               "publisher": "Engineering and Technology History Wiki",
@@ -4264,19 +4264,19 @@
               "url": "https://ethw.org/Fax_Machines"
             },
             {
-              "publisher": "Smithsonian National Museum of American History",
-              "title": "Alexander Graham Bell's Telephone Patent",
-              "url": "https://amhistory.si.edu/documentsgallery/exhibitions/hear-my-voice/3.html"
+              "publisher": "United States Patent Office",
+              "title": "Bain: Improvement in Copying Surfaces by Electricity",
+              "url": "https://patents.google.com/patent/US5957A/en"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "fax",
             "telephone",
             "inventions"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "history-plot-twists-08",
@@ -4308,14 +4308,14 @@
               "url": "https://www.worldhistory.org/Didius_Julianus/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "rome",
             "emperors",
             "auctions"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "history-plot-twists-09",
@@ -4334,7 +4334,7 @@
           "correctIndex": 0,
           "canonicalAnswer": "Parmesan cheese",
           "revealHeadline": "Pepys buried his Parmesan cheese.",
-          "explanation": "Pepys recorded digging a pit for his wine and Parmesan cheese as the fire approached in 1666. Imported Parmesan was sufficiently valuable to protect in this way.",
+          "explanation": "As the Great Fire approached in 1666, Pepys had his wine and Parmesan cheese buried for safekeeping. He recorded it in his diary.",
           "sources": [
             {
               "publisher": "London Museum",
@@ -4347,14 +4347,14 @@
               "url": "https://www.rmg.co.uk/stories/royal-history/curatorial/londons-burning-samuel-pepys-great-fire-london"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "samuel-pepys",
             "great-fire",
             "cheese"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "history-plot-twists-10",
@@ -4363,7 +4363,7 @@
           "difficulty": 3,
           "archetype": "material-surprise",
           "hook": "The composition of Olympic first-place medals changed after Stockholm 1912.",
-          "question": "Which material was used for the first-place medals at the 1912 Summer Games?",
+          "question": "The 1912 Summer Games were the last to award any first-place medals made from which material?",
           "choices": [
             "Gold-plated silver",
             "Solid gold",
@@ -4373,7 +4373,7 @@
           "correctIndex": 1,
           "canonicalAnswer": "Solid gold",
           "revealHeadline": "Stockholm awarded the last solid-gold Olympic medals.",
-          "explanation": "Stockholm's champions received medals made of solid gold. Modern Olympic gold medals are primarily silver with a thin gold coating.",
+          "explanation": "Stockholm's 1912 Games were the last to award solid-gold Olympic medals. Some sailing crew members received silver-gilt medals instead; modern gold medals are mostly silver with a gold coating.",
           "sources": [
             {
               "publisher": "Guinness World Records",
@@ -4386,14 +4386,14 @@
               "url": "https://www.gold.org/goldhub/research/rio-2016-gold-sport-winning-combination"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "olympics",
             "medals",
             "gold"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         }
       ]
     },
@@ -4833,14 +4833,14 @@
               "url": "https://www.nps.gov/jica/planyourvisit/the-mighty-peanut.htm"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "peanuts",
             "legumes",
             "botany"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "food-lore-02",
@@ -4867,19 +4867,19 @@
               "url": "https://conservatory.ucdavis.edu/collections/tropical/vanilla"
             },
             {
-              "publisher": "Smithsonian Gardens",
-              "title": "Orchid Innovation: The Vanilla Orchid",
-              "url": "https://gardens.si.edu/exhibitions/connective-power-of-orchids/section-4-orchid-innovation-the-vanilla-orchid/"
+              "publisher": "Royal Botanic Gardens, Kew",
+              "title": "Vanilla",
+              "url": "https://www.kew.org/plants/vanilla"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "vanilla",
             "orchids",
             "spices"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "food-lore-03",
@@ -4911,14 +4911,14 @@
               "url": "https://cpi.nmsu.edu/_assets/documents/H240.pdf"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "chiles",
             "capsaicin",
             "cooking"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "food-lore-04",
@@ -4950,14 +4950,14 @@
               "url": "https://nutritionsource.hsph.harvard.edu/food-features/dark-chocolate/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "chocolate",
             "cocoa",
             "ingredients"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "food-lore-05",
@@ -4989,14 +4989,14 @@
               "url": "https://www.smithsonianmag.com/arts-culture/hail-caesarthe-birthplace-of-the-famous-salad-closes-69245867/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "caesar-salad",
             "tijuana",
             "food-history"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "food-lore-06",
@@ -5028,14 +5028,14 @@
               "url": "https://ag.purdue.edu/news/2020/02/whats-under-the-shell-of-this-popular-snack.html"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "popcorn",
             "steam",
             "pressure"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "food-lore-07",
@@ -5067,14 +5067,14 @@
               "url": "https://library.ucdavis.edu/exhibit/brewed-awakening/from-bean-to-brand/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "coffee",
             "fruit",
             "seeds"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "food-lore-08",
@@ -5101,19 +5101,19 @@
               "url": "https://pubs.acs.org/doi/10.1021/ed076p624"
             },
             {
-              "publisher": "Scientific American",
-              "title": "Solidifying Science: Why Can Certain Fruits Ruin Your Gelatin Dessert?",
-              "url": "https://www.scientificamerican.com/article/bring-science-home-fruit-gelatin/"
+              "publisher": "University of California, Santa Barbara ScienceLine",
+              "title": "Why can't you put pineapple pieces into jello?",
+              "url": "https://scienceline.ucsb.edu/getkey.php?key=1968"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "pineapple",
             "gelatin",
             "bromelain"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "food-lore-09",
@@ -5145,14 +5145,14 @@
               "url": "https://extension.illinois.edu/blogs/simply-nutritious-quick-and-delicious/2018-08-31-it-ketchup-or-catsup"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "ketchup",
             "fermentation",
             "condiments"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "food-lore-10",
@@ -5171,7 +5171,7 @@
           "correctIndex": 1,
           "canonicalAnswer": "The lacy seed covering",
           "revealHeadline": "Mace is the red aril surrounding the nutmeg seed.",
-          "explanation": "Nutmeg is the seed, while mace is the red, netlike aril around it. The two structures are separated and dried to produce distinct spices.",
+          "explanation": "Nutmeg is the seed, while mace is the red, netlike aril covering it. The two parts are separated and dried to make distinct spices.",
           "sources": [
             {
               "publisher": "Royal Botanic Gardens, Kew",
@@ -5184,14 +5184,14 @@
               "url": "https://www.missouribotanicalgarden.org/Portals/0/Education/Students%20and%20Teachers/PDFs/tropfeastbooklet.pdf"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "nutmeg",
             "mace",
             "spices"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         }
       ]
     },
@@ -5631,14 +5631,14 @@
               "url": "https://indianexpress.com/article/lifestyle/fashion/jeans-tiny-pockets-on-top-of-regular-ones-9700282/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "jeans",
             "design",
             "watches"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "everyday-object-secrets-02",
@@ -5660,9 +5660,9 @@
           "explanation": "Graphite produces the mark, while clay controls hardness and strength. The term “lead” reflects an early misidentification; metallic lead is not part of the core.",
           "sources": [
             {
-              "publisher": "U.S. Geological Survey",
-              "title": "Earth Materials Scavenger Hunt Activity",
-              "url": "https://www.usgs.gov/educational-resources/earth-materials-scavenger-hunt-activity"
+              "publisher": "STAEDTLER",
+              "title": "Pencils and accessories",
+              "url": "https://www.staedtler.com/th/en/products/pencils-and-accessories/"
             },
             {
               "publisher": "American Chemical Society",
@@ -5670,14 +5670,14 @@
               "url": "https://www.acs.org/education/whatischemistry/adventures-in-chemistry/secret-science-stuff/pencil.html"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "pencils",
             "materials",
             "graphite"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "everyday-object-secrets-03",
@@ -5709,14 +5709,14 @@
               "url": "https://www.colorado.edu/irocc/sites/default/files/attached-files/computer_literacy_training_for_esl_and_front_line_service_workers-_full_submission_including_appendix.pdf"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "keyboards",
             "typing",
             "accessibility"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "everyday-object-secrets-04",
@@ -5730,32 +5730,32 @@
             "Keep ink from drying",
             "Stop the cap cracking",
             "Balance writing pressure",
-            "Let air pass if swallowed"
+            "Allow airflow if inhaled"
           ],
           "correctIndex": 3,
-          "canonicalAnswer": "Let air pass if swallowed",
+          "canonicalAnswer": "Allow airflow if inhaled",
           "revealHeadline": "The opening can maintain airflow if the cap is inhaled.",
-          "explanation": "Safety standards reduce asphyxiation risk by requiring certain small caps to be ventilated or too large to swallow. A ventilated cap can preserve some airflow if it is inhaled.",
+          "explanation": "The opening can leave an air passage if a child inhales a cap and it lodges in the throat. Ventilated caps are designed to reduce asphyxiation risk while help arrives.",
           "sources": [
             {
-              "publisher": "International Organization for Standardization",
-              "title": "ISO 11540:2021 — Specification for Caps to Reduce the Risk of Asphyxiation",
-              "url": "https://www.iso.org/standard/81889.html?browse=ics"
+              "publisher": "BUSSE Design + Engineering",
+              "title": "STABILO Cappi — Design and Safety",
+              "url": "https://busse-design.com/en/references/stabilo-cappi-the-fiber-tip-pen-with-a-special-design-and-captive-cap/"
             },
             {
               "publisher": "Google Patents",
-              "title": "Safety Cap for a Ball Point Pen",
+              "title": "Safety cap for a ball point pen — GB2218381A",
               "url": "https://patents.google.com/patent/GB2218381A/en"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "pens",
             "safety",
             "design"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "everyday-object-secrets-05",
@@ -5787,14 +5787,14 @@
               "url": "https://www.michelinman.com/auto/auto-tips-and-advice/tire-damage/tread-problems/symptom-bar-across-tread"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "tires",
             "cars",
             "safety"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "everyday-object-secrets-06",
@@ -5826,14 +5826,14 @@
               "url": "https://www.dir.ca.gov/title8/3126_2.html"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "escalators",
             "safety",
             "design"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "everyday-object-secrets-07",
@@ -5865,14 +5865,14 @@
               "url": "https://products.geappliances.com/appliance/gea-support-search-content?contentId=17332"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "microwaves",
             "physics",
             "kitchens"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "everyday-object-secrets-08",
@@ -5904,14 +5904,14 @@
               "url": "https://www.nissanusa.com/content/dam/Nissan/us/manuals-and-guides/rogue/2021/2021-nissan-rogue-owner-manual.pdf"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "cars",
             "dashboards",
             "fuel"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "everyday-object-secrets-09",
@@ -5943,14 +5943,14 @@
               "url": "https://patents.google.com/patent/US1973843A/en"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "tools",
             "measurement",
             "engineering"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         },
         {
           "id": "everyday-object-secrets-10",
@@ -5972,24 +5972,24 @@
           "explanation": "People once clipped valuable silver or gold from smooth coin edges. Milled or reeded patterns made missing metal visible and helped deter the practice.",
           "sources": [
             {
-              "publisher": "Federal Reserve Bank of New York",
-              "title": "Crisis Chronicles: The 'Not So Great' Re-Coinage of 1696",
-              "url": "https://libertystreeteconomics.newyorkfed.org/2013/09/crisis-chronicles-the-not-so-great-re-coinage-of-1696/"
+              "publisher": "The Royal Mint",
+              "title": "Behind the Design: The Milled Edge Motif",
+              "url": "https://886.royalmint.com/blogs/the-journal/the-milled-edge-motif"
             },
             {
               "publisher": "Numismatic Guaranty Company",
-              "title": "'Reed' All About It",
+              "title": "“Reed” All About It",
               "url": "https://www.ngccoin.com/news/article/851/"
             }
           ],
-          "sourceCheckedAt": "2026-08-27",
+          "sourceCheckedAt": "2026-10-17",
           "volatility": "evergreen",
           "tags": [
             "coins",
             "money",
             "anti-tampering"
           ],
-          "editorialStatus": "assistant_reviewed"
+          "editorialStatus": "independently_recertified"
         }
       ]
     },
