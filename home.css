@@ -438,7 +438,7 @@ h1 {
 .answer-panel .button { margin-top: 7px; }
 
 .modes-section { border-block: 1px solid var(--outline); background: var(--surface-strong); }
-.mode-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-bottom: 30px; }
+.mode-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 30px; }
 .mode-grid article { position: relative; min-height: 180px; padding: 28px; overflow: hidden; border: 1px solid var(--outline); border-radius: 18px; background: var(--canvas); }
 .mode-grid article > span { color: var(--berry); font-size: 1.55rem; font-weight: 900; }
 .mode-grid article:nth-child(2) > span { color: var(--grape); }
