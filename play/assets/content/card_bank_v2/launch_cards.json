@@ -3098,7 +3098,7 @@
           "correctIndex": 1,
           "canonicalAnswer": "Dirt and varnish darkened it",
           "revealHeadline": "Dirt and darkened varnish made the daytime scene appear nocturnal.",
-          "explanation": "Layers of dirt and darkened varnish made the daytime scene look nocturnal, which helped the later title persist. Cleaning revealed a militia company moving into daylight.",
+          "explanation": "As the varnish discolored, viewers mistook the scene for a night patrol. Rijksmuseum conservators are removing old varnish to reveal the vibrancy of Rembrandt’s colors.",
           "sources": [
             {
               "publisher": "City of Amsterdam",
@@ -3106,9 +3106,9 @@
               "url": "https://www.amsterdam.nl/nieuws/achtergrond/collectie-nachtwacht/"
             },
             {
-              "publisher": "Smarthistory",
-              "title": "Rembrandt, The Night Watch",
-              "url": "https://smarthistory.org/rembrandt-the-night-watch/"
+              "publisher": "Rijksmuseum",
+              "title": "How We Are Removing Varnish From The Night Watch",
+              "url": "https://www.rijksmuseum.nl/en/story/how-we-are-removing-varnish-from-the-night-watch"
             }
           ],
           "sourceCheckedAt": "2026-08-27",
@@ -3271,9 +3271,9 @@
               "url": "https://americanhistory.si.edu/collections/object/nmah_670130"
             },
             {
-              "publisher": "Associated Press",
-              "title": "The Ruby Slippers Return to the Smithsonian",
-              "url": "https://apnews.com/article/d615cedccd7af53c90fb54278ed42d61"
+              "publisher": "Library of Congress",
+              "title": "To See the Wizard",
+              "url": "https://www.loc.gov/exhibits/oz/ozsect2.html"
             }
           ],
           "sourceCheckedAt": "2026-08-27",
@@ -7933,9 +7933,9 @@
               "url": "https://www.nps.gov/dena/learn/nature/amphibians.htm"
             },
             {
-              "publisher": "Yale Peabody Museum",
-              "title": "Frozen Frogs and Climate Change",
-              "url": "https://peabody.yale.edu/article/frozen-frogs-climate-change"
+              "publisher": "American Journal of Physiology",
+              "title": "Freezing-induced changes in the heart rate of wood frogs",
+              "url": "https://journals.physiology.org/doi/10.1152/ajpregu.1989.257.5.R1046"
             }
           ],
           "sourceCheckedAt": "2026-08-27",
